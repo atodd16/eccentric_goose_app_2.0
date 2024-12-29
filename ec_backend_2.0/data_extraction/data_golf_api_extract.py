@@ -1,4 +1,4 @@
-# this script uses the data_files golf api to extract 3 primary data_files sources 1.) player+data_files 2.) event_data 3.) performance_data
+# this script uses the data_files golf api to extract 3 primary data_files sources 1.) player_data_files 2.) event_data 3.) performance_data
 
 import requests
 import pandas as pd
