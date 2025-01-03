@@ -1,0 +1,2283 @@
+,Unnamed: 0,calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats,distinct_event_id
+0,0,2024,2024-12-22,10689,Tata Steel Tour Championship,no,pgti,no,1
+1,1,2024,2024-12-22,2025104,AfrAsia Bank Mauritius Open,no,euro,no,2
+2,2,2024,2024-12-15,2025103,Alfred Dunhill Championship,no,euro,no,3
+3,3,2024,2024-12-15,88,PGA TOUR Q-School presented by Korn Ferry,no,pga,basic,4
+4,4,2024,2024-12-15,10684,China Tour Championship,no,chn,no,5
+5,5,2024,2024-12-14,10687,Jaguar Golf Open,no,mex,no,6
+6,6,2024,2024-12-14,38,Promotions Event,no,liv,no,7
+7,7,2024,2024-12-13,10685,Vishwa Samudra Open presented by Kapil Dev,no,pgti,no,8
+8,8,2024,2024-12-08,478,Hero World Challenge,yes,pga,yes,9
+9,9,2024,2024-12-08,2025102,Nedbank Golf Challenge,no,euro,no,10
+10,10,2024,2024-12-08,10682,Victorian PGA Championship,no,anz,no,11
+11,11,2024,2024-12-07,10681,PIF Saudi International powered by SoftBank Investment Advisers,no,asa,no,12
+12,12,2024,2024-12-01,10673,Golf Nippon Series JT Cup,no,jpn,no,13
+13,13,2024,2024-12-01,2025101,ISPS Handa Australian Open,no,euro,no,14
+14,14,2024,2024-12-01,10674,Chongqing Open,no,chn,no,15
+15,15,2024,2024-11-30,10675,International Series Qatar,no,asa,no,16
+16,16,2024,2024-11-30,10676,Aramco Invitational Tournament,no,adt,no,17
+17,17,2024,2024-11-28,10678,Betway Big Easy Tour 8,no,bet,no,18
+18,18,2024,2024-11-24,10671,PGA Championship,no,afr,no,19
+19,19,2024,2024-11-24,10667,LINK Hong Kong Open,no,asa,no,20
+20,20,2024,2024-11-24,10665,Casio World Open Golf Tournament,no,jpn,no,21
+21,21,2024,2024-11-24,2025100,BMW Australian PGA Championship,no,euro,no,22
+22,22,2024,2024-11-24,493,The RSM Classic,yes,pga,yes,23
+23,23,2024,2024-11-24,10666,Straits Cup Xiamen Open,no,chn,no,24
+24,24,2024,2024-11-23,10668,Toyota Tour Championship,no,adt,no,25
+25,25,2024,2024-11-23,10669,IndianOil Servo Masters Golf,no,pgti,no,26
+26,26,2024,2024-11-21,10672,Betway Big Easy Tour 7,no,bet,no,27
+27,27,2024,2024-11-17,2024142,DP World Tour Championship,no,euro,no,28
+28,28,2024,2024-11-17,10659,Taiwan Glass Taifong Open,no,asa,no,29
+29,29,2024,2024-11-17,528,Butterfield Bermuda Championship,no,pga,basic,30
+30,30,2024,2024-11-17,10661,52nd Thailand Open,no,atgt,no,31
+31,31,2024,2024-11-17,10663,Vodacom Origins of Golf Final Oubaai,no,afr,no,32
+32,32,2024,2024-11-17,10662,NSW Open,no,anz,no,33
+33,33,2024,2024-11-17,10658,Dunlop Phoenix Tournament,no,jpn,no,34
+34,34,2024,2024-11-16,10660,Rajasthan Tourism presents Jaipur Open,no,pgti,no,35
+35,35,2024,2024-11-13,2024714,DP World Tour Qualifying (Final Stage),no,euro,no,36
+36,36,2024,2024-11-10,10650,Hengdian Celebrity Pro-Am Golf Championship,no,chn,no,37
+37,37,2024,2024-11-10,10649,Mitsui Sumitomo VISA Taiheiyo Masters,no,jpn,no,38
+38,38,2024,2024-11-10,2024141,Abu Dhabi HSBC Championship,no,euro,no,39
+39,39,2024,2024-11-10,457,World Wide Technology Championship,no,pga,basic,40
+40,40,2024,2024-11-10,10654,KPGA Tour Championship,no,kor,no,41
+41,41,2024,2024-11-10,10653,Singha Classic,no,atgt,no,42
+42,42,2024,2024-11-10,539,Charles Schwab Cup Championship,no,champ,no,43
+43,43,2024,2024-11-09,10652,The Poona Club Open,no,pgti,no,44
+44,44,2024,2024-11-09,10651,Ambassador ADT Open,no,adt,no,45
+45,45,2024,2024-11-07,10655,Betway Big Easy Tour 6,no,bet,no,46
+46,46,2024,2024-11-03,2024324,Rolex Challenge Tour Grand Final supported by the R&A,no,cha,no,47
+47,47,2024,2024-11-03,10642,Dong-A Membership Exchange Group OPEN,no,kor,no,48
+48,48,2024,2024-11-03,10640,Ruiquan Golf Cup Wuyishan International Open,no,chn,no,49
+49,49,2024,2024-11-03,10643,Queensland PGA Championship,no,anz,no,50
+50,50,2024,2024-11-03,10641,BNI Indonesian Masters,no,asa,no,51
+51,51,2024,2024-11-02,10645,VI Copa Multimedios,no,mex,no,52
+52,52,2024,2024-10-27,10636,Webex Players Series SA hosted by Greg Blewett,no,anz,no,53
+53,53,2024,2024-10-27,9,Simmons Bank Championship,no,champ,no,54
+54,54,2024,2024-10-27,10634,International Series Thailand,no,asa,no,55
+55,55,2024,2024-10-27,2024118,Genesis Championship,no,euro,no,56
+56,56,2024,2024-10-27,527,ZOZO CHAMPIONSHIP,yes,pga,yes,57
+57,57,2024,2024-10-26,10638,Bajío Open,no,mex,no,58
+58,58,2024,2024-10-26,10635,J&K Open presented by J&K Tourism,no,pgti,no,59
+59,59,2024,2024-10-24,10637,Betway Big Easy Tour 5,no,bet,no,60
+60,60,2024,2024-10-20,10628,Haryana Open,no,pgti,no,61
+61,61,2024,2024-10-20,10631,Fortress Invitational,no,afr,no,62
+62,62,2024,2024-10-20,623,Dominion Energy Charity Classic,no,champ,no,63
+63,63,2024,2024-10-20,47,Shriners Children's Open,yes,pga,yes,64
+64,64,2024,2024-10-20,10629,The Charity Classic,no,kor,no,65
+65,65,2024,2024-10-20,2024329,Hangzhou Open,no,cha,no,66
+66,66,2024,2024-10-20,10630,Bowra & O'Dea Nexus Advisernet WA Open,no,anz,no,67
+67,67,2024,2024-10-20,10627,Black Mountain Championship,no,asa,no,68
+68,68,2024,2024-10-20,2024139,Estrella Damm N.A. Andalucía  Masters,no,euro,no,69
+69,69,2024,2024-10-18,10624,Road to Europe Final by Royal Unibrew,no,ngl,no,70
+70,70,2024,2024-10-18,10626,Delight Works JGTO FINAL,no,atvt,no,71
+71,71,2024,2024-10-18,10623,Alps Tour Grand Final Presented by DEPOT - The Male Tools & Co,no,alp,no,72
+72,72,2024,2024-10-13,10617,Baeksong Holdings-Asiad CC Busan Open,no,kor,no,73
+73,73,2024,2024-10-13,2024328,Hainan Open,no,cha,no,74
+74,74,2024,2024-10-13,554,Black Desert Championship,yes,pga,yes,75
+75,75,2024,2024-10-13,10618,CKB WA PGA Championship presented by TX Civil & Logistics,no,anz,no,76
+76,76,2024,2024-10-13,10616,SJM Macao Open,no,asa,no,77
+77,77,2024,2024-10-13,10614,Japan Open Golf Championship,no,jpn,no,78
+78,78,2024,2024-10-13,609,SAS Championship,no,champ,no,79
+79,79,2024,2024-10-13,10619,Vodacom Origins of Golf - Wild Coast,no,afr,no,80
+80,80,2024,2024-10-13,2024138,FedEx Open de France,no,euro,no,81
+81,81,2024,2024-10-12,10611,Croara Alps Open,no,alp,no,82
+82,82,2024,2024-10-10,10620,Destination Gotland Open,no,ngl,no,83
+83,83,2024,2024-10-09,10612,Tour Championship - Trump International,no,tpt,no,84
+84,84,2024,2024-10-06,44,Constellation FURYK & FRIENDS,no,champ,no,85
+85,85,2024,2024-10-06,2024137,Alfred Dunhill Links Championship,no,euro,no,86
+86,86,2024,2024-10-06,54,Sanderson Farms Championship,yes,pga,yes,87
+87,87,2024,2024-10-06,10605,Mercuries Taiwan Masters,no,asa,no,88
+88,88,2024,2024-10-06,10607,Hyundai Marine & Fire Insurance KJ Choi Invitational,no,kor,no,89
+89,89,2024,2024-10-06,10603,ACN Championship Golf Tournament,no,jpn,no,90
+90,90,2024,2024-10-06,45,Korn Ferry Tour Championship presented by United Leasing & Finance,no,kft,no,91
+91,91,2024,2024-10-05,10606,Vizag Open,no,pgti,no,92
+92,92,2024,2024-10-05,2024313,D+D Real Czech Challenge,no,cha,no,93
+93,93,2024,2024-10-04,10604,Ryo Ishikawa everyone PROJECT Challenge,no,atvt,no,94
+94,94,2024,2024-10-04,10608,SunBet Challenge hosted by Sun Sibaya,no,afr,no,95
+95,95,2024,2024-10-02,10599,Castanea Resort Championship,no,pgt,no,96
+96,96,2024,2024-09-29,2024136,acciona Open de España presented by Madrid,no,euro,no,97
+97,97,2024,2024-09-29,2024334,Swiss Challenge,no,cha,no,98
+98,98,2024,2024-09-29,10594,Yeangder TPC,no,asa,no,99
+99,99,2024,2024-09-29,10595,IGPL presents Telangana Golconda Masters powered by DSR,no,pgti,no,100
+100,100,2024,2024-09-29,10590,Vantelin Tokai Classic,no,jpn,no,101
+101,101,2024,2024-09-29,10592,Shandong Cultural and Tourism Jinan Open,no,chn,no,102
+102,102,2024,2024-09-28,10593,ADT Players Championship presented by The R&A,no,adt,no,103
+103,103,2024,2024-09-27,10587,Titleist Championship,no,ngl,no,104
+104,104,2024,2024-09-27,10591,elite grips challenge,no,atvt,no,105
+105,105,2024,2024-09-26,10588,Royal Norwich,no,cpt,no,106
+106,106,2024,2024-09-26,10596,Betway Big Easy Tour 4,no,bet,no,107
+107,107,2024,2024-09-25,10589,Gleneagles Masters presented by Insights,no,tpt,no,108
+108,108,2024,2024-09-22,616,PURE Insurance Championship,no,champ,no,109
+109,109,2024,2024-09-22,2024135,BMW PGA Championship,no,euro,no,110
+110,110,2024,2024-09-22,37,Dallas (Team Final—Stroke Play),no,liv,no,111
+111,111,2024,2024-09-22,2024333,Italian Challenge Open,no,cha,no,112
+112,112,2024,2024-09-22,94,Nationwide Children's Hospital Championship,no,kft,no,113
+113,113,2024,2024-09-22,10583,Vodacom Origins of Golf - Sishen,no,afr,no,114
+114,114,2024,2024-09-22,10582,Panasonic Open Golf Championship,no,jpn,no,115
+115,115,2024,2024-09-19,10580,Great Northern Challenge,no,ngl,no,116
+116,116,2024,2024-09-18,10584,St Andrews Classic presented by Fugro,no,tpt,no,117
+117,117,2024,2024-09-15,36,Chicago,no,liv,basic,118
+118,118,2024,2024-09-15,2024134,Amgen Irish Open,no,euro,no,119
+119,119,2024,2024-09-15,464,Procore Championship,yes,pga,yes,120
+120,120,2024,2024-09-15,2024327,Open de Portugal at Royal Óbidos,no,cha,no,121
+121,121,2024,2024-09-15,23,Sanford International,no,champ,no,122
+122,122,2024,2024-09-15,120,Simmons Bank Open for the Snedeker Foundation,no,kft,no,123
+123,123,2024,2024-09-15,10575,Singha-SAT MBK Championship,no,atgt,no,124
+124,124,2024,2024-09-15,10576,Golfzon-Toray OPEN,no,kor,no,125
+125,125,2024,2024-09-15,10573,ANA Open Golf Tournament,no,jpn,no,126
+126,126,2024,2024-09-14,10568,Hauts de France-Pas de Calais Golf Open,no,alp,no,127
+127,127,2024,2024-09-13,10574,The Indonesia Pro-Am presented by Combiphar & Nomura,no,adt,no,128
+128,128,2024,2024-09-13,10569,H2O x Danish.Golf,no,ngl,no,129
+129,129,2024,2024-09-12,10570,Harleyford,no,cpt,no,130
+130,130,2024,2024-09-08,10560,40th Shinhan Donghae Open,no,asa,no,131
+131,131,2024,2024-09-08,625,Ascension Charity Classic,no,champ,no,132
+132,132,2024,2024-09-08,2024321,Big Green Egg German Challenge powered by VcG,no,cha,no,133
+133,133,2024,2024-09-08,16,Fortinet Cup Championship,no,pta,no,134
+134,134,2024,2024-09-08,10563,Singha Bangkok Open,no,atgt,no,135
+135,135,2024,2024-09-08,2024133,Omega European Masters,no,euro,no,136
+136,136,2024,2024-09-07,10565,HIDALGO - Amanali Country Club,no,mex,no,137
+137,137,2024,2024-09-07,10555,Longwy Alps Open,no,alp,no,138
+138,138,2024,2024-09-06,10561,PGM Challenge,no,atvt,no,139
+139,139,2024,2024-09-05,10558,MacDonald Spey Valley Masters presented by The Mackay Clinic,no,tpt,no,140
+140,140,2024,2024-09-04,10557,Kedleston Park,no,cpt,no,141
+141,141,2024,2024-09-01,10549,Mandiri Indonesia Open,no,asa,no,142
+142,142,2024,2024-09-01,10547,Fujisankei Classic,no,jpn,no,143
+143,143,2024,2024-09-01,2024132,Betfred British Masters hosted by Sir Nick Faldo,no,euro,no,144
+144,144,2024,2024-09-01,15,CRMC Championship presented by Gertens,no,pta,no,145
+145,145,2024,2024-09-01,60,TOUR Championship,yes,pga,yes,146
+146,146,2024,2024-09-01,10551,Lexus Masters,no,kor,no,147
+147,147,2024,2024-09-01,2024336,Rosa Challenge Tour,no,cha,no,148
+148,148,2024,2024-08-31,10548,DUNLOP PHOENIX tournament challenge in Fukushima,no,atvt,no,149
+149,149,2024,2024-08-31,10550,BRG Open Golf Championship,no,adt,no,150
+150,150,2024,2024-08-30,10552,Gary & Vivienne Player Challenge,no,afr,no,151
+151,151,2024,2024-08-30,10544,Footjoy Finnish Swing by Kankaisten Golf,no,ngl,no,152
+152,152,2024,2024-08-29,10543,Stippelberg Open,no,pgt,no,153
+153,153,2024,2024-08-25,22,The Ally Challenge,no,champ,no,154
+154,154,2024,2024-08-25,28,BMW Championship,yes,pga,yes,155
+155,155,2024,2024-08-25,2024320,Indoor Golf Group Challenge,no,cha,no,156
+156,156,2024,2024-08-25,27,Albertsons Boise Open presented Chevron,no,kft,no,157
+157,157,2024,2024-08-25,14,CentrePort Canada Rail Park Manitoba Open,no,pta,no,158
+158,158,2024,2024-08-25,10536,Sansan KBC Augusta Golf Tournament,no,jpn,no,159
+159,159,2024,2024-08-25,2024145,Danish Golf Championship,no,euro,no,160
+160,160,2024,2024-08-24,10537,BNI Ciputra Golfpreneur Tournament,no,adt,no,161
+161,161,2024,2024-08-24,10530,Timberwise Finnish Open,no,ngl,no,162
+162,162,2024,2024-08-23,10529,Mono Gelpenberg Open,no,pgt,no,163
+163,163,2024,2024-08-23,10539,SunBet Challenge Times Square Casino,no,afr,no,164
+164,164,2024,2024-08-23,10538,Chennai Open,no,pgti,no,165
+165,165,2024,2024-08-22,10531,Frilford Heath - Blue,no,cpt,no,166
+166,166,2024,2024-08-21,10532,Leven Links Classic presented by Petrasco,no,tpt,no,167
+167,167,2024,2024-08-18,10524,Singha Pattaya Open,no,atgt,no,168
+168,168,2024,2024-08-18,10525,PNG Open,no,anz,no,169
+169,169,2024,2024-08-18,10526,Vodacom Origins of Golf - Highland Gate Mpumalanga,no,afr,no,170
+170,170,2024,2024-08-18,2024358,Vierumäki Finnish Challenge supported by Finnish Golf Union,no,cha,no,171
+171,171,2024,2024-08-18,168,Magnit Championship,no,kft,no,172
+172,172,2024,2024-08-18,17,Rogers Charity Classic,no,champ,no,173
+173,173,2024,2024-08-18,13,Elk Ridge Saskatchewan Open presented by Lake Country Co-Op,no,pta,no,174
+174,174,2024,2024-08-18,35,Greenbrier,no,liv,no,175
+175,175,2024,2024-08-18,27,FedEx St. Jude Championship,yes,pga,yes,176
+176,176,2024,2024-08-18,2024144,D+D REAL Czech Masters,no,euro,no,177
+177,177,2024,2024-08-17,10517,Staan Open,no,pgt,no,178
+178,178,2024,2024-08-17,10523,KGiSL Presents Coimbatore Open Powered by Prima Donna,no,pgti,no,179
+179,179,2024,2024-08-16,10518,Skåne Challenge by Big Green Egg,no,ngl,no,180
+180,180,2024,2024-08-16,10519,Mannings Heath,no,cpt,no,181
+181,181,2024,2024-08-11,10509,Yokohama Minato Championship Fujiki Centennial,no,jpn,no,182
+182,182,2024,2024-08-11,10510,Wuhan Modern·Land Beyond Sky Open,no,chn,no,183
+183,183,2024,2024-08-11,619,Boeing Classic,no,champ,no,184
+184,184,2024,2024-08-11,10513,Singha all Thailand Memorial,no,atgt,no,185
+185,185,2024,2024-08-11,10512,Mysuru Open hosted by JWGC,no,pgti,no,186
+186,186,2024,2024-08-11,2024319,Farmfoods Scottish Challenge supported by the R&A,no,cha,no,187
+187,187,2024,2024-08-11,123,Pinnacle Bank Championship presented by Woodhouse,no,kft,no,188
+188,188,2024,2024-08-11,13,Wyndham Championship,yes,pga,yes,189
+189,189,2024,2024-08-11,10511,International Series England,no,asa,no,190
+190,190,2024,2024-08-09,10505,Forsbacka Open by Folksam,no,ngl,no,191
+191,191,2024,2024-08-09,10540,Mexico City Open,no,mex,no,192
+192,192,2024,2024-08-08,10506,St Mellion,no,cpt,no,193
+193,193,2024,2024-08-07,10514,Betway Big Easy Tour 3,no,bet,no,194
+194,194,2024,2024-08-04,2024318,Irish Challenge,no,cha,no,195
+195,195,2024,2024-08-04,12,BioSteel Championship,no,pta,no,196
+196,196,2024,2024-08-04,26,Utah Championship presented by Zions Bank,no,kft,no,197
+197,197,2024,2024-08-04,519,Olympic Men's Golf Competition,yes,pga,yes,198
+198,198,2024,2024-08-03,10503,FNB Eswatini Challenge at Nkonyeni,no,afr,no,199
+199,199,2024,2024-08-02,10498,Esbjerg Open by FREJA,no,ngl,no,200
+200,200,2024,2024-08-01,10499,Redditch,no,cpt,no,201
+201,201,2024,2024-07-30,10500,Blairgowrie Perthshire Masters presented by Alistair Brown International,no,tpt,no,202
+202,202,2024,2024-07-28,10494,Singha Chiang Mai Open,no,atgt,no,203
+203,203,2024,2024-07-28,2024317,Black Desert NI Open presented by Tom McKibbin,no,cha,no,204
+204,204,2024,2024-07-28,131,NV5 Invitational presented by Old National Bank,no,kft,no,205
+205,205,2024,2024-07-28,11,Commissionaires Ottawa Open,no,pta,no,206
+206,206,2024,2024-07-28,525,3M Open,yes,pga,yes,207
+207,207,2024,2024-07-28,614,The Senior Open Championship presented by Rolex,no,champ,no,208
+208,208,2024,2024-07-28,34,United Kingdom,no,liv,basic,209
+209,209,2024,2024-07-26,10495,SunBet Challenge hosted by Wild Coast Sun,no,afr,no,210
+210,210,2024,2024-07-26,10493,Minami Akita CC Michinoku Challenge Tournament,no,atvt,no,211
+211,211,2024,2024-07-26,10489,Holtsmark Open,no,ngl,no,212
+212,212,2024,2024-07-24,10488,Fairway Labs Open,no,pgt,no,213
+213,213,2024,2024-07-21,472,Barracuda Championship,yes,pga,basic,214
+214,214,2024,2024-07-21,10,Bromont Open presented by Desjardins,no,pta,no,215
+215,215,2024,2024-07-21,2024326,Euram Bank Open,no,cha,no,216
+216,216,2024,2024-07-21,22,Price Cutter Charity Championship presented by Dr Pepper,no,kft,no,217
+217,217,2024,2024-07-21,100,The Open Championship,yes,pga,yes,218
+218,218,2024,2024-07-19,10484,Slaley Hall,no,cpt,no,219
+219,219,2024,2024-07-18,10486,Betway Big Easy Tour 2,no,bet,no,220
+220,220,2024,2024-07-17,10485,Nairn Dunbar Classic presented by Glen Moray,no,tpt,no,221
+221,221,2024,2024-07-14,518,ISCO Championship,yes,pga,yes,222
+222,222,2024,2024-07-14,10476,Shigeo Nagashima Invitational Sega Sammy Cup Golf Tournament,no,jpn,no,223
+223,223,2024,2024-07-14,33,Andalucia,no,liv,basic,224
+224,224,2024,2024-07-14,9,Explore NB Open,no,pta,no,225
+225,225,2024,2024-07-14,541,Genesis Scottish Open,yes,pga,yes,226
+226,226,2024,2024-07-14,507,Kaulig Companies Championship,no,champ,no,227
+227,227,2024,2024-07-14,130,The Ascendant presented by Blue,no,kft,no,228
+228,228,2024,2024-07-14,10477,KPGA Gunsan CC Open,no,kor,no,229
+229,229,2024,2024-07-13,10470,Alps de Las Castillas,no,alp,no,230
+230,230,2024,2024-07-12,10478,Ladybank Masters presented by Piper Sandler,no,tpt,no,231
+231,231,2024,2024-07-12,10471,Göteborg Open by Capio Ögon,no,ngl,no,232
+232,232,2024,2024-07-11,10472,Studley Wood,no,cpt,no,233
+233,233,2024,2024-07-07,30,John Deere Classic,yes,pga,yes,234
+234,234,2024,2024-07-07,10467,Japan PGA Championship,no,jpn,no,235
+235,235,2024,2024-07-07,2024126,BMW International Open,no,euro,no,236
+236,236,2024,2024-07-07,10468,International Series Morocco,no,asa,no,237
+237,237,2024,2024-07-05,10462,Alps de Andalucia,no,alp,no,238
+238,238,2024,2024-07-05,10464,OnTee Grand Prix,no,ngl,no,239
+239,239,2024,2024-07-05,10463,Gradi Polish Open by Emeralld,no,pgt,no,240
+240,240,2024,2024-07-04,10465,Schloss Roxburghe Masters presented by Martin Gilbert,no,tpt,no,241
+241,241,2024,2024-06-30,512,U.S. Senior Open Championship,no,champ,no,242
+242,242,2024,2024-06-30,2024125,Italian Open presented by Regione Emilia-Romagna,no,euro,no,243
+243,243,2024,2024-06-30,8,ATB Classic,no,pta,no,244
+244,244,2024,2024-06-30,122,Memorial Health Championship presented by LRS,no,kft,no,245
+245,245,2024,2024-06-30,524,Rocket Mortgage Classic,yes,pga,yes,246
+246,246,2024,2024-06-30,2024332,Le Vaudreuil Golf Challenge,no,cha,no,247
+247,247,2024,2024-06-30,10459,Bizplay-One the Club Open with Club 72,no,kor,no,248
+248,248,2024,2024-06-29,10452,Aravell Golf Andorra Open by Creand,no,alp,no,249
+249,249,2024,2024-06-29,10454,PGA Championship Landeryd Masters,no,ngl,no,250
+250,250,2024,2024-06-27,10455,Newmachar Classic presented by Boskalis,no,tpt,no,251
+251,251,2024,2024-06-27,10460,Betway Big Easy Tour 1,no,bet,no,252
+252,252,2024,2024-06-26,10453,The Cuber Open,no,pgt,no,253
+253,253,2024,2024-06-23,166,Compliance Solutions Championship,no,kft,no,254
+254,254,2024,2024-06-23,2024124,KLM Open,no,euro,no,255
+255,255,2024,2024-06-23,32,Nashville,no,liv,no,256
+256,256,2024,2024-06-23,10447,JAPAN PLAYERS CHAMPIONSHIP by Satosyokuhin,no,jpn,no,257
+257,257,2024,2024-06-23,34,Travelers Championship,yes,pga,yes,258
+258,258,2024,2024-06-23,10448,Kolon The 66th Korea Open,no,asa,no,259
+259,259,2024,2024-06-23,2024331,Blot Open de Bretagne,no,cha,no,260
+260,260,2024,2024-06-23,8,DICK'S Open,no,champ,no,261
+261,261,2024,2024-06-23,7,The Beachlands Victoria Open presented by Times Colonist,no,pta,no,262
+262,262,2024,2024-06-22,10449,PKNS Selangor Masters,no,adt,no,263
+263,263,2024,2024-06-21,10442,Danish Golf Open by Sparekassen Danmark,no,ngl,no,264
+264,264,2024,2024-06-20,10443,The Caversham,no,cpt,no,265
+265,265,2024,2024-06-16,10439,The Mopani Zambia Open,no,afr,no,266
+266,266,2024,2024-06-16,2024330,Kaskáda Golf Challenge,no,cha,no,267
+267,267,2024,2024-06-16,10437,Singha all Thailand Championship,no,atgt,no,268
+268,268,2024,2024-06-16,26,U.S. Open,yes,pga,yes,269
+269,269,2024,2024-06-16,23,Blue Cross and Blue Shield of Kansas Wichita Open,no,kft,no,270
+270,270,2024,2024-06-16,10427,Open de la Mirabelle d'Or,no,alp,no,271
+271,271,2024,2024-06-16,10438,Hana Bank Invitational,no,jpn,no,272
+272,272,2024,2024-06-16,10435,Guangdong Gaoyao Jinli Open,no,chn,no,273
+273,273,2024,2024-06-14,10434,Landic Challenge 11,no,atvt,no,274
+274,274,2024,2024-06-14,10436,Nam A Bank Vietnam Masters,no,adt,no,275
+275,275,2024,2024-06-14,10429,Greatdays Trophy,no,ngl,no,276
+276,276,2024,2024-06-13,10428,The Iron Duke Belgian Open,no,pgt,no,277
+277,277,2024,2024-06-13,10430,The Manor House,no,cpt,no,278
+278,278,2024,2024-06-13,10431,Cardrona Classic presented by Cala Homes,no,tpt,no,279
+279,279,2024,2024-06-09,37,BMW Charity Pro-Am Presented by TD SYNNEX,no,kft,no,280
+280,280,2024,2024-06-09,31,Houston,no,liv,basic,281
+281,281,2024,2024-06-09,10421,BMW Japan Golf Tour Championship Mori Building Cup,no,jpn,no,282
+282,282,2024,2024-06-09,23,the Memorial Tournament presented by Workday,yes,pga,yes,283
+283,283,2024,2024-06-09,2024325,Challenge de Cadiz,no,cha,no,284
+284,284,2024,2024-06-09,622,American Family Insurance Championship,no,champ,no,285
+285,285,2024,2024-06-09,10423,The 67th KPGA Championship with A-ONE CC,no,kor,no,286
+286,286,2024,2024-06-09,2024122,Volvo Car Scandinavian Mixed,no,euro,no,287
+287,287,2024,2024-06-07,10418,Bowood,no,cpt,no,288
+288,288,2024,2024-06-07,10422,Japan Create Challenge in FukuokaRaizan,no,atvt,no,289
+289,289,2024,2024-06-07,10417,Samsø Classic Pro-Am - by Samsø Festival,no,ngl,no,290
+290,290,2024,2024-06-07,10424,SunBet Challenge hosted by Sun City,no,afr,no,291
+291,291,2024,2024-06-05,10416,Royal Homburger Open,no,pgt,no,292
+292,292,2024,2024-06-02,32,RBC Canadian Open,yes,pga,yes,293
+293,293,2024,2024-06-02,608,Principal Charity Classic,no,champ,no,294
+294,294,2024,2024-06-02,48,UNC Health Championship presented by STITCH,no,kft,no,295
+295,295,2024,2024-06-02,10409,Zhengzhou Yellow-River Open,no,chn,no,296
+296,296,2024,2024-06-02,2024121,European Open,no,euro,no,297
+297,297,2024,2024-05-31,10403,Alps de Roquetas de Mar,no,alp,no,298
+298,298,2024,2024-05-31,10404,Smørum Open,no,ngl,no,299
+299,299,2024,2024-05-31,10408,Taiheiyo Club Challenge Tournament,no,atvt,no,300
+300,300,2024,2024-05-30,10405,The Q Hotels Collection Championship at Forest Pines,no,cpt,no,301
+301,301,2024,2024-05-29,10413,Portlethen Classic presented by Entier,no,tpt,no,302
+302,302,2024,2024-05-26,2024120,Soudal Open,no,euro,no,303
+303,303,2024,2024-05-26,10399,Gate Way To The Open Mizuno Open,no,jpn,no,304
+304,304,2024,2024-05-26,11,Visit Knoxville Open,no,kft,no,305
+305,305,2024,2024-05-26,2024312,Danish Golf Challenge,no,cha,no,306
+306,306,2024,2024-05-26,21,Charles Schwab Challenge,yes,pga,yes,307
+307,307,2024,2024-05-26,10401,KitKat Cash & Carry Pro-am,no,afr,no,308
+308,308,2024,2024-05-26,520,KitchenAid Senior PGA Championship,no,champ,no,309
+309,309,2024,2024-05-26,10400,KB Finance Liiv Championship,no,kor,no,310
+310,310,2024,2024-05-25,10394,Lacanau Alps Open,no,alp,no,311
+311,311,2024,2024-05-23,10395,Gamle Fredrikstad Open,no,ngl,no,312
+312,312,2024,2024-05-23,10396,Cumberwell Park,no,cpt,no,313
+313,313,2024,2024-05-19,10390,Kansai Open Golf Championship,no,jpn,no,314
+314,314,2024,2024-05-19,6,Inter Rapidisimo Golf Championship,no,pta,no,315
+315,315,2024,2024-05-19,33,PGA Championship,yes,pga,yes,316
+316,316,2024,2024-05-19,100,AdventHealth Championship,no,kft,no,317
+317,317,2024,2024-05-19,10391,SK telecom OPEN,no,kor,no,318
+318,318,2024,2024-05-18,10385,Gosser Open,no,alp,no,319
+319,319,2024,2024-05-18,10386,Stora Hotellet Fjällbacka Open,no,ngl,no,320
+320,320,2024,2024-05-16,10387,Frilford Heath - Red,no,cpt,no,321
+321,321,2024,2024-05-16,10411,Montrose Links Masters presented by Gym Rental Company,no,tpt,no,322
+322,322,2024,2024-05-12,10380,FBC ZIM Open,no,afr,no,323
+323,323,2024,2024-05-12,10381,Tour Championship,no,mex,no,324
+324,324,2024,2024-05-12,480,Wells Fargo Championship,yes,pga,yes,325
+325,325,2024,2024-05-12,553,Myrtle Beach Classic,yes,pga,yes,326
+326,326,2024,2024-05-12,558,Regions Tradition,no,champ,no,327
+327,327,2024,2024-05-12,10377,For The Players By The Players,no,jpn,no,328
+328,328,2024,2024-05-12,10378,Singha Laguna Phuket Open,no,adt,no,329
+329,329,2024,2024-05-12,2024311,Challenge de España,no,cha,no,330
+330,330,2024,2024-05-10,10374,Memorial Giorgio Bordoni presented by AON,no,alp,no,331
+331,331,2024,2024-05-09,10375,Raiffeisen Pro Golf Tour St. Pölten,no,pgt,no,332
+332,332,2024,2024-05-08,10382,Brocket Hall,no,cpt,no,333
+333,333,2024,2024-05-05,2024116,Volvo China Open,no,euro,no,334
+334,334,2024,2024-05-05,30,Singapore,no,liv,basic,335
+335,335,2024,2024-05-05,5,KIA Open,no,sam,no,336
+336,336,2024,2024-05-05,10368,The Crowns,no,jpn,no,337
+337,337,2024,2024-05-05,10371,ADT - All Thailand Partnership Trophy,no,adt,no,338
+338,338,2024,2024-05-05,615,Insperity Invitational,no,champ,no,339
+339,339,2024,2024-05-05,10370,The 43rd GS Caltex Maekyung Open Golf Championship,no,asa,no,340
+340,340,2024,2024-05-05,19,THE CJ CUP Byron Nelson,yes,pga,yes,341
+341,341,2024,2024-05-05,5,KIA Open,no,pta,no,342
+342,342,2024,2024-05-03,10365,Golfkusten Blekinge by Enkla Elbolaget,no,ngl,no,343
+343,343,2024,2024-05-03,10369,JAPAN PLAYERS CHAMPIONSHIP CHALLENGE in FUKUI,no,atvt,no,344
+344,344,2024,2024-05-02,10372,Heythrop Park,no,cpt,no,345
+345,345,2024,2024-04-28,4,Diners Club Peru Open,no,sam,no,346
+346,346,2024,2024-04-28,29,Adelaide,no,liv,basic,347
+347,347,2024,2024-04-28,10363,Woori Financial Group Championship,no,kor,no,348
+348,348,2024,2024-04-28,4,Diners Club Peru Open,no,pta,no,349
+349,349,2024,2024-04-28,2024117,ISPS HANDA - CHAMPIONSHIP,no,euro,no,350
+350,350,2024,2024-04-28,2024310,UAE Challenge,no,cha,no,351
+351,351,2024,2024-04-28,15,Mitsubishi Electric Classic,no,champ,no,352
+352,352,2024,2024-04-28,137,Veritex Bank Championship,no,kft,no,353
+353,353,2024,2024-04-27,10356,Tunisian Golf Open,no,alp,no,354
+354,354,2024,2024-04-26,10358,Bravo Tours Open by Enjoy Resorts,no,ngl,no,355
+355,355,2024,2024-04-26,10362,i Golf Shaper Challenge in Tsukushigaoka,no,atvt,no,356
+356,356,2024,2024-04-26,10357,Haugschlag NÖ Open by perfect eagle,no,pgt,no,357
+357,357,2024,2024-04-21,2,69th ECP Brazil Open,no,pta,no,358
+358,358,2024,2024-04-21,2024309,Abu Dhabi Challenge,no,cha,no,359
+359,359,2024,2024-04-21,53,Invited Celebrity Classic,no,champ,no,360
+360,360,2024,2024-04-21,522,Corales Puntacana Championship,no,pga,basic,361
+361,361,2024,2024-04-21,2,69th ECP Brazil Open,no,sam,no,362
+362,362,2024,2024-04-21,129,LECOM Suncoast Classic,no,kft,no,363
+363,363,2024,2024-04-21,12,RBC Heritage,yes,pga,yes,364
+364,364,2024,2024-04-21,10349,Saudi Open presented by PIF,no,asa,no,365
+365,365,2024,2024-04-21,10351,KPGA Founders Cup with Hanmaek CC,no,kor,no,366
+366,366,2024,2024-04-19,10350,Gurgaon Open powered by Amrutanjan,no,pgti,no,367
+367,367,2024,2024-04-18,10352,Altron Big Easy Tour FINAL,no,bet,no,368
+368,368,2024,2024-04-17,10345,Sand Valley Spring Series Final by ECCO,no,ngl,no,369
+369,369,2024,2024-04-14,14,Masters Tournament,yes,pga,yes,370
+370,370,2024,2024-04-14,10343,The Tour Championship delivered by The Courier Guy,no,afr,no,371
+371,371,2024,2024-04-14,10340,The 19th DB Insurance Promy Open,no,kor,no,372
+372,372,2024,2024-04-14,10338,Hainan Baoting Open,no,chn,no,373
+373,373,2024,2024-04-13,10339,Nissan presents Delhi-NCR Open,no,pgti,no,374
+374,374,2024,2024-04-13,10336,Sand Valley Championship,no,ngl,no,375
+375,375,2024,2024-04-11,10342,Altron Big Easy Tour Play OFF,no,bet,no,376
+376,376,2024,2024-04-09,10337,ECCO Tour Polish Masters,no,ngl,no,377
+377,377,2024,2024-04-07,10333,Singha Championship,no,atgt,no,378
+378,378,2024,2024-04-07,128,Club Car Championship at The Landings Golf & Athletic Club,no,kft,no,379
+379,379,2024,2024-04-07,10332,Limpopo Championship,no,afr,no,380
+380,380,2024,2024-04-07,28,Miami,no,liv,basic,381
+381,381,2024,2024-04-07,41,Valero Texas Open,yes,pga,yes,382
+382,382,2024,2024-04-06,10334,Villa Rica Classic,no,mex,no,383
+383,383,2024,2024-04-06,10331,Nissan presents Chandigarh Open 2024 hosted by Chandigarh Golf Club,no,pgti,no,384
+384,384,2024,2024-04-05,10330,Novil Cup,no,atvt,no,385
+385,385,2024,2024-03-31,56,The Galleri Classic,no,champ,no,386
+386,386,2024,2024-03-31,17,Totalplay Championship at Atlas Country Club,no,pta,no,387
+387,387,2024,2024-03-31,10327,Token Homemate Cup,no,jpn,no,388
+388,388,2024,2024-03-31,2024114,Hero Indian Open,no,euro,no,389
+389,389,2024,2024-03-31,17,Totalplay Championship at Atlas Country Club,no,sam,no,390
+390,390,2024,2024-03-31,20,Texas Children's Houston Open,yes,pga,yes,391
+391,391,2024,2024-03-24,573,Hoag Classic,no,champ,no,392
+392,392,2024,2024-03-24,475,Valspar Championship,yes,pga,yes,393
+393,393,2024,2024-03-24,2024308,Kolkata Challenge,no,cha,no,394
+394,394,2024,2024-03-24,10323,Stella Artois Players Championship,no,afr,no,395
+395,395,2024,2024-03-24,1,Bupa Championship at Tulum,no,pta,no,396
+396,396,2024,2024-03-24,2024113,Porsche Singapore Classic,no,euro,no,397
+397,397,2024,2024-03-24,1,Bupa Championship at Tulum,no,sam,no,398
+398,398,2024,2024-03-19,10320,NewGiza Pyramids Challenge,no,pgt,no,399
+399,399,2024,2024-03-17,11,THE PLAYERS Championship,yes,pga,yes,400
+400,400,2024,2024-03-17,10316,The National Tournament Presented by BMW,no,anz,no,401
+401,401,2024,2024-03-17,10314,International Series Macau presented by Wynn,no,asa,no,402
+402,402,2024,2024-03-17,2024307,Delhi Challenge,no,cha,no,403
+403,403,2024,2024-03-15,10315,Lexus Challenge,no,adt,no,404
+404,404,2024,2024-03-14,10317,Altron Big Easy Tour 10,no,bet,no,405
+405,405,2024,2024-03-14,10311,Allegria Open,no,pgt,no,406
+406,406,2024,2024-03-10,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,407
+407,407,2024,2024-03-10,2024112,Jonsson Workwear Open,no,euro,no,408
+408,408,2024,2024-03-10,18,Cologuard Classic,no,champ,no,409
+409,409,2024,2024-03-10,27,Hong Kong,no,liv,basic,410
+410,410,2024,2024-03-10,483,Puerto Rico Open,no,pga,basic,411
+411,411,2024,2024-03-10,107,Astara Chile Classic presented by Scotiabank,no,kft,no,412
+412,412,2024,2024-03-09,10309,Wipa's Open,no,mex,no,413
+413,413,2024,2024-03-09,10308,Glade One presents Gujarat Open Golf Championship,no,pgti,no,414
+414,414,2024,2024-03-03,10,Cognizant Classic in The Palm Beaches,yes,pga,yes,415
+415,415,2024,2024-03-03,170,117 Visa Argentina Open presented by Macro,no,kft,no,416
+416,416,2024,2024-03-03,2024111,SDC Championship,no,euro,no,417
+417,417,2024,2024-03-03,10301,New Giza Open,no,alp,no,418
+418,418,2024,2024-03-03,26,Jeddah,no,liv,basic,419
+419,419,2024,2024-03-03,10302,103rd New Zealand Open presented by Sky Sport,no,anz,no,420
+420,420,2024,2024-03-02,10303,E7 - Copa Prissa,no,mex,no,421
+421,421,2024,2024-03-02,10300,ECCO Tour Catalunya Championship,no,ngl,no,422
+422,422,2024,2024-02-27,10304,Red Sea Little Venice Open,no,alp,no,423
+423,423,2024,2024-02-27,10299,ECCO Tour Spanish Open,no,ngl,no,424
+424,424,2024,2024-02-26,10295,Golf Mad Championship,no,pgt,no,425
+425,425,2024,2024-02-25,2024303,NMB Championship,no,cha,no,426
+426,426,2024,2024-02-25,540,Mexico Open at Vidanta,yes,pga,yes,427
+427,427,2024,2024-02-25,2024110,Magical Kenya Open,no,euro,no,428
+428,428,2024,2024-02-25,10294,International Series Oman,no,asa,no,429
+429,429,2024,2024-02-24,10289,Dream Valley Group presents Vooty Masters,no,pgti,no,430
+430,430,2024,2024-02-24,624,Trophy Hassan II,no,champ,no,431
+431,431,2024,2024-02-22,10288,Ein Bay Open,no,alp,no,432
+432,432,2024,2024-02-22,10292,GolfStar Winter Series - Forest,no,ngl,no,433
+433,433,2024,2024-02-22,10287,Golf Mad Open,no,pgt,no,434
+434,434,2024,2024-02-18,10286,GolfStar Winter Series - Links,no,ngl,no,435
+435,435,2024,2024-02-18,552,Chubb Classic,no,champ,no,436
+436,436,2024,2024-02-18,7,The Genesis Invitational,yes,pga,yes,437
+437,437,2024,2024-02-18,10284,IRS Prima Malaysian Open,no,asa,no,438
+438,438,2024,2024-02-18,10285,"Webex Players Series Hunter Valley, Hosted by Jan Stephenson & Peter O'Malley",no,anz,no,439
+439,439,2024,2024-02-18,10283,Singha E-San Open,no,atgt,no,440
+440,440,2024,2024-02-18,2024302,Dimension Data Pro-Am,no,cha,no,441
+441,441,2024,2024-02-16,10280,Tata Steel PGTI Players Championship 2024 presented by Tollygunge Club,no,pgti,no,442
+442,442,2024,2024-02-11,3,WM Phoenix Open,yes,pga,yes,443
+443,443,2024,2024-02-11,2024301,Bain's Whisky Cape Town Open,no,cha,no,444
+444,444,2024,2024-02-11,10279,Webex Players Series Sydney Hosted by Braith Anasta,no,anz,no,445
+445,445,2024,2024-02-11,104,Astara Golf Championship presented by Mastercard,no,kft,no,446
+446,446,2024,2024-02-11,2024147,Commercial Bank Qatar Masters,no,euro,no,447
+447,447,2024,2024-02-10,25,Las Vegas,no,liv,basic,448
+448,448,2024,2024-02-04,2024109,Bahrain Championship presented by Bapco Energies,no,euro,no,449
+449,449,2024,2024-02-04,2024300,SDC Open,no,cha,no,450
+450,450,2024,2024-02-04,24,Mayakoba,no,liv,basic,451
+451,451,2024,2024-02-04,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,452
+452,452,2024,2024-02-04,10274,Vic Open,no,anz,no,453
+453,453,2024,2024-02-04,84,The Panama Championship,no,kft,no,454
+454,454,2024,2024-01-30,10273,Red Sea Egyptian Classic,no,pgt,no,455
+455,455,2024,2024-01-28,2024108,Ras Al Khaimah Championship,no,euro,no,456
+456,456,2024,2024-01-28,10266,10th Boonchu Ruangkit Championship,no,atgt,no,457
+457,457,2024,2024-01-28,10267,Webex Players Series Hosted by Geoff Ogilvy,no,anz,no,458
+458,458,2024,2024-01-28,10268,Mediclinic Invitational,no,afr,no,459
+459,459,2024,2024-01-27,4,Farmers Insurance Open,yes,pga,yes,460
+460,460,2024,2024-01-25,10262,Red Sea Ain Sokhna Open,no,pgt,no,461
+461,461,2024,2024-01-24,125,The Bahamas Great Abaco Classic at The Abaco Club,no,kft,no,462
+462,462,2024,2024-01-21,10261,Webex Players Series Murray River in honour of Jarrod Lyle,no,anz,no,463
+463,463,2024,2024-01-21,10257,El Salvador Open Championship,no,mex,no,464
+464,464,2024,2024-01-21,2,The American Express,yes,pga,yes,465
+465,465,2024,2024-01-21,2024107,Hero Dubai Desert Classic,no,euro,no,466
+466,466,2024,2024-01-20,524,Mitsubishi Electric Championship at Hualalai,no,champ,no,467
+467,467,2024,2024-01-18,10256,Altron Big Easy Tour 9,no,bet,no,468
+468,468,2024,2024-01-17,124,The Bahamas Great Exuma Classic at Sandals Emerald Bay,no,kft,no,469
+469,469,2024,2024-01-14,10254,Heritage Classic,no,anz,no,470
+470,470,2024,2024-01-14,2024106,Dubai Invitational,no,euro,no,471
+471,471,2024,2024-01-14,6,Sony Open in Hawaii,yes,pga,yes,472
+472,472,2024,2024-01-11,10255,Altron Big Easy Tour 8,no,bet,no,473
+473,473,2024,2024-01-07,16,The Sentry,yes,pga,yes,474
+474,474,2023,2023-12-17,10250,Saudi Open presented by Public Investment Fund,no,asa,no,475
+475,475,2023,2023-12-17,88,PGA TOUR Q-School presented by Korn Ferry,no,pga,basic,4
+476,476,2023,2023-12-17,2024105,AfrAsia Bank Mauritius Open,no,euro,no,476
+477,477,2023,2023-12-16,10246,Bhawani Singh Rathore presents Jaipur Open powered by AU Small Finance Bank,no,pgti,no,477
+478,478,2023,2023-12-13,10248,Altron Big Easy Tour 7,no,bet,no,478
+479,479,2023,2023-12-10,23,Promotions Event,no,liv,no,479
+480,480,2023,2023-12-10,10241,CGA Championship,no,chn,no,480
+481,481,2023,2023-12-10,10242,SSP Chawrasia Invitational presented by TAKE Sports,no,pgti,no,481
+482,482,2023,2023-12-10,2024104,Alfred Dunhill Championship,no,euro,no,482
+483,483,2023,2023-12-10,10245,E5 - El Jaguar Golf Open Presented by Inmobilia,no,mex,no,483
+484,484,2023,2023-12-10,10243,51st Thailand Open,no,atgt,no,484
+485,485,2023,2023-12-03,10235,Golf Nippon Series JT Cup,no,jpn,no,485
+486,486,2023,2023-12-03,10236,Taiwan Glass Taifong Open,no,asa,no,486
+487,487,2023,2023-12-03,550,Hero World Challenge #2,yes,pga,yes,487
+488,488,2023,2023-12-03,2024103,Investec South African Open Championship,no,euro,no,488
+489,489,2023,2023-12-03,2024102,ISPS Handa Australian Open,no,euro,no,489
+490,490,2023,2023-12-02,10238,Kapil Dev - Grant Thornton Invitational presented by DLF,no,pgti,no,490
+491,491,2023,2023-12-02,10237,Saudi Aramco Invitational,no,adt,no,491
+492,492,2023,2023-11-26,2024101,Joburg Open,no,euro,no,492
+493,493,2023,2023-11-26,10229,Chongqing Open,no,chn,no,493
+494,494,2023,2023-11-26,2024100,Fortinet Australian PGA Championship,no,euro,no,494
+495,495,2023,2023-11-26,10231,24th Singha Thailand Masters,no,atgt,no,495
+496,496,2023,2023-11-26,10228,Casio World Open Golf Tournament,no,jpn,no,496
+497,497,2023,2023-11-25,10230,IndianOil Servo Masters Golf,no,pgti,no,497
+498,498,2023,2023-11-19,10224,BNI Indonesian Masters presented by Tunas Niaga Energi,no,asa,no,498
+499,499,2023,2023-11-19,10226,Victorian PGA Championship,no,anz,no,499
+500,500,2023,2023-11-19,2023146,DP World Tour Championship,no,euro,no,500
+501,501,2023,2023-11-19,10223,Dunlop Phoenix Tournament,no,jpn,no,501
+502,502,2023,2023-11-19,549,The RSM Classic #2,partial,pga,partial,502
+503,503,2023,2023-11-18,10225,Toyota Tour Championship,no,adt,no,503
+504,504,2023,2023-11-16,10227,Altron Big Easy Tour 6,no,bet,no,504
+505,505,2023,2023-11-15,2023713,DP World Tour Qualifying (Final Stage),no,euro,no,505
+506,506,2023,2023-11-12,10217,LG SIGNATURE Players Championship,no,kor,no,506
+507,507,2023,2023-11-12,2023145,Nedbank Golf Challenge,no,euro,no,507
+508,508,2023,2023-11-12,539,Charles Schwab Cup Championship,no,champ,no,43
+509,509,2023,2023-11-12,10215,Hong Kong Open,no,asa,no,508
+510,510,2023,2023-11-12,548,Butterfield Bermuda Championship #2,no,pga,basic,509
+511,511,2023,2023-11-12,10214,Mitsui Sumitomo VISA Taiheiyo Masters,no,jpn,no,510
+512,512,2023,2023-11-12,10218,Gippsland Super 6,no,anz,no,511
+513,513,2023,2023-11-11,10216,PKNS Selangor Masters,no,adt,no,512
+514,514,2023,2023-11-11,10220,V Copa Multimedios,no,mex,no,513
+515,515,2023,2023-11-08,10219,Altron Big Easy Tour 5,no,bet,no,514
+516,516,2023,2023-11-05,10207,Vodacom Origins of Golf Finals,no,afr,no,515
+517,517,2023,2023-11-05,547,World Wide Technology Championship #2,no,pga,basic,516
+518,518,2023,2023-11-05,10205,Golfzon-Toray OPEN,no,kor,no,517
+519,519,2023,2023-11-05,10203,Mynavi ABC Championship,no,jpn,no,518
+520,520,2023,2023-11-05,10206,Jeev Milkha Singh Invitational presented by TAKE Sports,no,pgti,no,519
+521,521,2023,2023-11-05,2023324,Rolex Challenge Tour Grand Final supported by the R&A,no,cha,no,520
+522,522,2023,2023-11-05,10208,Queensland PGA Championship,no,anz,no,521
+523,523,2023,2023-11-05,10204,Volvo China Open,no,asa,no,522
+524,524,2023,2023-11-05,9,TimberTech Championship,no,champ,no,54
+525,525,2023,2023-10-29,10198,Haryana Open presented by Wonder Cement,no,pgti,no,523
+526,526,2023,2023-10-29,2023150,Commercial Bank Qatar Masters,no,euro,no,524
+527,527,2023,2023-10-29,10200,Backsong Holdings-Asiad CC Busan Open,no,kor,no,525
+528,528,2023,2023-10-29,10197,Hengdian International Golf Elite Pro-Am,no,chn,no,526
+529,529,2023,2023-10-27,10199,SunBet Challenge hosted by Sun Sibaya,no,afr,no,527
+530,530,2023,2023-10-22,546,ZOZO CHAMPIONSHIP #2,no,pga,basic,528
+531,531,2023,2023-10-22,623,Dominion Energy Charity Classic,no,champ,no,63
+532,532,2023,2023-10-22,10192,Mitsubishi Electric Fa Golf Open,no,chn,no,529
+533,533,2023,2023-10-22,10194,VOG KZN,no,afr,no,530
+534,534,2023,2023-10-22,22,Miami (Team Final—Stroke Play),no,liv,basic,531
+535,535,2023,2023-10-22,10193,Webex Players Series SA hosted by Greg Blewett,no,anz,no,532
+536,536,2023,2023-10-22,2023149,Estrella Damm N.A. Andalucía  Masters,no,euro,no,533
+537,537,2023,2023-10-21,10195,E3 - Copa SIMSA Patrocinada por Combugas,no,mex,no,534
+538,538,2023,2023-10-20,10188,Alps Tour Grand Final Presented by Auralis Limitless Lighting,no,alp,no,535
+539,539,2023,2023-10-20,10189,Road to Europe Final,no,ngl,no,536
+540,540,2023,2023-10-20,10191,Delight Works JGTO FINAL,no,atvt,no,537
+541,541,2023,2023-10-16,2023337,Hainan Open,no,cha,no,538
+542,542,2023,2023-10-15,21,Jeddah,no,liv,basic,539
+543,543,2023,2023-10-15,609,SAS Championship,no,champ,no,79
+544,544,2023,2023-10-15,2023143,acciona Open de España presented by Madrid,no,euro,no,540
+545,545,2023,2023-10-15,545,Shriners Children's Open #2,yes,pga,yes,541
+546,546,2023,2023-10-14,10183,CKB WA PGA Championship presented by TX Civil & Logistics,no,anz,no,542
+547,547,2023,2023-10-14,10182,Genesis Championship,no,kor,no,543
+548,548,2023,2023-10-14,10180,SJM Macao Open,no,asa,no,544
+549,549,2023,2023-10-14,10178,Japan Open Golf Championship,no,jpn,no,545
+550,550,2023,2023-10-12,10181,The 2nd Indo Masters Golf Invitational presented by TNE,no,adt,no,546
+551,551,2023,2023-10-12,10179,The #1 Tour Final in Golf,no,ngl,no,547
+552,552,2023,2023-10-08,44,Constellation FURYK & FRIENDS,no,champ,no,85
+553,553,2023,2023-10-08,2023323,Hopps Open de Provence,no,cha,no,548
+554,554,2023,2023-10-08,2023142,Alfred Dunhill Links Championship,no,euro,no,549
+555,555,2023,2023-10-08,45,Korn Ferry Tour Championship presented by United Leasing & Finance,no,kft,no,91
+556,556,2023,2023-10-08,544,Sanderson Farms Championship #2,yes,pga,yes,550
+557,557,2023,2023-10-07,10174,WA Open,no,anz,no,551
+558,558,2023,2023-10-07,10167,ACN Championship Golf Tournament,no,jpn,no,552
+559,559,2023,2023-10-07,10175,Fortress Invitational,no,afr,no,553
+560,560,2023,2023-10-07,10173,Hyundai Marine & Fire Insurance KJ Choi Invitational,no,kor,no,554
+561,561,2023,2023-10-07,10169,International Series Singapore,no,asa,no,555
+562,562,2023,2023-10-07,10172,Singha Championship,no,atgt,no,556
+563,563,2023,2023-10-06,10171,J&K Open presented by J&K Tourism,no,pgti,no,557
+564,564,2023,2023-10-05,10164,Castanea Resort Championship,no,pgt,no,558
+565,565,2023,2023-10-05,10168,Ryo Ishikawa everyone PROJECT Challenge,no,atvt,no,559
+566,566,2023,2023-10-05,10170,OB Golf Invitational Presented by Sentul Highlands Golf Club,no,adt,no,560
+567,567,2023,2023-09-30,10156,Vantelin Tokai Classic,no,jpn,no,561
+568,568,2023,2023-09-30,10157,Mercuries Taiwan Masters,no,asa,no,562
+569,569,2023,2023-09-29,10161,Bollineni Panache & Telangana Tourism presents Telangana Golconda Masters,no,pgti,no,563
+570,570,2023,2023-09-28,10159,elite grips challenge,no,atvt,no,564
+571,571,2023,2023-09-28,10160,OB Golf Championship,no,adt,no,565
+572,572,2023,2023-09-27,10158,Destination Gotland Open,no,ngl,no,566
+573,573,2023,2023-09-24,20,Chicago,no,liv,basic,567
+574,574,2023,2023-09-24,2023140,Cazoo Open de France,no,euro,no,568
+575,575,2023,2023-09-24,2023322,Swiss Challenge,no,cha,no,569
+576,576,2023,2023-09-24,94,Nationwide Children's Hospital Championship,no,kft,no,113
+577,577,2023,2023-09-24,616,PURE Insurance Championship,no,champ,no,109
+578,578,2023,2023-09-23,10155,Amanali Classic,no,mex,no,570
+579,579,2023,2023-09-23,10149,Panasonic Open Golf Championship,no,jpn,no,571
+580,580,2023,2023-09-23,10153,PGA Championship,no,afr,no,572
+581,581,2023,2023-09-23,10151,iMBank opening,no,kor,no,573
+582,582,2023,2023-09-23,10150,Yeangder TPC,no,asa,no,574
+583,583,2023,2023-09-22,10154,Vizag Open,no,pgti,no,575
+584,584,2023,2023-09-20,10152,Great Northern Challenge,no,ngl,no,576
+585,585,2023,2023-09-17,543,Fortinet Championship #2,yes,pga,yes,577
+586,586,2023,2023-09-17,120,Simmons Bank Open for the Snedeker Foundation,no,kft,no,123
+587,587,2023,2023-09-17,23,Sanford International,no,champ,no,122
+588,588,2023,2023-09-17,2023139,BMW PGA Championship,no,euro,no,578
+589,589,2023,2023-09-17,2023321,Open de Portugal at Royal Óbidos,no,cha,no,579
+590,590,2023,2023-09-16,10143,VOG Western Cape,no,afr,no,580
+591,591,2023,2023-09-16,10141,ANA Open Golf Tournament,no,jpn,no,581
+592,592,2023,2023-09-16,10142,BIZPLAY-Electronic Times OPEN,no,kor,no,582
+593,593,2023,2023-09-15,10144,Hauts de France-Pas de Calais Golf Open,no,alp,no,583
+594,594,2023,2023-09-14,10145,TRUST Forsikring Championship,no,ngl,no,584
+595,595,2023,2023-09-10,2023138,Horizon Irish Open,no,euro,no,585
+596,596,2023,2023-09-10,625,Ascension Charity Classic,no,champ,no,132
+597,597,2023,2023-09-10,2023304,Challenge de España,no,cha,no,586
+598,598,2023,2023-09-10,10,Fortinet Cup Championship,no,can,no,587
+599,599,2023,2023-09-09,10134,Guotai Open,no,chn,no,588
+600,600,2023,2023-09-09,10135,Shinhan Donghae Open,no,asa,no,589
+601,601,2023,2023-09-09,10136,Singha Bangkok Open,no,atgt,no,590
+602,602,2023,2023-09-08,10130,Onsjö Open,no,ngl,no,591
+603,603,2023,2023-09-07,10133,PGM Challenge,no,atvt,no,592
+604,604,2023,2023-09-03,53,CRMC Championship presented by Gertens,no,can,no,593
+605,605,2023,2023-09-03,10121,Fujisankei Classic,no,jpn,no,594
+606,606,2023,2023-09-03,2023320,Indoor Golf Group Challenge,no,cha,no,595
+607,607,2023,2023-09-03,2023137,Omega European Masters,no,euro,no,596
+608,608,2023,2023-09-03,10122,LX Championship,no,kor,no,597
+609,609,2023,2023-09-02,10123,FaberExposize Gelpenberg Open,no,pgt,no,598
+610,610,2023,2023-09-02,10125,BRG Open Golf Championship Da Nang,no,adt,no,599
+611,611,2023,2023-09-02,10124,DUNLOP PHOENIX tournament challenge in Fukushima,no,atvt,no,600
+612,612,2023,2023-09-01,10126,The Nordcenter Fream Extreme,no,ngl,no,601
+613,613,2023,2023-09-01,10127,Gary & Vivienne Player Challenge,no,afr,no,602
+614,614,2023,2023-08-27,27,Albertsons Boise Open presented by Chevron,no,kft,no,157
+615,615,2023,2023-08-27,6,CentrePort Canada Rail Park Manitoba Open,no,can,no,603
+616,616,2023,2023-08-27,10112,St Andrews Bay Championship,no,asa,no,604
+617,617,2023,2023-08-27,10105,Timberwise Finnish Open,no,ngl,no,605
+618,618,2023,2023-08-27,2023319,Dormy Open,no,cha,no,606
+619,619,2023,2023-08-27,60,TOUR Championship,yes,pga,yes,146
+620,620,2023,2023-08-27,10115,KPGA Gunsan CC Open,no,kor,no,607
+621,621,2023,2023-08-27,2023136,D+D Real Czech Masters,no,euro,no,608
+622,622,2023,2023-08-27,22,The Ally Challenge,no,champ,no,154
+623,623,2023,2023-08-27,10110,Sansan KBC Augusta,no,jpn,no,609
+624,624,2023,2023-08-26,10106,Staan Open,no,pgt,no,610
+625,625,2023,2023-08-26,10113,BNI Ciputra Golfpreneur Tournament,no,adt,no,611
+626,626,2023,2023-08-25,10114,Coimbatore Open presented by KGiSL,no,pgti,no,612
+627,627,2023,2023-08-23,10117,Altron Big Easy Tour 4,no,bet,no,613
+628,628,2023,2023-08-20,17,Shaw Charity Classic,no,champ,no,173
+629,629,2023,2023-08-20,10097,International Series England,no,asa,no,614
+630,630,2023,2023-08-20,2023318,Vierumäki Finnish Challenge ,no,cha,no,615
+631,631,2023,2023-08-20,168,Magnit Championship,no,kft,no,172
+632,632,2023,2023-08-20,28,BMW Championship,yes,pga,yes,155
+633,633,2023,2023-08-20,10100,Tailor-made Building Services NT PGA Championship,no,anz,no,616
+634,634,2023,2023-08-20,2023135,ISPS Handa World Invitational presented by AVIV Clinics,no,euro,no,617
+635,635,2023,2023-08-19,10099,India Cements Pro Championship,no,pgti,no,618
+636,636,2023,2023-08-19,10094,Stippelberg Open,no,pgt,no,619
+637,637,2023,2023-08-18,10098,The Indonesia Pro-Am presented by Combiphar & Nomura,no,adt,no,620
+638,638,2023,2023-08-18,10093,Esbjerg Open by FREJA,no,ngl,no,621
+639,639,2023,2023-08-18,10101,SunBet Challenge - Time Square,no,afr,no,622
+640,640,2023,2023-08-18,10102,Club de Golf Mexico Invitational,no,mex,no,623
+641,641,2023,2023-08-13,619,Boeing Classic,no,champ,no,184
+642,642,2023,2023-08-13,2023317,Farmfoods Scottish Challenge supported by the R&A,no,cha,no,624
+643,643,2023,2023-08-13,123,Pinnacle Bank Championship presented by Aetna,no,kft,no,188
+644,644,2023,2023-08-13,27,FedEx St. Jude Championship,yes,pga,yes,176
+645,645,2023,2023-08-13,10090,Vodacom Origins of Golf,no,afr,no,625
+646,646,2023,2023-08-13,19,Bedminster,no,liv,basic,626
+647,647,2023,2023-08-13,10089,Singha all Thailand Championship,no,atgt,no,627
+648,648,2023,2023-08-06,18,Greenbrier,no,liv,basic,628
+649,649,2023,2023-08-06,26,Utah Championship presented by Zions Bank,no,kft,no,197
+650,650,2023,2023-08-06,46,Windsor Championship,no,can,no,629
+651,651,2023,2023-08-06,2023316,British Challenge presented by Modest! Golf Management,no,cha,no,630
+652,652,2023,2023-08-06,10082,Yokohama Minato Championship ~Fujiki Centennial~,no,jpn,no,631
+653,653,2023,2023-08-06,13,Wyndham Championship,yes,pga,yes,189
+654,654,2023,2023-08-06,10083,Mandiri Indonesia Open,no,asa,no,632
+655,655,2023,2023-08-04,10078,BWT Championship,no,ngl,no,633
+656,656,2023,2023-08-03,10084,Altron Big Easy Tour 3,no,bet,no,634
+657,657,2023,2023-07-30,525,3M Open,yes,pga,yes,207
+658,658,2023,2023-07-30,614,The Senior Open Presented by Rolex,no,champ,no,208
+659,659,2023,2023-07-30,10075,Japan PGA Championship,no,jpn,no,635
+660,660,2023,2023-07-30,48,Osprey Valley Open presented by Votorantim Cimentos CBM Aggregates,no,can,no,636
+661,661,2023,2023-07-30,131,NV5 Invitational presented by Old National Bank,no,kft,no,205
+662,662,2023,2023-07-30,2023315,Irish Challenge,no,cha,no,637
+663,663,2023,2023-07-29,10070,Abruzzo Alps Open,no,alp,no,638
+664,664,2023,2023-07-29,10076,FNB Eswatini Challenge @ Nkonyeni,no,afr,no,639
+665,665,2023,2023-07-28,10071,Miklagard Open,no,ngl,no,640
+666,666,2023,2023-07-27,10072,Raiffeisen Pro Golf Tour St. Pölten,no,pgt,no,641
+667,667,2023,2023-07-23,70,Commissionaires Ottawa Open,no,can,no,642
+668,668,2023,2023-07-23,100,The Open Championship,yes,pga,yes,218
+669,669,2023,2023-07-23,22,Price Cutter Charity Championship presented by Dr Pepper,no,kft,no,217
+670,670,2023,2023-07-23,472,Barracuda Championship,no,pga,basic,214
+671,671,2023,2023-07-23,2023314,Big Green Egg German Challenge powered by VcG,no,cha,no,643
+672,672,2023,2023-07-22,10065,Volvo China Open Qualifying,no,chn,no,644
+673,673,2023,2023-07-21,10067,SunBet Challenge - Wild Coast,no,afr,no,645
+674,674,2023,2023-07-19,10062,The Cuber Open,no,pgt,no,646
+675,675,2023,2023-07-16,541,Genesis Scottish Open,yes,pga,yes,226
+676,676,2023,2023-07-16,44,Quebec Open powered by Videotron Business,no,can,no,647
+677,677,2023,2023-07-16,10056,Singha Pattaya Open,no,adt,no,648
+678,678,2023,2023-07-16,2023313,Euram Bank Open,no,cha,no,649
+679,679,2023,2023-07-16,518,Barbasol Championship,yes,pga,yes,222
+680,680,2023,2023-07-16,507,Kaulig Companies Championship,no,champ,no,227
+681,681,2023,2023-07-16,10058,Tres Vidas Tour Championship,no,mex,no,650
+682,682,2023,2023-07-16,130,The Ascendant presented by Blue,no,kft,no,228
+683,683,2023,2023-07-15,10051,Fred Olsen Alps de La Gomera,no,alp,no,651
+684,684,2023,2023-07-14,10055,Minami Akita CC Michinoku Challenge Tournament,no,atvt,no,652
+685,685,2023,2023-07-13,10057,Altron Big Easy Tour 2,no,bet,no,653
+686,686,2023,2023-07-09,2023312,Italian Challenge Open,no,cha,no,654
+687,687,2023,2023-07-09,17,London,no,liv,basic,655
+688,688,2023,2023-07-09,10046,ADT - All Thailand Partnership Trophy,no,adt,no,656
+689,689,2023,2023-07-09,2023130,Made in HimmerLand,no,euro,no,657
+690,690,2023,2023-07-09,30,John Deere Classic,yes,pga,yes,234
+691,691,2023,2023-07-07,10043,Arlandastad Trophy by Cutter & Buck,no,ngl,no,658
+692,692,2023,2023-07-07,10044,Gradi Polish Open by Emeralld,no,pgt,no,659
+693,693,2023,2023-07-06,10047,Altron Big Easy Tour 1,no,bet,no,660
+694,694,2023,2023-07-02,3,ATB Classic,no,can,no,661
+695,695,2023,2023-07-02,512,U.S. Senior Open,no,champ,no,242
+696,696,2023,2023-07-02,10040,Shigeo Nagashima INVITATIONAL Sega Sammy Cup,no,jpn,no,662
+697,697,2023,2023-07-02,57,Bupa Tour Championship,no,sam,no,663
+698,698,2023,2023-07-02,524,Rocket Mortgage Classic,yes,pga,yes,246
+699,699,2023,2023-07-02,2023129,Betfred British Masters,no,euro,no,664
+700,700,2023,2023-07-02,16,Valderrama,no,liv,basic,665
+701,701,2023,2023-07-02,122,Memorial Health Championship presented by LRS,no,kft,no,245
+702,702,2023,2023-07-02,2023311,Le Vaudreuil Golf Challenge,no,cha,no,666
+703,703,2023,2023-07-01,10035,PGA Championship Landeryd Masters,no,ngl,no,667
+704,704,2023,2023-07-01,10034,Aravell Golf Open by Creand,no,alp,no,668
+705,705,2023,2023-06-25,60,Jalisco Open GDL,no,sam,no,669
+706,706,2023,2023-06-25,2023128,BMW International Open,no,euro,no,670
+707,707,2023,2023-06-25,69,Elk Ridge Saskatchewan Open presented by Brandt,no,can,no,671
+708,708,2023,2023-06-25,8,DICK'S Sporting Goods Open,no,champ,no,261
+709,709,2023,2023-06-25,2023310,Blot Open de Bretagne,no,cha,no,672
+710,710,2023,2023-06-25,10031,Kolon The 65th Korea Open Golf Championship,no,asa,no,673
+711,711,2023,2023-06-25,34,Travelers Championship,yes,pga,yes,258
+712,712,2023,2023-06-25,166,Compliance Solutions Championship,no,kft,no,254
+713,713,2023,2023-06-25,10030,JAPAN PLAYERS CHAMPIONSHIP by Satosyokuhin,no,jpn,no,674
+714,714,2023,2023-06-21,10024,Tenerife Pro Golf Open,no,alp,no,675
+715,715,2023,2023-06-18,2023309,Kaskáda Golf Challenge,no,cha,no,676
+716,716,2023,2023-06-18,23,Blue Cross and Blue Shield of Kansas Wichita Open,no,kft,no,270
+717,717,2023,2023-06-18,10020,Hana Bank Invitational,no,jpn,no,677
+718,718,2023,2023-06-18,2,Royal Beach Victoria Open presented by Times Colonist,no,can,no,678
+719,719,2023,2023-06-18,26,U.S. Open,yes,pga,yes,269
+720,720,2023,2023-06-17,10016,Alps de Andalucia,no,alp,no,679
+721,721,2023,2023-06-16,10017,Greatdays Trophy,no,ngl,no,680
+722,722,2023,2023-06-16,10021,Japan Create Challenge in FukuokaRaizan,no,atvt,no,681
+723,723,2023,2023-06-11,10012,Singha Chiang Mai Open,no,atgt,no,682
+724,724,2023,2023-06-11,10005,IV Pro - Am Ventanas de San Miguel,no,mex,no,683
+725,725,2023,2023-06-11,2023308,Andalucía Challenge de Cádiz,no,cha,no,684
+726,726,2023,2023-06-11,10011,ASO IIZUKA Challenged Golf Tournament,no,jpn,no,685
+727,727,2023,2023-06-11,622,American Family Insurance Championship,no,champ,no,285
+728,728,2023,2023-06-11,10013,The 66th KPGA Championship with A-ONE CC,no,kor,no,686
+729,729,2023,2023-06-11,2023126,Volvo Car Scandinavian Mixed,no,euro,no,687
+730,730,2023,2023-06-11,37,BMW Charity Pro-Am presented by TD SYNNEX,no,kft,no,280
+731,731,2023,2023-06-11,32,RBC Canadian Open,yes,pga,yes,293
+732,732,2023,2023-06-10,10008,Croara Alps Open,no,alp,no,688
+733,733,2023,2023-06-09,10003,Thomas Bjørn Samsø Classic - by Samsø Festival,no,ngl,no,689
+734,734,2023,2023-06-09,10004,Landic Challenge 10,no,atvt,no,690
+735,735,2023,2023-06-04,48,UNC Health Championship presented by STITCH,no,kft,no,295
+736,736,2023,2023-06-04,10001,Zhengzhou Open,no,chn,no,691
+737,737,2023,2023-06-04,2023307,D+D Real Czech Challenge,no,cha,no,692
+738,738,2023,2023-06-04,608,Principal Charity Classic,no,champ,no,294
+739,739,2023,2023-06-04,59,Inter Rapidisimo Golf Championship presentado por Volvo,no,sam,no,693
+740,740,2023,2023-06-04,9996,Open de la Mirabelle d'Or,no,alp,no,694
+741,741,2023,2023-06-04,10000,BMW Japan Golf Tour Championship Mori Building Cup,no,jpn,no,695
+742,742,2023,2023-06-04,23,the Memorial Tournament presented by Workday,yes,pga,yes,283
+743,743,2023,2023-06-04,2023125,Porsche European Open,no,euro,no,696
+744,744,2023,2023-06-02,9993,SunBet Challenge hosted by Sun City,no,afr,no,697
+745,745,2023,2023-06-02,9992,UNICEF Championship,no,ngl,no,698
+746,746,2023,2023-05-31,9991,Riedhof Open,no,pgt,no,699
+747,747,2023,2023-05-28,9989,KitKat Cash & Carry Pro-am,no,afr,no,700
+748,748,2023,2023-05-28,9986,Exciting Hangzhou West Lake Open,no,chn,no,701
+749,749,2023,2023-05-28,9987,Singha Laguna Phuket Open,no,adt,no,702
+750,750,2023,2023-05-28,15,DC,no,liv,basic,703
+751,751,2023,2023-05-28,11,Colombia Classic presentado por Rocha Brothers,no,sam,no,704
+752,752,2023,2023-05-28,2023124,KLM Open,no,euro,no,705
+753,753,2023,2023-05-28,520,KitchenAid Senior PGA Championship,no,champ,no,309
+754,754,2023,2023-05-28,21,Charles Schwab Challenge,yes,pga,yes,307
+755,755,2023,2023-05-28,11,Visit Knoxville Open,no,kft,no,305
+756,756,2023,2023-05-28,9988,KB Finance LIIV Championship,no,kor,no,706
+757,757,2023,2023-05-28,2023306,Copenhagen Challenge presented by Ejner Hessel,no,cha,no,707
+758,758,2023,2023-05-28,9984,Gate Way To The Open Mizuno Open,no,jpn,no,708
+759,759,2023,2023-05-26,9985,Taiheiyo Club Challenge Tournament,no,atvt,no,709
+760,760,2023,2023-05-26,9979,Memorial Giorgio Bordoni by AON,no,alp,no,710
+761,761,2023,2023-05-25,9980,Gamle Fredrikstad Open,no,ngl,no,711
+762,762,2023,2023-05-21,33,PGA Championship,yes,pga,yes,316
+763,763,2023,2023-05-21,9972,Golf Partner Pro - Am Tournament,no,jpn,no,712
+764,764,2023,2023-05-21,100,AdventHealth Championship,no,kft,no,317
+765,765,2023,2023-05-21,2023305,B-NL Challenge Trophy,no,cha,no,713
+766,766,2023,2023-05-21,9975,Zanaco Masters,no,afr,no,714
+767,767,2023,2023-05-21,9974,SK Telecom Open,no,kor,no,715
+768,768,2023,2023-05-21,9973,Jinan Open,no,chn,no,716
+769,769,2023,2023-05-20,9976,Altozano Open,no,mex,no,717
+770,770,2023,2023-05-18,9970,Stora Hotellet Fjällbacka Open,no,ngl,no,718
+771,771,2023,2023-05-14,2023122,Soudal Open,no,euro,no,719
+772,772,2023,2023-05-14,9966,Guangdong Open,no,chn,no,720
+773,773,2023,2023-05-14,19,AT&T Byron Nelson,yes,pga,yes,341
+774,774,2023,2023-05-14,9967,Woori Financial Group Championship,no,kor,no,721
+775,775,2023,2023-05-14,14,Tulsa,no,liv,basic,722
+776,776,2023,2023-05-14,558,Regions Tradition,no,champ,no,327
+777,777,2023,2023-05-13,9962,31st Goesser Open,no,alp,no,723
+778,778,2023,2023-05-12,9965,JAPAN PLAYERS CHAMPIONSHIP CHALLENGE in FUKUI,no,atvt,no,724
+779,779,2023,2023-05-12,9963,Skåne Challenge by Ahlsell,no,ngl,no,725
+780,780,2023,2023-05-07,22,KIA Open,no,sam,no,726
+781,781,2023,2023-05-07,2023328,UAE Challenge,no,cha,no,727
+782,782,2023,2023-05-07,480,Wells Fargo Championship,yes,pga,yes,325
+783,783,2023,2023-05-07,2023117,DS Automobiles Italian Open,no,euro,no,728
+784,784,2023,2023-05-07,9959,PNG Open,no,anz,no,729
+785,785,2023,2023-05-07,15,Mitsubishi Electric Classic,no,champ,no,352
+786,786,2023,2023-05-07,9960,FBC Zim Open,no,afr,no,730
+787,787,2023,2023-05-07,9958,The 42nd GS Caltex Maekyung Open Golf Championship,no,asa,no,731
+788,788,2023,2023-05-05,9955,Golfkusten Blekinge by Scandic Hotels,no,ngl,no,732
+789,789,2023,2023-04-30,8,Diners Club Peru Open,no,sam,no,733
+790,790,2023,2023-04-30,2023121,Korea Championship Presented by Genesis,no,euro,no,734
+791,791,2023,2023-04-30,9950,The Crowns,no,jpn,no,735
+792,792,2023,2023-04-30,615,Insperity Invitational,no,champ,no,339
+793,793,2023,2023-04-30,13,Singapore,no,liv,basic,736
+794,794,2023,2023-04-30,540,Mexico Open at Vidanta,yes,pga,yes,427
+795,795,2023,2023-04-30,2023327,Abu Dhabi Challenge,no,cha,no,737
+796,796,2023,2023-04-30,134,HomeTown Lenders Championship,no,kft,no,738
+797,797,2023,2023-04-28,9945,Bravo Tours Open by Enjoy Resorts,no,ngl,no,739
+798,798,2023,2023-04-28,9946,Haugschlag NÖ Open by perfect eagle,no,pgt,no,740
+799,799,2023,2023-04-27,9951,Royal Hua Hin Thailand Championship by MENA Tour,no,mgt,no,741
+800,800,2023,2023-04-23,9940,The Tour Championship,no,afr,no,742
+801,801,2023,2023-04-23,2023120,ISPS HANDA - CHAMPIONSHIP,no,euro,no,743
+802,802,2023,2023-04-23,18,Zurich Classic of New Orleans,yes,pga,basic,744
+803,803,2023,2023-04-23,53,Invited Celebrity Classic,no,champ,no,360
+804,804,2023,2023-04-23,12,Adelaide,no,liv,basic,745
+805,805,2023,2023-04-23,9938,Singha Classic,no,atgt,no,746
+806,806,2023,2023-04-23,129,LECOM Suncoast Classic,no,kft,no,363
+807,807,2023,2023-04-23,9939,Golfzon OPEN In Jeju,no,kor,no,747
+808,808,2023,2023-04-22,9937,Ahmedabad Open Golf Championship presented by Glade One,no,pgti,no,748
+809,809,2023,2023-04-22,9934,Alps de Las Castillas,no,alp,no,749
+810,810,2023,2023-04-21,9936,i Golf Shaper Challenge in Chikushigaoka,no,atvt,no,750
+811,811,2023,2023-04-20,9942,"Malaysian Swing II, The Els Club, Desaru Coast",no,mgt,no,751
+812,812,2023,2023-04-19,9952,Sand Valley Spring Series Final - by ECCO,no,ngl,no,752
+813,813,2023,2023-04-16,137,Veritex Bank Championship,no,kft,no,353
+814,814,2023,2023-04-16,12,RBC Heritage,yes,pga,yes,364
+815,815,2023,2023-04-16,9925,Kansai Open Golf Championship,no,jpn,no,753
+816,816,2023,2023-04-16,9926,International Series Vietnam,no,asa,no,754
+817,817,2023,2023-04-16,9928,Stella Artois Players Championship,no,afr,no,755
+818,818,2023,2023-04-16,9927,The 18th DB Insurance Promy Open,no,kor,no,756
+819,819,2023,2023-04-15,9930,Abierto De Aguascalientes,no,mex,no,757
+820,820,2023,2023-04-15,9932,Tata Steel PGTI Players Championship presented by Chandigarh Golf Club,no,pgti,no,758
+821,821,2023,2023-04-15,9922,GEBWELL Championship,no,ngl,no,759
+822,822,2023,2023-04-13,9929,"Malaysian Swing I, The Els Club, Desaru Coast",no,mgt,no,760
+823,823,2023,2023-04-11,9921,Sand Valley Polish Masters - by Upgame,no,ngl,no,761
+824,824,2023,2023-04-11,9931,EINBAY Red Sea Open,no,pgt,no,762
+825,825,2023,2023-04-09,14,Masters Tournament,yes,pga,yes,370
+826,826,2023,2023-04-07,9920,Delhi-NCR Open,no,pgti,no,763
+827,827,2023,2023-04-07,9919,Novil Cup,no,atvt,no,764
+828,828,2023,2023-04-06,9918,Little Venice Red Sea Open,no,pgt,no,765
+829,829,2023,2023-04-02,11,Orlando,no,liv,basic,766
+830,830,2023,2023-04-02,9914,Token Homemate Cup,no,jpn,no,767
+831,831,2023,2023-04-02,41,Valero Texas Open,yes,pga,yes,382
+832,832,2023,2023-04-02,9916,Limpopo Championship,no,afr,no,768
+833,833,2023,2023-04-02,6,JHSF Aberto do Brasil,no,sam,no,769
+834,834,2023,2023-04-02,167,Astara Chile Classic,no,kft,no,770
+835,835,2023,2023-04-02,9915,The National Tournament Presented by BMW,no,anz,no,771
+836,836,2023,2023-03-31,2023326,The Challenge presented by KGA,no,cha,no,772
+837,837,2023,2023-03-26,61,Roberto de Vicenzo Memorial 100 Years,no,sam,no,773
+838,838,2023,2023-03-26,2023119,Jonsson Workwear Open,no,euro,no,774
+839,839,2023,2023-03-26,128,Club Car Championship at The Landings Golf & Athletic Club,no,kft,no,379
+840,840,2023,2023-03-26,9905,World City Championship presented by Hong Kong Golf Club,no,asa,no,775
+841,841,2023,2023-03-26,522,Corales Puntacana Championship,no,pga,basic,361
+842,842,2023,2023-03-26,9909,Red Sea Egyptian Classic,no,pgt,no,776
+843,843,2023,2023-03-26,56,The Galleri Classic,no,champ,no,386
+844,844,2023,2023-03-26,2023325,Duncan Taylor Black Bull Challenge,no,cha,no,777
+845,845,2023,2023-03-19,475,Valspar Championship,yes,pga,yes,393
+846,846,2023,2023-03-19,573,Hoag Classic,no,champ,no,392
+847,847,2023,2023-03-19,2023118,SDC Championship,no,euro,no,778
+848,848,2023,2023-03-19,9897,The DGC Open,no,asa,no,779
+849,849,2023,2023-03-19,10,Tucson,no,liv,basic,780
+850,850,2023,2023-03-19,9900,Play Today NSW Open,no,anz,no,781
+851,851,2023,2023-03-19,42,Termas de Rio Hondo Invitational,no,sam,no,782
+852,852,2023,2023-03-19,9899,Singha all Thailand Memorial,no,atgt,no,783
+853,853,2023,2023-03-16,9901,Red Sea Ain Sokhna Classic,no,pgt,no,784
+854,854,2023,2023-03-12,2023114,Magical Kenya Open,no,euro,no,785
+855,855,2023,2023-03-12,11,THE PLAYERS Championship,yes,pga,yes,400
+856,856,2023,2023-03-12,9894,Mediclinic Invitational,no,afr,no,786
+857,857,2023,2023-03-12,9893,NZ PGA Championship,no,anz,no,787
+858,858,2023,2023-03-12,9892, International Series Thailand,no,asa,no,788
+859,859,2023,2023-03-05,9885,102nd NZ Open Presented by Sky Sport,no,anz,no,789
+860,860,2023,2023-03-05,483,Puerto Rico Open,no,pga,basic,411
+861,861,2023,2023-03-05,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,407
+862,862,2023,2023-03-05,18,Cologuard Classic,no,champ,no,409
+863,863,2023,2023-03-04,9888,Camiral Golf & Wellness Championship,no,ngl,no,790
+864,864,2023,2023-03-04,9886,Gujarat Open Golf Championship 2023 presented by Gujarat Tourism,no,pgti,no,791
+865,865,2023,2023-03-04,9887,V Copa Prissa,no,mex,no,792
+866,866,2023,2023-02-28,9884,Red Sea Little Venice Open,no,alp,no,793
+867,867,2023,2023-02-28,9889,ECCO Tour Spanish Masters,no,ngl,no,794
+868,868,2023,2023-02-26,9880,Singha E-San Open,no,atgt,no,795
+869,869,2023,2023-02-26,9,Mayakoba,no,liv,no,796
+870,870,2023,2023-02-26,2023303,Nelson Mandela Bay Championship,no,cha,no,797
+871,871,2023,2023-02-26,9881,"TPS Hunter Valley, Hosted by Jan Stephenson & Peter O'Malley",no,anz,no,798
+872,872,2023,2023-02-26,2023112,Hero Indian Open,no,euro,no,799
+873,873,2023,2023-02-26,10,The Honda Classic,yes,pga,yes,415
+874,874,2023,2023-02-23,9878, GolfStar Winter Series II,no,ngl,no,800
+875,875,2023,2023-02-23,9877,Ein Bay Open,no,alp,no,801
+876,876,2023,2023-02-19,9874,GolfStar Winter Series I,no,ngl,no,802
+877,877,2023,2023-02-19,9872,International Series Qatar,no,asa,no,803
+878,878,2023,2023-02-19,2023302,SDC Open,no,cha,no,804
+879,879,2023,2023-02-19,7,The Genesis Invitational,yes,pga,yes,437
+880,880,2023,2023-02-19,2023111,Thailand Classic,no,euro,no,805
+881,881,2023,2023-02-19,552,Chubb Classic,no,champ,no,436
+882,882,2023,2023-02-19,9873,"TPS Sydney, Presented by Webex, Hosted by Braith Anasta",no,anz,no,806
+883,883,2023,2023-02-12,104,Astara Golf Championship presented by Mastercard,no,kft,no,446
+884,884,2023,2023-02-12,2023301,Dimension Data Pro-Am,no,cha,no,807
+885,885,2023,2023-02-12,9863,International Series Oman,no,asa,no,808
+886,886,2023,2023-02-12,9865,Vic Open,no,anz,no,809
+887,887,2023,2023-02-12,3,WM Phoenix Open,yes,pga,yes,443
+888,888,2023,2023-02-12,2023110,Singapore Classic,no,euro,no,810
+889,889,2023,2023-02-11,9867,Tabachines Classic,no,mex,no,811
+890,890,2023,2023-02-11,624,Trophy Hassan II,no,champ,no,431
+891,891,2023,2023-02-10,9864,Tata Steel PGTI Players Championship presented by Tollygunge Club,no,pgti,no,812
+892,892,2023,2023-02-07,9866,Egyptian Swing 2 at Madinaty Golf Club,no,mgt,no,813
+893,893,2023,2023-02-05,2023109,Ras Al Khaimah Championship,no,euro,no,814
+894,894,2023,2023-02-05,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,452
+895,895,2023,2023-02-05,9857,TPS Murray River in honour of Jarrod Lyle,no,anz,no,815
+896,896,2023,2023-02-05,9856,PIF Saudi International powered by Softbank Investment Advisers,no,asa,no,816
+897,897,2023,2023-02-05,84,The Panama Championship,no,kft,no,454
+898,898,2023,2023-02-05,2023300,Bain's Whisky Cape Town Open,no,cha,no,817
+899,899,2023,2023-02-02,9858,Egyptian Swing 1 at Madinaty Golf Club,no,mgt,no,818
+900,900,2023,2023-01-29,2023108,Hero Dubai Desert Classic,no,euro,no,819
+901,901,2023,2023-01-29,9849,TPS Victoria Hosted by Geoff Ogilvy,no,anz,no,820
+902,902,2023,2023-01-29,9848,9th Boonchu Ruangkit Championship,no,atgt,no,821
+903,903,2023,2023-01-29,9850,El Campanario Classic,no,mex,no,822
+904,904,2023,2023-01-28,4,Farmers Insurance Open,partial,pga,partial,460
+905,905,2023,2023-01-25,125,The Bahamas Great Abaco Classic at The Abaco Club,no,kft,no,462
+906,906,2023,2023-01-22,2023107,Abu Dhabi HSBC Championship,no,euro,no,823
+907,907,2023,2023-01-22,2,The American Express,partial,pga,partial,465
+908,908,2023,2023-01-21,524,Mitsubishi Electric Championship at Hualalai,no,champ,no,467
+909,909,2023,2023-01-18,124,The Bahamas Great Exuma Classic at Sandals Emerald Bay,no,kft,no,469
+910,910,2023,2023-01-15,6,Sony Open in Hawaii,yes,pga,yes,472
+911,911,2023,2023-01-08,16,Sentry Tournament of Champions,yes,pga,yes,474
+912,912,2022,2022-12-25,9839,Chongqing Open,no,chn,no,824
+913,913,2022,2022-12-25,9838,Taifong Open,no,adt,no,825
+914,914,2022,2022-12-24,9837,Tata Steel Tour Championship,no,pgti,no,826
+915,915,2022,2022-12-18,16,Scotia Wealth Management Chile Open presented by Volvo,no,sam,no,827
+916,916,2022,2022-12-18,2023105,AfrAsia Bank Mauritius Open,no,euro,no,828
+917,917,2022,2022-12-17,9835,CGA Championship,no,chn,no,829
+918,918,2022,2022-12-17,9836,SSP Chawrasia Invitational presented by TAKE,no,pgti,no,830
+919,919,2022,2022-12-16,9834,Aramco Invitational,no,adt,no,831
+920,920,2022,2022-12-11,9828,Hainan Open,no,chn,no,832
+921,921,2022,2022-12-11,9830,Gippsland Super 6,no,anz,no,833
+922,922,2022,2022-12-11,2023104,Alfred Dunhill Championship,no,euro,no,834
+923,923,2022,2022-12-11,12,Neuquen Argentina Classic,no,sam,no,835
+924,924,2022,2022-12-10,9829,PIF Saudi Open,no,adt,no,836
+925,925,2022,2022-12-05,9825,MENA Tour Tournament 4,no,mgt,no,837
+926,926,2022,2022-12-04,9817,BNI Indonesian Masters presented by Tunas Niaga Energi,no,asa,no,838
+927,927,2022,2022-12-04,2023103,Investec South African Open Championship,no,euro,no,839
+928,928,2022,2022-12-04,2023102,ISPS Handa Australian Open,no,euro,no,840
+929,929,2022,2022-12-04,9816,Mitsubishi Electric Open,no,chn,no,841
+930,930,2022,2022-12-04,13,116 VISA Argentina Open presentado por Macro,no,sam,no,842
+931,931,2022,2022-12-04,478,Hero World Challenge,no,pga,basic,9
+932,932,2022,2022-12-04,9815,Golf Nippon Series JT Cup ,no,jpn,no,843
+933,933,2022,2022-11-30,9820,MENA Tour Tournament 3,no,mgt,no,844
+934,934,2022,2022-11-27,2023101,Joburg Open,no,euro,no,845
+935,935,2022,2022-11-27,9809,Bangabandhu Cup Golf Bangladesh Open,no,asa,no,846
+936,936,2022,2022-11-27,9811,Dream Valley Group presents Vooty Masters,no,pgti,no,847
+937,937,2022,2022-11-27,9808,Casio World Open Golf Tournament,no,jpn,no,848
+938,938,2022,2022-11-27,2023100,Fortinet Australian PGA Championship,no,euro,no,849
+939,939,2022,2022-11-26,9810,Selangor Masters,no,adt,no,850
+940,940,2022,2022-11-20,493,The RSM Classic,partial,pga,partial,23
+941,941,2022,2022-11-20,2022143,DP World Tour Championship,no,euro,no,851
+942,942,2022,2022-11-20,9806,QLD PGA Championship,no,anz,no,852
+943,943,2022,2022-11-20,9805,23rd Singha Thailand Masters,no,atgt,no,853
+944,944,2022,2022-11-20,9802,Dunlop Phoenix Tournament,no,jpn,no,854
+945,945,2022,2022-11-19,9804, IndianOil Servo Masters Golf,no,pgti,no,855
+946,946,2022,2022-11-17,9807,Altron Big Easy Tour Final,no,bet,no,856
+947,947,2022,2022-11-13,9792,Mitsui Sumitomo VISA Taiheiyo Masters,no,jpn,no,857
+948,948,2022,2022-11-13,20,Cadence Bank Houston Open,yes,pga,yes,391
+949,949,2022,2022-11-13,539,Charles Schwab Cup Championship,no,champ,no,43
+950,950,2022,2022-11-13,9794,International Series Egypt,no,asa,no,858
+951,951,2022,2022-11-13,2022145,Nedbank Golf Challenge,no,euro,no,859
+952,952,2022,2022-11-13,9796,LG Signature Players Championship,no,kor,no,860
+953,953,2022,2022-11-13,9793,Hengdian Championship,no,chn,no,861
+954,954,2022,2022-11-13,9797, Victorian PGA Championship,no,anz,no,862
+955,955,2022,2022-11-12,9795,Ira presents Telangana Masters powered by Telangana Tourism,no,pgti,no,863
+956,956,2022,2022-11-06,9788,PGA Championship,no,afr,no,864
+957,957,2022,2022-11-06,457,World Wide Technology Championship at Mayakoba,no,pga,basic,40
+958,958,2022,2022-11-06,9787,Mynavi ABC Championship,no,jpn,no,865
+959,959,2022,2022-11-06,9,TimberTech Championship,no,champ,no,54
+960,960,2022,2022-11-06,9786,International Series Morocco,no,asa,no,866
+961,961,2022,2022-11-06,9789,Golfzone-Toray Open,no,kor,no,867
+962,962,2022,2022-11-06,2022330,Rolex Challenge Tour Grand Final supported by The R&A,no,cha,no,868
+963,963,2022,2022-10-30,2022156,Portugal Masters,no,euro,no,869
+964,964,2022,2022-10-30,528,Butterfield Bermuda Championship,no,pga,basic,30
+965,965,2022,2022-10-30,8,Miami (Team Final—Stroke Play),no,liv,basic,870
+966,966,2022,2022-10-30,9783,Vodacom Origins of Golf Final,no,afr,no,871
+967,967,2022,2022-10-30,9782,Heiwa PGM Championship,no,jpn,no,872
+968,968,2022,2022-10-23,521,THE CJ CUP in South Carolina,yes,pga,yes,873
+969,969,2022,2022-10-23,623,Dominion Energy Charity Classic,no,champ,no,63
+970,970,2022,2022-10-23,2022140,Mallorca Golf Open,no,euro,no,874
+971,971,2022,2022-10-23,9776,Japan Open Golf Championship,no,jpn,no,875
+972,972,2022,2022-10-23,9778,WA Open Golf Championship,no,anz,no,876
+973,973,2022,2022-10-22,9777,Pune Open Golf Championship,no,pgti,no,877
+974,974,2022,2022-10-21,9774,Sydbank Road to Europe Final - by Møn Golfresort,no,ngl,no,878
+975,975,2022,2022-10-21,9773,The Matchroom Tour Championship ,no,ept,no,879
+976,976,2022,2022-10-21,9779,SunBet Challenge hosted by Sun Sibaya,no,afr,no,880
+977,977,2022,2022-10-16,9769,Singha Bangkok Open,no,atgt,no,881
+978,978,2022,2022-10-16,7,Jeddah,no,liv,basic,882
+979,979,2022,2022-10-16,2022324,English Trophy presented by Rocket Yard Sports Marketing,no,cha,no,883
+980,980,2022,2022-10-16,2022139,Estrella Damm N.A. Andalucía  Masters,no,euro,no,884
+981,981,2022,2022-10-16,9768,Jeev Milkha Singh Invitational presented by TAKE,no,pgti,no,885
+982,982,2022,2022-10-16,527,ZOZO CHAMPIONSHIP,no,pga,basic,57
+983,983,2022,2022-10-16,9770,CKB WA PGA Championship presented by TX Civil & Logistics,no,anz,no,886
+984,984,2022,2022-10-16,609,SAS Championship,no,champ,no,79
+985,985,2022,2022-10-14,9767,Delight Works JGTO FINAL ,no,atvt,no,887
+986,986,2022,2022-10-14,9765,MoreGolf Mastercard Tour Final at PGA Sweden National,no,ngl,no,888
+987,987,2022,2022-10-09,44,Constellation FURYK & FRIENDS,no,champ,no,85
+988,988,2022,2022-10-09,9761,Fortress Invitational,no,afr,no,889
+989,989,2022,2022-10-09,6,Bangkok,no,liv,basic,890
+990,990,2022,2022-10-09,2022138,acciona Open de España presented by Madrid,no,euro,no,891
+991,991,2022,2022-10-09,47,Shriners Children's Open,yes,pga,yes,64
+992,992,2022,2022-10-09,9757,For The Players By The Players,no,jpn,no,892
+993,993,2022,2022-10-09,9760,Genesis Championship,no,kor,no,893
+994,994,2022,2022-10-09,2022341,British Challenge presented by Modest! Golf Management ,no,cha,no,894
+995,995,2022,2022-10-08,9754,Emilia Romagna Alps Tour Grand Final,no,alp,no,895
+996,996,2022,2022-10-07,9758,Ryo Ishikawa everyone PROJECT Challenge,no,atvt,no,896
+997,997,2022,2022-10-07,9755,Race to HimmerLand by FREJA,no,ngl,no,897
+998,998,2022,2022-10-07,9759,Players Championship presented by American Express hosted by Govt of Haryana & Panchkula Golf Club,no,pgti,no,898
+999,999,2022,2022-10-06,9762,Altron Big Easy Tour Play Off,no,bet,no,899
+1000,1000,2022,2022-10-02,9748,Mercuries Taiwan Masters,no,asa,no,900
+1001,1001,2022,2022-10-02,54,Sanderson Farms Championship,yes,pga,yes,87
+1002,1002,2022,2022-10-02,9750,Hyundai Insurance KJ Choi Invitational,no,kor,no,901
+1003,1003,2022,2022-10-02,2022137,Alfred Dunhill Links Championship,no,euro,no,902
+1004,1004,2022,2022-10-02,2022327,Hopps Open de Provence,no,cha,no,903
+1005,1005,2022,2022-10-02,9745,Vantelin Tokai Classic,no,jpn,no,904
+1006,1006,2022,2022-10-01,9751,Vodacom Origins of Golf,no,afr,no,905
+1007,1007,2022,2022-09-30,9749,Kapil Dev - Grant Thornton Invitational 2022 presented by DLF,no,pgti,no,906
+1008,1008,2022,2022-09-30,9741,Castelconturbia Alps Open,no,alp,no,907
+1009,1009,2022,2022-09-30,9746,Elite grips challenge,no,atvt,no,908
+1010,1010,2022,2022-09-29,9742,Gumbalde Open by Destination Gotland,no,ngl,no,909
+1011,1011,2022,2022-09-28,9743,Castanea Resort Championship,no,pgt,no,910
+1012,1012,2022,2022-09-25,9733,Panasonic Open Golf Championship,no,jpn,no,911
+1013,1013,2022,2022-09-25,616,PURE Insurance Championship,no,champ,no,109
+1014,1014,2022,2022-09-25,9737,DGB Financial Group Open,no,kor,no,912
+1015,1015,2022,2022-09-25,2022136,Cazoo Open de France,no,euro,no,913
+1016,1016,2022,2022-09-25,2022326,Swiss Challenge,no,cha,no,914
+1017,1017,2022,2022-09-25,9735,Yeangder TPC,no,asa,no,915
+1018,1018,2022,2022-09-23,9731,Wright-Morgan Championship,no,ept,no,916
+1019,1019,2022,2022-09-23,9736,Combiphar Players Championship,no,adt,no,917
+1020,1020,2022,2022-09-23,9734,ISPS HANDA Hero ni nare! Challenge Tournament,no,atvt,no,918
+1021,1021,2022,2022-09-23,9738,SunBet Challenge hosted by Wild Coast Sun,no,afr,no,919
+1022,1022,2022,2022-09-23,9732,Great Northern Challenge,no,ngl,no,920
+1023,1023,2022,2022-09-18,2022135,DS Automobiles Italian Open,no,euro,no,921
+1024,1024,2022,2022-09-18,9726,Bizplay-Electronic Times Open,no,kor,no,922
+1025,1025,2022,2022-09-18,2022325,Open de Portugal at Royal Óbidos,no,cha,no,923
+1026,1026,2022,2022-09-18,5,Chicago,no,liv,basic,924
+1027,1027,2022,2022-09-18,9722,ANA Open Golf Tournament,no,jpn,no,925
+1028,1028,2022,2022-09-18,464,Fortinet Championship,yes,pga,yes,120
+1029,1029,2022,2022-09-18,23,Sanford International,no,champ,no,122
+1030,1030,2022,2022-09-18,10,Fortinet Cup Championship,no,can,no,587
+1031,1031,2022,2022-09-17,9725,Rajasthan Tourism presents Jaipur Open 2022 powered by AU Small Finance Bank,no,pgti,no,926
+1032,1032,2022,2022-09-17,9727,Vodacom Origins of Golf,no,afr,no,927
+1033,1033,2022,2022-09-16,9723,PGM Challenge,no,atvt,no,928
+1034,1034,2022,2022-09-16,9724,OB Golf Invitational presented by Jababeka,no,adt,no,929
+1035,1035,2022,2022-09-16,9718,The Eagle Orchid Scottish Masters,no,ept,no,930
+1036,1036,2022,2022-09-16,9719,TRUST Forsikring Championship,no,ngl,no,931
+1037,1037,2022,2022-09-11,2022134,BMW PGA Championship,no,euro,no,932
+1038,1038,2022,2022-09-11,625,Ascension Charity Classic,no,champ,no,132
+1039,1039,2022,2022-09-11,9713,The 38th Shinhan Donghae Open,no,asa,no,933
+1040,1040,2022,2022-09-10,9715,Gary & Vivienne Player Challenge,no,afr,no,934
+1041,1041,2022,2022-09-10,9714,J&K Open 2022 presented by J&K Tourism,no,pgti,no,935
+1042,1042,2022,2022-09-09,9712,BMW Onsjö Open,no,ngl,no,936
+1043,1043,2022,2022-09-09,9711,Spey Valley Golf Resort,no,ept,no,937
+1044,1044,2022,2022-09-04,39,GolfBC Championship,no,can,no,938
+1045,1045,2022,2022-09-04,2022323,B-NL Challenge Trophy by Hulencourt,no,cha,no,939
+1046,1046,2022,2022-09-04,9703,Fujisankei Classic,no,jpn,no,940
+1047,1047,2022,2022-09-04,2022133,Made in HimmerLand,no,euro,no,941
+1048,1048,2022,2022-09-04,45,Korn Ferry Tour Championship presented by United Leasing & Finance,no,kft,no,91
+1049,1049,2022,2022-09-04,9702,50th Thailand Open,no,atgt,no,942
+1050,1050,2022,2022-09-04,4,Boston,no,liv,basic,943
+1051,1051,2022,2022-09-04,9706,LX CHAMPIONSHIP,no,kor,no,944
+1052,1052,2022,2022-09-03,9708,FaberExposize Gelpenberg Open,no,pgt,no,945
+1053,1053,2022,2022-09-03,9704,DUNLOP PHOENIX tournament challenge in Fukushima,no,atvt,no,946
+1054,1054,2022,2022-09-02,9707,Greatdays Trophy,no,ngl,no,947
+1055,1055,2022,2022-09-02,9705,BRG Open Golf Championship,no,adt,no,948
+1056,1056,2022,2022-09-01,9697,Altron Big Easy Tour 8,no,bet,no,949
+1057,1057,2022,2022-08-28,94,Nationwide Children's Hospital Championship,no,kft,no,113
+1058,1058,2022,2022-08-28,9682,Sansan KBC Augusta,no,jpn,no,950
+1059,1059,2022,2022-08-28,2022132,Omega European Masters,no,euro,no,951
+1060,1060,2022,2022-08-28,22,The Ally Challenge,no,champ,no,154
+1061,1061,2022,2022-08-28,9679,ALTEPRO Trophy 2022 by EXTEC,no,pgt,no,952
+1062,1062,2022,2022-08-28,53,CRMC Championship presented by Gertens,no,can,no,593
+1063,1063,2022,2022-08-28,60,TOUR Championship,yes,pga,yes,146
+1064,1064,2022,2022-08-28,2022322,Indoor Golf Group Challenge,no,cha,no,953
+1065,1065,2022,2022-08-28,9686,Bodyfriend Phantom Rovo Gunsan CC Open,no,kor,no,954
+1066,1066,2022,2022-08-27,9685,Vodacom Origins of Golf Highland Gate,no,afr,no,955
+1067,1067,2022,2022-08-27,9684,BNI Ciputra Golfpreneur Tournament ADT 2022,no,adt,no,956
+1068,1068,2022,2022-08-26,9678,The Northern Ireland Masters,no,ept,no,957
+1069,1069,2022,2022-08-26,9683,IMPIGER TECHNOLOGIES presents CHENNAI OPEN GOLF CHAMPIONSHIP 2022 powered by FRUITNIK ELECTRO+,no,pgti,no,958
+1070,1070,2022,2022-08-21,8,DICK'S Sporting Goods Open,no,champ,no,261
+1071,1071,2022,2022-08-21,9667,Shigeo Nagashima INVITATIONAL Sega Sammy Cup,no,jpn,no,959
+1072,1072,2022,2022-08-21,28,BMW Championship,yes,pga,yes,155
+1073,1073,2022,2022-08-21,2022131,D+D Real Czech Masters,no,euro,no,960
+1074,1074,2022,2022-08-21,9668,Singha Chiang Mai Open ,no,atgt,no,961
+1075,1075,2022,2022-08-21,9671,Shenyang International Open,no,chn,no,962
+1076,1076,2022,2022-08-21,6,CentrePort Canada Rail Park Manitoba Open,no,can,no,603
+1077,1077,2022,2022-08-21,2022321,Dormy Open,no,cha,no,963
+1078,1078,2022,2022-08-21,9669,International Series Korea,no,asa,no,964
+1079,1079,2022,2022-08-21,27,Albertsons Boise Open presented by Chevron,no,kft,no,157
+1080,1080,2022,2022-08-20,9674,TATA Steel PGTI Players Championship 2022 presented by KGISL,no,pgti,no,965
+1081,1081,2022,2022-08-20,9672,Esbjerg Open by Totalenergies,no,ngl,no,966
+1082,1082,2022,2022-08-19,9673,SunBet Challenge hosted by Time Square Casino,no,afr,no,967
+1083,1083,2022,2022-08-19,9670,The 2nd Gunung Geulis Golf Invitational supported by Nomura,no,adt,no,968
+1084,1084,2022,2022-08-14,123,Pinnacle Bank Championship presented by Aetna,no,kft,no,188
+1085,1085,2022,2022-08-14,9654,The 4th Woosung Construction Open,no,kor,no,969
+1086,1086,2022,2022-08-14,2022130,ISPS Handa World Invitational presented by AVIV Clinics,no,euro,no,970
+1087,1087,2022,2022-08-14,27,FedEx St. Jude Championship,yes,pga,yes,176
+1088,1088,2022,2022-08-14,619,Boeing Classic,no,champ,no,184
+1089,1089,2022,2022-08-14,2022320,Frederikshavn Challenge - Presented by HESSEL,no,cha,no,971
+1090,1090,2022,2022-08-14,9656,International Series Singapore,no,asa,no,972
+1091,1091,2022,2022-08-13,9658,Timberwise Finnish Open,no,ngl,no,973
+1092,1092,2022,2022-08-12,9657,The Lancer Scott Championship,no,ept,no,974
+1093,1093,2022,2022-08-10,9659,Richter+Frenzel Open 2022 ,no,pgt,no,975
+1094,1094,2022,2022-08-07,9645,The Dell Technologies Championship,no,ept,no,976
+1095,1095,2022,2022-08-07,13,Wyndham Championship,yes,pga,yes,189
+1096,1096,2022,2022-08-07,9646,Göteborg Open presented by Enkla Elbolaget,no,ngl,no,977
+1097,1097,2022,2022-08-07,2022129,Cazoo Open supported by Gareth Bale,no,euro,no,978
+1098,1098,2022,2022-08-07,9647,Vodacom Origins of Golf,no,afr,no,979
+1099,1099,2022,2022-08-07,17,Shaw Charity Classic,no,champ,no,173
+1100,1100,2022,2022-08-07,26,Utah Championship presented by Zions Bank,no,kft,no,197
+1101,1101,2022,2022-08-07,9642,Mandiri Indonesia Open 2022,no,asa,no,980
+1102,1102,2022,2022-08-07,2022319,Vierumäki Finnish Challenge,no,cha,no,981
+1103,1103,2022,2022-08-07,44,Quebec Open,no,can,no,647
+1104,1104,2022,2022-08-07,9640,Japan PGA Championship 2022,no,jpn,no,982
+1105,1105,2022,2022-07-31,3,Bedminster,no,liv,basic,983
+1106,1106,2022,2022-07-31,9637,FNB Eswatini Nkonyeni Challenge,no,afr,no,984
+1107,1107,2022,2022-07-31,9634,The Q Hotels Collection Championship,no,ept,no,985
+1108,1108,2022,2022-07-31,9636,Minami Akita Country Club Michinoku Challenge Tournament,no,atvt,no,986
+1109,1109,2022,2022-07-31,2022318,Irish Challenge,no,cha,no,987
+1110,1110,2022,2022-07-31,9635,Holtsmark Open,no,ngl,no,988
+1111,1111,2022,2022-07-31,54,Sotheby's International Realty Canada Ontario Open,no,can,no,989
+1112,1112,2022,2022-07-31,524,Rocket Mortgage Classic,yes,pga,yes,246
+1113,1113,2022,2022-07-31,2022128,Hero Open,no,euro,no,990
+1114,1114,2022,2022-07-31,9633,Singha Championship 2022,no,atgt,no,991
+1115,1115,2022,2022-07-24,9627,GLAL.UK Worcestershire Masters,no,ept,no,992
+1116,1116,2022,2022-07-24,48,Osprey Valley Open presented by Votorantim Cimentos CBM Aggregates,no,can,no,636
+1117,1117,2022,2022-07-24,9628,JAPAN PLAYERS CHAMPIONSHIP CHALLENGE in FUKUI 2022,no,atvt,no,993
+1118,1118,2022,2022-07-24,9626,Roma Alps Open 2022,no,alp,no,994
+1119,1119,2022,2022-07-24,9625,Singha Pattaya Open 2022,no,atgt,no,995
+1120,1120,2022,2022-07-24,2022127,Cazoo Classic,no,euro,no,996
+1121,1121,2022,2022-07-24,614,The Senior Open Championship presented by Rolex,no,champ,no,208
+1122,1122,2022,2022-07-24,2022317,Big Green Egg German Challenge powered by VcG,no,cha,no,997
+1123,1123,2022,2022-07-24,525,3M Open,yes,pga,yes,207
+1124,1124,2022,2022-07-24,22,Price Cutter Charity Championship presented by Dr Pepper,no,kft,no,217
+1125,1125,2022,2022-07-17,472,Barracuda Championship,no,pga,basic,214
+1126,1126,2022,2022-07-17,122,Memorial Health Championship presented by LRS,no,kft,no,245
+1127,1127,2022,2022-07-17,9616,Fred Olsen Alps de La Gomera 2022,no,alp,no,998
+1128,1128,2022,2022-07-17,9618,Weihenstephan Open 2022,no,pgt,no,999
+1129,1129,2022,2022-07-17,9619,Altron Big Easy Tour 7,no,bet,no,1000
+1130,1130,2022,2022-07-17,2022316,Euram Bank Open,no,cha,no,1001
+1131,1131,2022,2022-07-17,100,The Open Championship,yes,pga,yes,218
+1132,1132,2022,2022-07-17,9617,CPG Classic - England & Wales Blind Golf,no,ept,no,1002
+1133,1133,2022,2022-07-10,507,Bridgestone SENIOR PLAYERS Championship,no,champ,no,227
+1134,1134,2022,2022-07-10,541,Genesis Scottish Open,yes,pga,yes,226
+1135,1135,2022,2022-07-10,518,Barbasol Championship,yes,pga,yes,222
+1136,1136,2022,2022-07-10,9607,Alps de Las Castillas 2022,no,alp,no,1003
+1137,1137,2022,2022-07-10,9609,Altron Big Easy Tour 6,no,bet,no,1004
+1138,1138,2022,2022-07-10,2022315,Le Vaudreuil Golf Challenge,no,cha,no,1005
+1139,1139,2022,2022-07-10,9606,Hangzhou International Championship,no,chn,no,1006
+1140,1140,2022,2022-07-03,9601,Altron Big Easy Tour 5,no,bet,no,1007
+1141,1141,2022,2022-07-03,9598,The PDC Golf Championship,no,ept,no,1008
+1142,1142,2022,2022-07-03,52,Prince Edward Island Open presented by IMP Solutions,no,can,no,1009
+1143,1143,2022,2022-07-03,130,The Ascendant presented by Blue,no,kft,no,228
+1144,1144,2022,2022-07-03,2022122,Horizon Irish Open,no,euro,no,1010
+1145,1145,2022,2022-07-03,2,Portland,no,liv,basic,1011
+1146,1146,2022,2022-07-03,30,John Deere Classic,yes,pga,yes,234
+1147,1147,2022,2022-07-03,9599,PGA Championship Landeryd Masters,no,ngl,no,1012
+1148,1148,2022,2022-07-03,9597,Hauts de France-Pas de Calais Golf Open 2022,no,alp,no,1013
+1149,1149,2022,2022-07-03,9595,Asiad CC Busan Open,no,kor,no,1014
+1150,1150,2022,2022-07-03,9600,Raiffeisen Pro Golf Tour St. Pölten 2022,no,pgt,no,1015
+1151,1151,2022,2022-07-03,2022314,Italian Challenge Open,no,cha,no,1016
+1152,1152,2022,2022-06-26,2022313,Blot Open de Bretagne,no,cha,no,1017
+1153,1153,2022,2022-06-26,136,Live and Work in Maine Open,no,kft,no,1018
+1154,1154,2022,2022-06-26,9589,Daisendori Cup,no,atvt,no,1019
+1155,1155,2022,2022-06-26,34,Travelers Championship,yes,pga,yes,258
+1156,1156,2022,2022-06-26,9587,UNICEF Championship,no,ngl,no,1020
+1157,1157,2022,2022-06-26,9588,Gradi Polish Open 2022,no,pgt,no,1021
+1158,1158,2022,2022-06-26,9580,Kolon The 64th Korea Open,no,kor,no,1022
+1159,1159,2022,2022-06-26,9584,Singha all Thailand Premier Championship 2022,no,atgt,no,1023
+1160,1160,2022,2022-06-26,2022121,BMW International Open,no,euro,no,1024
+1161,1161,2022,2022-06-26,9585,Alps de Andalucia 2022,no,alp,no,1025
+1162,1162,2022,2022-06-26,512,U.S. Senior Open Championship,no,champ,no,242
+1163,1163,2022,2022-06-26,9590,Altron Big Easy Tour 4,no,bet,no,1026
+1164,1164,2022,2022-06-26,9586,The Bendac Championship,no,ept,no,1027
+1165,1165,2022,2022-06-26,57,Bupa Tour Championship,no,sam,no,663
+1166,1166,2022,2022-06-26,9577,JAPAN PLAYERS CHAMPIONSHIP by Sato Shokuhin,no,jpn,no,1028
+1167,1167,2022,2022-06-19,9567,Indo Masters Golf Invitational presented by TNE,no,adt,no,1029
+1168,1168,2022,2022-06-19,2022312,Kaskáda Golf Challenge,no,cha,no,1030
+1169,1169,2022,2022-06-19,3,ATB Classic presented by Volvo Edmonton,no,can,no,661
+1170,1170,2022,2022-06-19,23,Wichita Open Benefitting KU Wichita Pediatrics,no,kft,no,270
+1171,1171,2022,2022-06-19,9565,Hana Bank Invitational,no,kor,no,1031
+1172,1172,2022,2022-06-19,9572,Altron Big Easy Tour 3,no,bet,no,1032
+1173,1173,2022,2022-06-19,9570,Junet Open presented by Alexander Björk,no,ngl,no,1033
+1174,1174,2022,2022-06-19,9571,Japan Create Challenge in FukuokaRaizan,no,atvt,no,1034
+1175,1175,2022,2022-06-19,9568,Aravell Golf Open by Credit Andorra 2022,no,alp,no,1035
+1176,1176,2022,2022-06-19,9569,IFX Payments Championship,no,ept,no,1036
+1177,1177,2022,2022-06-19,26,U.S. Open,yes,pga,basic,269
+1178,1178,2022,2022-06-12,32,RBC Canadian Open,yes,pga,yes,293
+1179,1179,2022,2022-06-12,9553,KitKat Group PROAM,no,afr,no,1037
+1180,1180,2022,2022-06-12,9559,The World Snooker & Jessie May Champs,no,ept,no,1038
+1181,1181,2022,2022-06-12,9555,ASO IIZUKA Challenged Golf Tournament,no,jpn,no,1039
+1182,1182,2022,2022-06-12,9557,65TH KPGA CHAMPIONSHIP WITH A-ONE CC,no,kor,no,1040
+1183,1183,2022,2022-06-12,2022311,Empordà Challenge,no,cha,no,1041
+1184,1184,2022,2022-06-12,9554,Altron Big Easy Tour 2 - Huddle Park Golf Club,no,bet,no,1042
+1185,1185,2022,2022-06-12,622,American Family Insurance Championship,no,champ,no,285
+1186,1186,2022,2022-06-12,9560,Thomas Bjorn Samso Classic - by Samso Festival,no,ngl,no,1043
+1187,1187,2022,2022-06-12,9556,LANDIC CHALLENGE 9,no,atvt,no,1044
+1188,1188,2022,2022-06-12,2022119,Volvo Car Scandinavian Mixed,no,euro,no,1045
+1189,1189,2022,2022-06-12,9561,OB Golf Invitational,no,adt,no,1046
+1190,1190,2022,2022-06-12,9558,Open de la Mirabelle d'Or 2022,no,alp,no,1047
+1191,1191,2022,2022-06-12,11,Fortox Colombia Classic,no,sam,no,704
+1192,1192,2022,2022-06-12,37,BMW Charity Pro-Am presented by TD SYNNEX,no,kft,no,280
+1193,1193,2022,2022-06-11,1,London,no,liv,basic,1048
+1194,1194,2022,2022-06-05,2022310,D+D REAL Czech Challenge,no,cha,no,1049
+1195,1195,2022,2022-06-05,48,REX Hospital Open,no,kft,no,295
+1196,1196,2022,2022-06-05,2,Royal Beach Victoria Open presented by Times Colonist,no,can,no,678
+1197,1197,2022,2022-06-05,59,Volvo Golf Championship by Seguros del Estado,no,sam,no,693
+1198,1198,2022,2022-06-05,9540,International Series England,no,asa,no,1050
+1199,1199,2022,2022-06-05,9542,SK Telecom Open 2022,no,kor,no,1051
+1200,1200,2022,2022-06-05,9545,The Ignis Management Championship,no,ept,no,1052
+1201,1201,2022,2022-06-05,608,Principal Charity Classic,no,champ,no,294
+1202,1202,2022,2022-06-05,23,the Memorial Tournament presented by Workday,yes,pga,yes,283
+1203,1203,2022,2022-06-05,9538,BMW Japan Golf Tour Championship Mori Building Cup,no,jpn,no,1053
+1204,1204,2022,2022-06-05,2022118,Porsche European Open,no,euro,no,1054
+1205,1205,2022,2022-06-05,9546,Thisted Forsikring Championship,no,ngl,no,1055
+1206,1206,2022,2022-06-05,9544,SunBet Challenge hosted by Sun City,no,afr,no,1056
+1207,1207,2022,2022-05-29,9526,Sishen Classic,no,afr,no,1057
+1208,1208,2022,2022-05-29,131,NV5 Invitational presented by Old National Bank,no,kft,no,205
+1209,1209,2022,2022-05-29,520,KitchenAid Senior PGA Championship,no,champ,no,309
+1210,1210,2022,2022-05-29,9528,KB FINANCE LIIV CHAMPIONSHIP,no,kor,no,1058
+1211,1211,2022,2022-05-29,9524,Gate Way To The Open Mizuno Open,no,jpn,no,1059
+1212,1212,2022,2022-05-29,9530,Singha Laguna Phuket Open 2022,no,atgt,no,1060
+1213,1213,2022,2022-05-29,9535,Taiheiyo Club Challenge Tournament,no,atvt,no,1061
+1214,1214,2022,2022-05-29,21,Charles Schwab Challenge,yes,pga,yes,307
+1215,1215,2022,2022-05-29,2022309,Farmfoods Scottish Challenge supported by The R&A,no,cha,no,1062
+1216,1216,2022,2022-05-29,9533,Moss & Rygge Open,no,ngl,no,1063
+1217,1217,2022,2022-05-29,9531,Memorial Giorgio Bordoni 2022,no,alp,no,1064
+1218,1218,2022,2022-05-29,2022117,Dutch Open,no,euro,no,1065
+1219,1219,2022,2022-05-29,9532,Cubefunder Shootout,no,ept,no,1066
+1220,1220,2022,2022-05-22,33,PGA Championship,yes,pga,yes,316
+1221,1221,2022,2022-05-22,9517,FBC Zim Open,no,afr,no,1067
+1222,1222,2022,2022-05-22,9515,Golf Partner Pro-Am Tournament 2022,no,jpn,no,1068
+1223,1223,2022,2022-05-22,2022307,Challenge de España ,no,cha,no,1069
+1224,1224,2022,2022-05-22,100,AdventHealth Championship,no,kft,no,317
+1225,1225,2022,2022-05-22,9520,Stora Hotellet Fjällbacka Open,no,ngl,no,1070
+1226,1226,2022,2022-05-22,9519,Blue Canyon Open,no,mgt,no,1071
+1227,1227,2022,2022-05-15,9508,30th Goesser Open 2022,no,alp,no,1072
+1228,1228,2022,2022-05-15,9509,Rewell Elisefarm Challenge,no,ngl,no,1073
+1229,1229,2022,2022-05-15,9507,Woori Financial Group Championship,no,kor,no,1074
+1230,1230,2022,2022-05-15,9513,Lombard Insurance Classic,no,afr,no,1075
+1231,1231,2022,2022-05-15,9512,Altron Big Easy Tour 1 - Blue Valley,no,bet,no,1076
+1232,1232,2022,2022-05-15,2022115,Soudal Open,no,euro,no,1077
+1233,1233,2022,2022-05-15,558,Regions Tradition,no,champ,no,327
+1234,1234,2022,2022-05-15,19,AT&T Byron Nelson,yes,pga,yes,341
+1235,1235,2022,2022-05-15,9505,Asia Pacific Open Golf Championship Diamond Cup Golf,no,asa,no,1078
+1236,1236,2022,2022-05-15,9511,Blue Canyon Classic,no,adt,no,1079
+1237,1237,2022,2022-05-15,11,Visit Knoxville Open,no,kft,no,305
+1238,1238,2022,2022-05-15,9510,Laguna Phuket Cup,no,adt,no,1080
+1239,1239,2022,2022-05-08,480,Wells Fargo Championship,yes,pga,yes,325
+1240,1240,2022,2022-05-08,22,Quito Open,no,sam,no,726
+1241,1241,2022,2022-05-08,9500,2021 Tailor-made Building Services NT PGA Championship,no,anz,no,1081
+1242,1242,2022,2022-05-08,120,Simmons Bank Open for the Snedeker Foundation,no,kft,no,123
+1243,1243,2022,2022-05-08,15,Mitsubishi Electric Classic,no,champ,no,352
+1244,1244,2022,2022-05-08,9501,Barncancerfonden Open presented by Ahlsell,no,ngl,no,1082
+1245,1245,2022,2022-05-08,9499,Laguna Phuket Challenge,no,mgt,no,1083
+1246,1246,2022,2022-05-08,9502,Molinetto Alps Open 2022,no,alp,no,1084
+1247,1247,2022,2022-05-08,2022114,Betfred British Masters hosted by Danny Willett,no,euro,no,1085
+1248,1248,2022,2022-05-08,9496,The 41st GS Caltex Maekyung Open,no,kor,no,1086
+1249,1249,2022,2022-05-01,9490,2021 Nexus Advisernet WA Open,no,anz,no,1087
+1250,1250,2022,2022-05-01,9488,Bravo Tours Open by Enjoy Resorts,no,ngl,no,1088
+1251,1251,2022,2022-05-01,8,Diners Club Peru Open presented by Volvo,no,sam,no,733
+1252,1252,2022,2022-05-01,615,Insperity Invitational,no,champ,no,339
+1253,1253,2022,2022-05-01,9492,Haugschlag NÖ Open by perfect eagle 2022,no,pgt,no,1089
+1254,1254,2022,2022-05-01,9491,Singha Classic 2022,no,atgt,no,1090
+1255,1255,2022,2022-05-01,134,Huntsville Championship,no,kft,no,738
+1256,1256,2022,2022-05-01,2022151,Catalunya Championship,no,euro,no,1091
+1257,1257,2022,2022-05-01,9487,The Tour Championship,no,afr,no,1092
+1258,1258,2022,2022-05-01,9485,The Crowns,no,jpn,no,1093
+1259,1259,2022,2022-05-01,540,Mexico Open at Vidanta,yes,pga,yes,427
+1260,1260,2022,2022-04-24,53,ClubCorp Classic,no,champ,no,360
+1261,1261,2022,2022-04-24,9477,Stella Artois Players Championship,no,afr,no,1094
+1262,1262,2022,2022-04-24,9482,i Golf Shaper Challenge in Chikushigaoka,no,atvt,no,1095
+1263,1263,2022,2022-04-24,2022149,ISPS Handa Championship in Spain,no,euro,no,1096
+1264,1264,2022,2022-04-24,9479,2021 CKB WA PGA Championship presented by TX Civil & Logistics,no,anz,no,1097
+1265,1265,2022,2022-04-24,9481,Red Sea Egyptian Classic 2022,no,pgt,no,1098
+1266,1266,2022,2022-04-24,6,JHSF Aberto do Brasil,no,sam,no,769
+1267,1267,2022,2022-04-24,9476,ISPS HANDA Championship in JAPAN,no,jpn,no,1099
+1268,1268,2022,2022-04-24,9480,Prometheus School presents Delhi-NCR Open 2022,no,pgti,no,1100
+1269,1269,2022,2022-04-17,9470,17TH BD DAMAGE INSURANCE PROMY OPEN,no,kor,no,1101
+1270,1270,2022,2022-04-17,9473,Red Sea Ain Sokhna Classic 2022,no,pgt,no,1102
+1271,1271,2022,2022-04-17,9472,Abruzzo Alps Open 2022,no,alp,no,1103
+1272,1272,2022,2022-04-17,9471,TATA Steel PGTI Players Championship 2022 presented by Chandigarh Golf Club,no,pgti,no,1104
+1273,1273,2022,2022-04-17,9467,Kansai Open Golf Championship,no,jpn,no,1105
+1274,1274,2022,2022-04-17,9469,Trust Golf Asian Mixed Stableford Challenge,no,asa,no,1106
+1275,1275,2022,2022-04-17,12,RBC Heritage,yes,pga,yes,364
+1276,1276,2022,2022-04-16,137,Veritex Bank Championship,no,kft,no,353
+1277,1277,2022,2022-04-10,9463,Novil Cup,no,atvt,no,1107
+1278,1278,2022,2022-04-10,9462,Trust Golf Asian Mixed Cup,no,asa,no,1108
+1279,1279,2022,2022-04-10,9464,The National PGA Classic,no,anz,no,1109
+1280,1280,2022,2022-04-10,9465,Singha all Thailand Memorial 2022,no,atgt,no,1110
+1281,1281,2022,2022-04-10,14,The Masters,yes,pga,yes,370
+1282,1282,2022,2022-04-03,2022305,Limpopo Championship,no,cha,no,1111
+1283,1283,2022,2022-04-03,9459,Gurugram Challenge 2022 Tata Steel PGT-ADT hosted by Classic Golf & Country Club,no,pgti,no,1112
+1284,1284,2022,2022-04-03,128,Club Car Championship at The Landings Club,no,kft,no,379
+1285,1285,2022,2022-04-03,11,Rapiscan Systems Classic,no,champ,no,1113
+1286,1286,2022,2022-04-03,41,Valero Texas Open,yes,pga,yes,382
+1287,1287,2022,2022-04-03,15,90 Abierto del Centro memorial Eduardo Gato Romero ptdo por Telecom,no,sam,no,1114
+1288,1288,2022,2022-04-03,9456,Token Homemate Cup 2022,no,jpn,no,1115
+1289,1289,2022,2022-03-27,9451,Allegria Open 2022,no,pgt,no,1116
+1290,1290,2022,2022-03-27,2022303,SDC Open,no,cha,no,1117
+1291,1291,2022,2022-03-27,9454,NewGiza Pyramids Challenge 2022,no,pgt,no,1118
+1292,1292,2022,2022-03-27,135,Lake Charles Championship,no,kft,no,1119
+1293,1293,2022,2022-03-27,522,Corales Puntacana Championship,no,pga,basic,361
+1294,1294,2022,2022-03-27,9452,The DGC Open presented by Mastercard,no,asa,no,1120
+1295,1295,2022,2022-03-27,42,Termas de Rio Hondo Invitational,no,sam,no,782
+1296,1296,2022,2022-03-27,2022106,Commercial Bank Qatar Masters,no,euro,no,1121
+1297,1297,2022,2022-03-27,9453,Winter Series Golf Nazionale,no,alp,no,1122
+1298,1298,2022,2022-03-20,2022147,Steyn City Championship,no,euro,no,1123
+1299,1299,2022,2022-03-20,9444,Dreamland Pyramids Classic 2022,no,pgt,no,1124
+1300,1300,2022,2022-03-20,9440,Golf Challenge NSW Open,no,anz,no,1125
+1301,1301,2022,2022-03-20,36,Chitimacha Louisiana Open presented by MISTRAS,no,kft,no,1126
+1302,1302,2022,2022-03-20,9442,TATA Steel PGTI Players Championship 2022 presented by Tollygunge Club,no,pgti,no,1127
+1303,1303,2022,2022-03-20,475,Valspar Championship,yes,pga,yes,393
+1304,1304,2022,2022-03-20,9443,Winter Series Terre dei Consoli,no,alp,no,1128
+1305,1305,2022,2022-03-13,9436,"TPS Hunter Valley, Hosted by Jan Stephenson & Peter O'Malley",no,anz,no,1129
+1306,1306,2022,2022-03-13,2022146,MyGolfLife Open hosted by Pecanwood,no,euro,no,1130
+1307,1307,2022,2022-03-13,9437,Mujib Borsho Chattogram Open 2022,no,pgti,no,1131
+1308,1308,2022,2022-03-13,11,THE PLAYERS Championship,yes,pga,yes,400
+1309,1309,2022,2022-03-06,9430,Red Dea Little Venice Open 2022,no,alp,no,1132
+1310,1310,2022,2022-03-06,2022304,Mangaung Open,no,cha,no,1133
+1311,1311,2022,2022-03-06,573,Hoag Classic,no,champ,no,392
+1312,1312,2022,2022-03-06,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,407
+1313,1313,2022,2022-03-06,9431,ECCO Tour Spanish Masters - by DAT,no,ngl,no,1134
+1314,1314,2022,2022-03-06,483,Puerto Rico Open,no,pga,basic,411
+1315,1315,2022,2022-03-06,9429,Glade One Masters 2022,no,pgti,no,1135
+1316,1316,2022,2022-03-06,9428,"TPS Sydney, Hosted by Braith Anasta",no,anz,no,1136
+1317,1317,2022,2022-03-06,2022108,Magical Kenya Open,no,euro,no,1137
+1318,1318,2022,2022-03-06,9433,PGA Catalunya Resort Championship,no,ngl,no,1138
+1319,1319,2022,2022-03-06,9432,New Giza Open 2022,no,alp,no,1139
+1320,1320,2022,2022-03-06,9426,International Series Thailand,no,asa,no,1140
+1321,1321,2022,2022-02-27,9417,Royal's Cup 2022,no,asa,no,1141
+1322,1322,2022,2022-02-27,9422,Gujarat Open Golf Championship 2022 presented by Gujarat Tourism,no,pgti,no,1142
+1323,1323,2022,2022-02-27,9419,Ein Bay Open 2022,no,alp,no,1143
+1324,1324,2022,2022-02-27,9421,GolfStar Winter Series II,no,ngl,no,1144
+1325,1325,2022,2022-02-27,18,Cologuard Classic,no,champ,no,409
+1326,1326,2022,2022-02-27,10,The Honda Classic,yes,pga,yes,415
+1327,1327,2022,2022-02-27,2022302,Jonsson Workwear Open,no,cha,no,1145
+1328,1328,2022,2022-02-20,7,The Genesis Invitational,yes,pga,yes,437
+1329,1329,2022,2022-02-20,129,LECOM Suncoast Classic,no,kft,no,363
+1330,1330,2022,2022-02-20,21,Estrella del Mar Open 2022,no,sam,no,1146
+1331,1331,2022,2022-02-20,9420,GolfStar Winter Series I,no,ngl,no,1147
+1332,1332,2022,2022-02-20,9415,TPS Murray River in honour of Jarrod Lyle,no,anz,no,1148
+1333,1333,2022,2022-02-20,2022301,Bain's Whisky Cape Town Open,no,cha,no,1149
+1334,1334,2022,2022-02-20,552,Chubb Classic,no,champ,no,436
+1335,1335,2022,2022-02-13,104,Astara Golf Championship presented by Mastercard,no,kft,no,446
+1336,1336,2022,2022-02-13,9409,Vic Open,no,anz,no,1150
+1337,1337,2022,2022-02-13,3,WM Phoenix Open,yes,pga,yes,443
+1338,1338,2022,2022-02-13,2022300,Dimension Data Pro-Am,no,cha,no,1151
+1339,1339,2022,2022-02-13,9410,Singha E-San Open,no,atgt,no,1152
+1340,1340,2022,2022-02-13,2022148,Ras al Khaimah Classic ,no,euro,no,1153
+1341,1341,2022,2022-02-06,9403,TPS Victoria Hosted by Geoff Ogilvy,no,anz,no,1154
+1342,1342,2022,2022-02-06,84,The Panama Championship,no,kft,no,454
+1343,1343,2022,2022-02-06,9402,PIF Saudi International powered by SoftBank Investment Advisers,no,asa,no,1155
+1344,1344,2022,2022-02-06,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,452
+1345,1345,2022,2022-02-06,2022105,Ras al Khaimah Championship presented by Phoenix Capital,no,euro,no,1156
+1346,1346,2022,2022-01-30,9397,Boonchu Ruangkit Championship 2022,no,atgt,no,1157
+1347,1347,2022,2022-01-30,9398,Vodacom Origins of Golf Final,no,afr,no,1158
+1348,1348,2022,2022-01-30,2022104,Slync.io Dubai Desert Classic,no,euro,no,1159
+1349,1349,2022,2022-01-29,4,Farmers Insurance Open,partial,pga,partial,460
+1350,1350,2022,2022-01-26,125,The Bahamas Great Abaco Classic at The Abaco Club,no,kft,no,462
+1351,1351,2022,2022-01-23,9391,SMBC Singapore Open,no,asa,no,1160
+1352,1352,2022,2022-01-23,2022103,Abu Dhabi HSBC Championship,no,euro,no,1161
+1353,1353,2022,2022-01-23,9392,Queensland PGA Championship,no,anz,no,1162
+1354,1354,2022,2022-01-23,2,The American Express,partial,pga,partial,465
+1355,1355,2022,2022-01-22,524,Mitsubishi Electric Championship at Hualalai,no,champ,no,467
+1356,1356,2022,2022-01-19,124,The Bahamas Great Exuma Classic at Sandals Emerald Bay,no,kft,no,469
+1357,1357,2022,2022-01-16,6,Sony Open in Hawaii,yes,pga,yes,472
+1358,1358,2022,2022-01-16,9383,Fortinet Australian PGA Championship,no,anz,no,1163
+1359,1359,2022,2022-01-16,9380,The Singapore International,no,asa,no,1164
+1360,1360,2022,2022-01-09,16,Sentry Tournament of Champions,yes,pga,yes,474
+1361,1361,2021,2021-12-19,9375,22nd Singha Thailand Masters,no,atgt,no,1165
+1362,1362,2021,2021-12-19,9373,Gippsland Super 6,no,anz,no,1166
+1363,1363,2021,2021-12-19,9374,Volvo China Open,no,chn,no,1167
+1364,1364,2021,2021-12-19,9376,Tata Steel Tour Championship,no,pgti,no,1168
+1365,1365,2021,2021-12-12,9372,Big Easy Tour Champs,no,bet,no,1169
+1366,1366,2021,2021-12-12,9371,Victorian PGA Championship,no,anz,no,1170
+1367,1367,2021,2021-12-12,16,Scotia Wealth Management Chile Open presented by Volvo,no,sam,no,827
+1368,1368,2021,2021-12-05,13,115 VISA Argentine Open presented by Macro,no,sam,no,842
+1369,1369,2021,2021-12-05,9366,Laguna Phuket Championship 2021,no,asa,no,1171
+1370,1370,2021,2021-12-05,9362,SA Open Championship,no,afr,no,1172
+1371,1371,2021,2021-12-05,9367,Pune Open Golf Championship 202,no,pgti,no,1173
+1372,1372,2021,2021-12-05,9365,Golf Nippon Series JT Cup,no,jpn,no,1174
+1373,1373,2021,2021-12-05,478,Hero World Challenge,no,pga,no,9
+1374,1374,2021,2021-11-28,9361,ICC RCGC Open Golf Championship 2021 powered by Urbana,no,pgti,no,1175
+1375,1375,2021,2021-11-28,2022100,Joburg Open,no,euro,no,1176
+1376,1376,2021,2021-11-28,9358,Casio World Open,no,jpn,no,1177
+1377,1377,2021,2021-11-28,9359,Blue Canyon Phuket Championship 2021,no,asa,no,1178
+1378,1378,2021,2021-11-21,9355,Singha Chiang Mai Open 2021,no,atgt,no,1179
+1379,1379,2021,2021-11-21,9356,IndianOil Servo Masters Golf 2021,no,pgti,no,1180
+1380,1380,2021,2021-11-21,2021143,"DP WORLD TOUR CHAMPIONSHIP, DUBAI",no,euro,no,1181
+1381,1381,2021,2021-11-21,493,The RSM Classic,partial,pga,partial,23
+1382,1382,2021,2021-11-21,9354,Dunlop Phoenix,no,jpn,no,1182
+1383,1383,2021,2021-11-21,9357,Big Easy Play Off 2,no,bet,no,1183
+1384,1384,2021,2021-11-14,9350,Big Easy Play Off 1,no,bet,no,1184
+1385,1385,2021,2021-11-14,20,Hewlett Packard Enterprise Houston Open,yes,pga,yes,391
+1386,1386,2021,2021-11-14,9348,Singha Classic 2021,no,atgt,no,1185
+1387,1387,2021,2021-11-14,9347,Mitsui Sumitomo VISA Taiheiyo Masters,no,jpn,no,1186
+1388,1388,2021,2021-11-14,2021157,AVIV Dubai Championship,no,euro,no,1187
+1389,1389,2021,2021-11-14,47,Charles Schwab Cup Championship,no,champ,no,1188
+1390,1390,2021,2021-11-14,9349,Jeev Milkha Singh Invitational 2021 presented by TAKE,no,pgti,no,1189
+1391,1391,2021,2021-11-07,9337,Mynavi ABC Championship,no,jpn,no,1190
+1392,1392,2021,2021-11-07,457,World Wide Technology Championship at Mayakoba,no,pga,basic,40
+1393,1393,2021,2021-11-07,50,TimberTech Championship,no,champ,no,1191
+1394,1394,2021,2021-11-07,9343,Big Easy Road to #18 Modderfontein Golf Club,no,bet,no,1192
+1395,1395,2021,2021-11-07,2021324,Rolex Challenge Tour Grand Final supported by The R&A,no,cha,no,1193
+1396,1396,2021,2021-11-07,2021156,Portugal Masters,no,euro,no,1194
+1397,1397,2021,2021-11-07,9341,Hengdian Championship,no,chn,no,1195
+1398,1398,2021,2021-11-07,9342,Singha E-San Open 2021,no,atgt,no,1196
+1399,1399,2021,2021-11-07,9338,PGA Championship,no,afr,no,1197
+1400,1400,2021,2021-11-07,9340,LG SIGNATURE Players Championship,no,kor,no,1198
+1401,1401,2021,2021-10-31,9333,Thailand Open 2021,no,atgt,no,1199
+1402,1402,2021,2021-10-31,9334,Big Easy Road to #17 Pecanwood Country Club,no,bet,no,1200
+1403,1403,2021,2021-10-31,528,Butterfield Bermuda Championship,no,pga,basic,30
+1404,1404,2021,2021-10-31,9332,ISPS HANDA Gatsu-n to tobase Tour tournament,no,jpn,no,1201
+1405,1405,2021,2021-10-24,2021155,Mallorca Golf Open,no,euro,no,1202
+1406,1406,2021,2021-10-24,527,ZOZO CHAMPIONSHIP,no,pga,no,57
+1407,1407,2021,2021-10-24,9326,Hana Bank Invitational,no,kor,no,1203
+1408,1408,2021,2021-10-24,9324,Blair Atholl Championship delivered by The Courier Guy,no,afr,no,1204
+1409,1409,2021,2021-10-24,9330,Delight Works JGTO FINAL,no,atvt,no,1205
+1410,1410,2021,2021-10-24,46,Dominion Energy Charity Classic,no,champ,no,1206
+1411,1411,2021,2021-10-24,9327,Singha Pattaya Open 2021,no,atgt,no,1207
+1412,1412,2021,2021-10-24,9329,Road to Europe Tour Final,no,ngl,no,1208
+1413,1413,2021,2021-10-24,9328,The Matchroom Tour Championship,no,ept,no,1209
+1414,1414,2021,2021-10-22,2021337,Challenge Costa Brava,no,cha,no,1210
+1415,1415,2021,2021-10-17,2021137,Estrella Damm N.A. Andalucía Masters,no,euro,no,1211
+1416,1416,2021,2021-10-17,2021336,Empordà Challenge,no,cha,no,1212
+1417,1417,2021,2021-10-17,9319,Jaipur Open,no,pgti,no,1213
+1418,1418,2021,2021-10-17,9316,Japan Open Golf Championship,no,jpn,no,1214
+1419,1419,2021,2021-10-17,521,THE CJ CUP @ SUMMIT,yes,pga,yes,873
+1420,1420,2021,2021-10-17,9318,MoreGolf Mastercard Tour Final at PGA Sweden National,no,ngl,no,1215
+1421,1421,2021,2021-10-17,45,SAS Championship,no,champ,no,1216
+1422,1422,2021,2021-10-17,9320,Emilia-Romagna Alps Tour Grand Final,no,alp,no,1217
+1423,1423,2021,2021-10-10,9312,Genesis Championship,no,kor,no,1218
+1424,1424,2021,2021-10-10,9309,Castanea Resort Championship,no,pgt,no,1219
+1425,1425,2021,2021-10-10,9311,TATA Steel PGTI MP Cup 2021 presented by Delhi Golf Club supported by Just In Time Sports Foundation,no,pgti,no,1220
+1426,1426,2021,2021-10-10,47,Shriners Children's Open,yes,pga,yes,64
+1427,1427,2021,2021-10-10,9308,Race to HimmerLand by FREJA,no,ngl,no,1221
+1428,1428,2021,2021-10-10,9307,Golf Nazionale Alps Open,no,alp,no,1222
+1429,1429,2021,2021-10-10,9310,Singha Laguna Phuket Open,no,atgt,no,1223
+1430,1430,2021,2021-10-10,2021136,ACCIONA Open de España,no,euro,no,1224
+1431,1431,2021,2021-10-10,9305,Ryo Ishikawa everyone PROJECT Challenge,no,atvt,no,1225
+1432,1432,2021,2021-10-10,44,Constellation FURYK & FRIENDS,no,champ,no,85
+1433,1433,2021,2021-10-10,9304,Bridgestone Open,no,jpn,no,1226
+1434,1434,2021,2021-10-03,9300,Big Easy Road to #16 Services,no,bet,no,1227
+1435,1435,2021,2021-10-03,2021321,Swiss Challenge,no,cha,no,1228
+1436,1436,2021,2021-10-03,54,Sanderson Farms Championship,yes,pga,yes,87
+1437,1437,2021,2021-10-03,9297,Visby Open by Destination Gotland,no,ngl,no,1229
+1438,1438,2021,2021-10-03,9294,Vantelin Tokai Classic,no,jpn,no,1230
+1439,1439,2021,2021-10-03,9299,Vodacom Origins of Golf - Humewood,no,afr,no,1231
+1440,1440,2021,2021-10-03,9296,Hyundai Insurance KJ Choi Invitational,no,kor,no,1232
+1441,1441,2021,2021-10-03,2021135,Alfred Dunhill Links Championship,no,euro,no,1233
+1442,1442,2021,2021-10-03,9298,TI Challenge in Tojonomori,no,atvt,no,1234
+1443,1443,2021,2021-09-26,2021320,Open de Portugal at Royal Óbidos,no,cha,no,1235
+1444,1444,2021,2021-09-26,9285,ISPS HANDA Hero ni nare! Challenge Tournament,no,atvt,no,1236
+1445,1445,2021,2021-09-26,9283,Panasonic Open,no,jpn,no,1237
+1446,1446,2021,2021-09-26,43,PURE Insurance Championship,no,champ,no,1238
+1447,1447,2021,2021-09-26,9289,Big Easy Road to #15 Riviera on Vaal,no,bet,no,1239
+1448,1448,2021,2021-09-26,9288,Singha all Thailand Championship 2021,no,atgt,no,1240
+1449,1449,2021,2021-09-19,9273,2021 DGB Financial Group Irvine Open,no,kor,no,1241
+1450,1450,2021,2021-09-19,9278,Vodacom Origins of Golf - Mt Edgecombe,no,afr,no,1242
+1451,1451,2021,2021-09-19,9276,Great Northern Challenge,no,ngl,no,1243
+1452,1452,2021,2021-09-19,2021133,Dutch Open,no,euro,no,1244
+1453,1453,2021,2021-09-19,9277,PGM Challenge,no,atvt,no,1245
+1454,1454,2021,2021-09-19,464,Fortinet Championship,yes,pga,yes,120
+1455,1455,2021,2021-09-19,9274,J&K Open 2021 presented by J&K Tourism,no,pgti,no,1246
+1456,1456,2021,2021-09-19,9271,ANA Open,no,jpn,no,1247
+1457,1457,2021,2021-09-19,2021327,Hopps Open de Provence,no,cha,no,1248
+1458,1458,2021,2021-09-19,9275,Castletown Golf Links,no,ept,no,1249
+1459,1459,2021,2021-09-12,2021319,Big Green Egg German Challenge powered by VcG,no,cha,no,1250
+1460,1460,2021,2021-09-12,9267,TRUST Forsikring Championship,no,ngl,no,1251
+1461,1461,2021,2021-09-12,625,Ascension Charity Classic,no,champ,no,132
+1462,1462,2021,2021-09-12,9269,TATA Steel PGTI Players Championship 2021 presented by Govt. of Haryana & Panchkula Golf Club,no,pgti,no,1252
+1463,1463,2021,2021-09-12,9264,Sunshine Tour Invitational,no,afr,no,1253
+1464,1464,2021,2021-09-12,9268,The Motocaddy Masters,no,ept,no,1254
+1465,1465,2021,2021-09-12,9265,The 37th Shinhan Donghae Open,no,kor,no,1255
+1466,1466,2021,2021-09-12,9266,Alps de Andalucia,no,alp,no,1256
+1467,1467,2021,2021-09-12,2021132,BMW PGA CHAMPIONSHIP,no,euro,no,1257
+1468,1468,2021,2021-09-10,64,Forme Tour Championship,no,can,no,1258
+1469,1469,2021,2021-09-05,9255,The Studley Wood Championship,no,ept,no,1259
+1470,1470,2021,2021-09-05,9258,Big Easy Road to #14 ERPM Golf Club,no,bet,no,1260
+1471,1471,2021,2021-09-05,2021131,DS Automobiles Italian Open,no,euro,no,1261
+1472,1472,2021,2021-09-05,60,TOUR Championship,yes,pga,yes,146
+1473,1473,2021,2021-09-05,154,Korn Ferry Tour Championship presented by United Leasing & Finance,no,kft,no,1262
+1474,1474,2021,2021-09-05,9257,FaberExposize Gelpenberg Open 2021,no,pgt,no,1263
+1475,1475,2021,2021-09-05,9252,BIZPLAY-Electronic Times OPEN,no,kor,no,1264
+1476,1476,2021,2021-09-05,9250,Fujisankei Classic,no,jpn,no,1265
+1477,1477,2021,2021-09-05,9256,Timberwise Finnish Open,no,ngl,no,1266
+1478,1478,2021,2021-09-05,2021318,British Challenge Presented by Modest! Golf Management,no,cha,no,1267
+1479,1479,2021,2021-09-05,9254,Golconda Masters Telangana Open 2021 presented by Vooty & Haldi,no,pgti,no,1268
+1480,1480,2021,2021-09-04,68,Rolling Green Championship,no,can,no,1269
+1481,1481,2021,2021-08-29,2021317,B-NL Challenge Trophy,no,cha,no,1270
+1482,1482,2021,2021-08-29,9245,Vodacom Origins of Golf - Sishen,no,afr,no,1271
+1483,1483,2021,2021-08-29,9246,Big Easy Road to # 13 Centurion Country Club,no,bet,no,1272
+1484,1484,2021,2021-08-29,153,Nationwide Children's Hospital Championship,no,kft,no,1273
+1485,1485,2021,2021-08-29,28,BMW Championship,yes,pga,yes,155
+1486,1486,2021,2021-08-29,2021130,Omega European Masters,no,euro,no,1274
+1487,1487,2021,2021-08-29,9243,Thisted Forsikring Championship,no,ngl,no,1275
+1488,1488,2021,2021-08-29,9240,Sansan KBC Augusta,no,jpn,no,1276
+1489,1489,2021,2021-08-29,9244,ALTEPRO Trophy 2021,no,pgt,no,1277
+1490,1490,2021,2021-08-29,41,The Ally Challenge,no,champ,no,1278
+1491,1491,2021,2021-08-22,9227,NI Masters hosted by Jonathan Caldwell,no,ept,no,1279
+1492,1492,2021,2021-08-22,9229,Starnberg Open 2021,no,pgt,no,1280
+1493,1493,2021,2021-08-22,9233,Shigeo Nagashima Invitational Sega Sammy Cup,no,jpn,no,1281
+1494,1494,2021,2021-08-22,9236,Bråviken Open,no,ngl,no,1282
+1495,1495,2021,2021-08-22,152,Albertsons Boise Open presented by Chevron,no,kft,no,1283
+1496,1496,2021,2021-08-22,9234,SunBet Challenge hosted by Time Square Casino,no,afr,no,1284
+1497,1497,2021,2021-08-22,27,THE NORTHERN TRUST,yes,pga,yes,176
+1498,1498,2021,2021-08-22,2021129,D+D Real Czech Masters,no,euro,no,1285
+1499,1499,2021,2021-08-22,9226,Gosser Open,no,alp,no,1286
+1500,1500,2021,2021-08-22,619,Boeing Classic,no,champ,no,184
+1501,1501,2021,2021-08-22,9228,PGA Championship Landeryd Masters,no,ngl,no,1287
+1502,1502,2021,2021-08-21,63,Forme Open at TPC River's Bend,no,can,no,1288
+1503,1503,2021,2021-08-20,2021330,Sydbank Esbjerg Challenge,no,cha,no,1289
+1504,1504,2021,2021-08-15,9219,The 64th KPGA Championship with A-ONE CC,no,kor,no,1290
+1505,1505,2021,2021-08-15,151,Pinnacle Bank Championship presented by Aetna,no,kft,no,1291
+1506,1506,2021,2021-08-15,13,Wyndham Championship,yes,pga,yes,189
+1507,1507,2021,2021-08-15,9220,The Cubefunder Championship,no,ept,no,1292
+1508,1508,2021,2021-08-15,2021128,Cazoo Classic,no,euro,no,1293
+1509,1509,2021,2021-08-15,9221,Wolf Open,no,pgt,no,1294
+1510,1510,2021,2021-08-15,17,Shaw Charity Classic,no,champ,no,173
+1511,1511,2021,2021-08-14,2021315,Made in Esbjerg Challenge – Presented by FREJA & Total,no,cha,no,1295
+1512,1512,2021,2021-08-13,67,The Fuzzy Zoeller Classic at Covered Bridge Golf Club,no,can,no,1296
+1513,1513,2021,2021-08-08,9211,Vodacom Origins of Golf - De Zalze,no,afr,no,1297
+1514,1514,2021,2021-08-08,2021314,Vierumäki Finnish Challenge,no,cha,no,1298
+1515,1515,2021,2021-08-08,9208,Nokia Masters,no,ept,no,1299
+1516,1516,2021,2021-08-08,472,Barracuda Championship,no,pga,no,214
+1517,1517,2021,2021-08-08,2021126,Hero Open,no,euro,no,1300
+1518,1518,2021,2021-08-08,9209,Frederikshavn Championship - Presented by Sydbank,no,ngl,no,1301
+1519,1519,2021,2021-08-08,476,World Golf Championships-FedEx St. Jude Invitational,yes,pga,yes,1302
+1520,1520,2021,2021-08-08,150,Utah Championship presented by Zions Bank,no,kft,no,1303
+1521,1521,2021,2021-08-01,9200,PDC Championship,no,ept,no,1304
+1522,1522,2021,2021-08-01,9203,Minami Akita CC Michinoku Challenge,no,atvt,no,1305
+1523,1523,2021,2021-08-01,9201,Göteborg Open presented by Enkla Elbolaget,no,ngl,no,1306
+1524,1524,2021,2021-08-01,519,Olympic Men's Golf Competition,yes,pga,basic,198
+1525,1525,2021,2021-08-01,2021124,ISPS HANDA World Invitational presented by Modest! Golf Management,no,euro,no,1307
+1526,1526,2021,2021-07-31,66,Birck Boilermaker Classic,no,can,no,1308
+1527,1527,2021,2021-07-25,57,Bupa Championship presented by Volvo,no,sam,no,663
+1528,1528,2021,2021-07-25,2021123,Cazoo Open supported by Gareth Bale,no,euro,no,1309
+1529,1529,2021,2021-07-25,9195,Orida Championship,no,ept,no,1310
+1530,1530,2021,2021-07-25,525,3M Open,yes,pga,yes,207
+1531,1531,2021,2021-07-25,2021313,Italian Challenge,no,cha,no,1311
+1532,1532,2021,2021-07-25,149,Price Cutter Charity Championship presented by Dr Pepper,no,kft,no,1312
+1533,1533,2021,2021-07-25,9196,Raiffeisen Pro Golf Tour St. Pölten,no,pgt,no,1313
+1534,1534,2021,2021-07-25,9197,AUDI Finnish PGA Golf Tour Championship,no,ngl,no,1314
+1535,1535,2021,2021-07-23,62,Bolingbrook Golf Club Invitational,no,can,no,1315
+1536,1536,2021,2021-07-18,148,Memorial Health Championship presented by LRS,no,kft,no,1316
+1537,1537,2021,2021-07-18,518,Barbasol Championship,yes,pga,yes,222
+1538,1538,2021,2021-07-18,2021312,Euram Bank Open,no,cha,no,1317
+1539,1539,2021,2021-07-18,100,The Open Championship,no,pga,no,218
+1540,1540,2021,2021-07-18,8191,Roma Alps Open,no,alp,no,1318
+1541,1541,2021,2021-07-18,8192,THE WRIGHT-MORGAN CHAMPIONSHIP,no,ept,no,1319
+1542,1542,2021,2021-07-11,30,John Deere Classic,yes,pga,yes,234
+1543,1543,2021,2021-07-11,512,U.S. Senior Open Championship,no,champ,no,242
+1544,1544,2021,2021-07-11,2021121,abrdn Scottish Open,no,euro,no,1320
+1545,1545,2021,2021-07-11,8185,JAPAN PLAYERS CHAMPIONSHIP CHALLENGE,no,atvt,no,1321
+1546,1546,2021,2021-07-11,8186,Woosung Construction Aramir CC Busan-Gyeongnam Open,no,kor,no,1322
+1547,1547,2021,2021-07-11,8182,Alps de Las Castillas,no,alp,no,1323
+1548,1548,2021,2021-07-11,2021311,Le Vaudreuil Golf Challenge,no,cha,no,1324
+1549,1549,2021,2021-07-11,8183,Live it Katrineholm Open hosted by Robert Karlsson,no,ngl,no,1325
+1550,1550,2021,2021-07-11,147,TPC Colorado Championship at Heron Lakes,no,kft,no,1326
+1551,1551,2021,2021-07-04,8174,Junet Open presented by Alexander Björk,no,ngl,no,1327
+1552,1552,2021,2021-07-04,2021310,Kaskáda Golf Challenge,no,cha,no,1328
+1553,1553,2021,2021-07-04,8,DICK'S Sporting Goods Open,no,champ,no,261
+1554,1554,2021,2021-07-04,8171,Japan PGA Championship,no,jpn,no,1329
+1555,1555,2021,2021-07-04,2021120,Dubai Duty Free Irish Open,no,euro,no,1330
+1556,1556,2021,2021-07-04,8175,Gradi Polish Open by Emeralld 2021,no,pgt,no,1331
+1557,1557,2021,2021-07-04,524,Rocket Mortgage Classic,yes,pga,yes,246
+1558,1558,2021,2021-07-04,8177,GLAL.UK Worcestershire Masters Hosted by The Vale,no,ept,no,1332
+1559,1559,2021,2021-07-03,61,Auburn University Club Invitational,no,can,no,1333
+1560,1560,2021,2021-06-27,8163,Kolon the 63rd Korea Open,no,kor,no,1334
+1561,1561,2021,2021-06-27,34,Travelers Championship,yes,pga,yes,258
+1562,1562,2021,2021-06-27,8161,Dunlop SRIXON Fukushima Open,no,jpn,no,1335
+1563,1563,2021,2021-06-27,136,Live and Work in Maine Open,no,kft,no,1018
+1564,1564,2021,2021-06-27,8162,Daisendori Cup,no,atvt,no,1336
+1565,1565,2021,2021-06-27,8165,The Eagle Orchid Scottish Masters,no,ept,no,1337
+1566,1566,2021,2021-06-27,39,Bridgestone SENIOR PLAYERS Championship,no,champ,no,1338
+1567,1567,2021,2021-06-27,8164,Halmstad Challenge by Padelpitch,no,ngl,no,1339
+1568,1568,2021,2021-06-27,22,Banco del Pacifico Open,no,sam,no,726
+1569,1569,2021,2021-06-27,2021309,Open de Bretagne,no,cha,no,1340
+1570,1570,2021,2021-06-27,2021119,BMW International Open,no,euro,no,1341
+1571,1571,2021,2021-06-26,65,L&J Golf Championship at Jennings Mill Country Club,no,can,no,1342
+1572,1572,2021,2021-06-20,8150,The Cumberwell Park Championship,no,ept,no,1343
+1573,1573,2021,2021-06-20,8154,Samsø Pro-Am Classic - by Samsø Festival,no,ngl,no,1344
+1574,1574,2021,2021-06-20,8149,Memorial Giorgio Bordoni by AON,no,alp,no,1345
+1575,1575,2021,2021-06-20,146,Wichita Open Benefitting KU Wichita Pediatrics,no,kft,no,1346
+1576,1576,2021,2021-06-20,11,Holcim Colombia Classic presented by Volvo,no,sam,no,704
+1577,1577,2021,2021-06-20,535,U.S. Open #2,yes,pga,yes,1347
+1578,1578,2021,2021-06-20,8148,Xian Classic,no,chn,no,1348
+1579,1579,2021,2021-06-20,8151,Japan Create Challenge in FukuokaRaizan,no,atvt,no,1349
+1580,1580,2021,2021-06-18,2021304,Challenge de España ,no,cha,no,1350
+1581,1581,2021,2021-06-13,2021307,Challenge de Cadiz,no,cha,no,1351
+1582,1582,2021,2021-06-13,8143,Landic Challenge 8,no,atvt,no,1352
+1583,1583,2021,2021-06-13,8139,Wuhan Classic,no,chn,no,1353
+1584,1584,2021,2021-06-13,8140,Open International de la Mirabelle d'Or,no,alp,no,1354
+1585,1585,2021,2021-06-13,538,Palmetto Championship at Congaree,yes,pga,yes,1355
+1586,1586,2021,2021-06-13,8137,SK telecom OPEN 2021,no,kor,no,1356
+1587,1587,2021,2021-06-13,622,American Family Insurance Championship,no,champ,no,285
+1588,1588,2021,2021-06-13,8142,Jyske Bank Championship,no,ngl,no,1357
+1589,1589,2021,2021-06-13,8141,The Jessie May World Snooker Golf Champs,no,ept,no,1358
+1590,1590,2021,2021-06-13,56,The Club at Weston Hills Open,no,sam,no,1359
+1591,1591,2021,2021-06-13,2021117,Scandinavian Mixed Hosted by Henrik & Annika,no,euro,no,1360
+1592,1592,2021,2021-06-13,37,BMW Charity Pro-Am presented by SYNNEX Corporation,no,kft,no,280
+1593,1593,2021,2021-06-06,8129,SunBet Challenge hosted by Sun City,no,afr,no,1361
+1594,1594,2021,2021-06-06,608,Principal Charity Classic,no,champ,no,294
+1595,1595,2021,2021-06-06,2021116,Porsche European Open,no,euro,no,1362
+1596,1596,2021,2021-06-06,8128,Dreamland Pyramids Classic 2021,no,pgt,no,1363
+1597,1597,2021,2021-06-06,8127,Stockholm Trophy presented by Greatdays,no,ngl,no,1364
+1598,1598,2021,2021-06-06,8123,JGTC Mori Building Cup Shishido Hills,no,jpn,no,1365
+1599,1599,2021,2021-06-06,2021306,D+D REAL Czech Challenge,no,cha,no,1366
+1600,1600,2021,2021-06-06,48,REX Hospital Open,no,kft,no,295
+1601,1601,2021,2021-06-06,8126,Lanhai Classic,no,chn,no,1367
+1602,1602,2021,2021-06-06,8130,Big Easy Road to # 12 - Modderfontein Golf Club,no,bet,no,1368
+1603,1603,2021,2021-06-06,23,the Memorial Tournament presented by Nationwide,yes,pga,yes,283
+1604,1604,2021,2021-05-30,8117,THE IFX CHAMPIONSHIP,no,ept,no,1369
+1605,1605,2021,2021-05-30,520,KitchenAid Senior PGA Championship,no,champ,no,309
+1606,1606,2021,2021-05-30,8112,Gate Way To The Open Mizuno Open,no,jpn,no,1370
+1607,1607,2021,2021-05-30,8113,Taiheiyo Club Challenge Tournament,no,atvt,no,1371
+1608,1608,2021,2021-05-30,8119,KB Finance Liiv Championship,no,kor,no,1372
+1609,1609,2021,2021-05-30,8115,Red Sea Little Venice Open,no,alp,no,1373
+1610,1610,2021,2021-05-30,8116,Zhengzhou Classic,no,chn,no,1374
+1611,1611,2021,2021-05-30,145,Evans Scholars Invitational presented by First Midwest Bank,no,kft,no,1375
+1612,1612,2021,2021-05-30,21,Charles Schwab Challenge,yes,pga,yes,307
+1613,1613,2021,2021-05-30,8118,NewGiza Pyramids Challenge 2021,no,pgt,no,1376
+1614,1614,2021,2021-05-30,8114,Big Easy Road To #11 Pecanwood,no,bet,no,1377
+1615,1615,2021,2021-05-30,2021305,Irish Challenge,no,cha,no,1378
+1616,1616,2021,2021-05-30,2021115,Made in HimmerLand presented by FREJA,no,euro,no,1379
+1617,1617,2021,2021-05-23,33,PGA Championship,yes,pga,yes,316
+1618,1618,2021,2021-05-23,100,AdventHealth Championship,no,kft,no,317
+1619,1619,2021,2021-05-23,8104,Ein Bay Open,no,alp,no,1380
+1620,1620,2021,2021-05-23,8107,Golf Partner Pro-Am Tournament,no,jpn,no,1381
+1621,1621,2021,2021-05-23,8105,TanumStrand Fjällbacka Open,no,ngl,no,1382
+1622,1622,2021,2021-05-22,2021329,Dormy Open,no,cha,no,1383
+1623,1623,2021,2021-05-16,15,Mitsubishi Electric Classic,no,champ,no,352
+1624,1624,2021,2021-05-16,8101,Nanshan Open,no,chn,no,1384
+1625,1625,2021,2021-05-16,11,Visit Knoxville Open,no,kft,no,305
+1626,1626,2021,2021-05-16,8100,Asia Pacific Diamond Cup Golf,no,jpn,no,1385
+1627,1627,2021,2021-05-16,8097,Made in HimmerLand by Enjoy Resorts,no,ngl,no,1386
+1628,1628,2021,2021-05-16,2021328,Range Servant Challenge by Hinton Golf,no,cha,no,1387
+1629,1629,2021,2021-05-16,19,AT&T Byron Nelson,yes,pga,yes,341
+1630,1630,2021,2021-05-15,2021113,Betfred British Masters hosted by Danny Willett,no,euro,no,1388
+1631,1631,2021,2021-05-09,480,Wells Fargo Championship,yes,pga,yes,325
+1632,1632,2021,2021-05-09,2021153,Canary Islands Championship,no,euro,no,1389
+1633,1633,2021,2021-05-09,2021300,Dimension Data Pro-Am,no,cha,no,1390
+1634,1634,2021,2021-05-09,8093,JAPAN PLAYERS CHAMPIONSHIP by Sato Shokuhin,no,jpn,no,1391
+1635,1635,2021,2021-05-09,558,Regions Tradition,no,champ,no,327
+1636,1636,2021,2021-05-09,8094,The 40th GS Caltex Maekyung Open,no,kor,no,1392
+1637,1637,2021,2021-05-09,120,Simmons Bank Open for the Snedeker Foundation,no,kft,no,123
+1638,1638,2021,2021-05-09,8090,Lindbytvätten Grand Opening,no,ngl,no,1393
+1639,1639,2021,2021-05-02,615,Insperity Invitational,no,champ,no,339
+1640,1640,2021,2021-05-02,134,Huntsville Championship,no,kft,no,738
+1641,1641,2021,2021-05-02,8086,Boao Classic,no,chn,no,1394
+1642,1642,2021,2021-05-02,8082,Haugschlag NÖ Open by perfect eagle 2021,no,pgt,no,1395
+1643,1643,2021,2021-05-02,2021301,Bain's Whisky Cape Town Open,no,cha,no,1396
+1644,1644,2021,2021-05-02,8087,KPGA Gunsan CC Open,no,kor,no,1397
+1645,1645,2021,2021-05-02,475,Valspar Championship,yes,pga,yes,393
+1646,1646,2021,2021-05-02,8081,Antognolla Alps Open,no,alp,no,1398
+1647,1647,2021,2021-05-02,8085,The Crowns,no,jpn,no,1399
+1648,1648,2021,2021-05-02,2021109,Tenerife Open,no,euro,no,1400
+1649,1649,2021,2021-04-25,8073,Red Sea Ain Sokhna Classic 2021,no,pgt,no,1401
+1650,1650,2021,2021-04-25,137,Veritex Bank Championship,no,kft,no,353
+1651,1651,2021,2021-04-25,2021110,Gran Canaria Lopesan Open,no,euro,no,1402
+1652,1652,2021,2021-04-25,8071,Abruzzo Alps Open,no,alp,no,1403
+1653,1653,2021,2021-04-25,8078,Big Easy Road to # 10 - Wingate Park Country Club,no,bet,no,1404
+1654,1654,2021,2021-04-25,8072,PGA Catalunya Resort Championship,no,ngl,no,1405
+1655,1655,2021,2021-04-25,8077,Sanya Classic,no,chn,no,1406
+1656,1656,2021,2021-04-25,8076,Kansai Open Golf Championship,no,jpn,no,1407
+1657,1657,2021,2021-04-25,2021302,Limpopo Championship,no,cha,no,1408
+1658,1658,2021,2021-04-18,8066,Token Homemate Cup,no,jpn,no,1409
+1659,1659,2021,2021-04-18,165,MGM Resorts Championship at Paiute,no,kft,no,1410
+1660,1660,2021,2021-04-18,2021152,Austrian Golf Open,no,euro,no,1411
+1661,1661,2021,2021-04-18,8062,ECCO Spanish Masters,no,ngl,no,1412
+1662,1662,2021,2021-04-18,8063,Red Sea Egyptian Classic 2021,no,pgt,no,1413
+1663,1663,2021,2021-04-18,12,RBC Heritage,yes,pga,yes,364
+1664,1664,2021,2021-04-18,38,Chubb Classic,no,champ,no,1414
+1665,1665,2021,2021-04-18,8067,i Golf Shaper Challenge in Chikushigaoka,no,atvt,no,1415
+1666,1666,2021,2021-04-18,8068,The 16th DB Insurance Promy Open,no,kor,no,1416
+1667,1667,2021,2021-04-11,536,The Masters #2,yes,pga,yes,1417
+1668,1668,2021,2021-04-04,41,Valero Texas Open,yes,pga,yes,382
+1669,1669,2021,2021-04-04,8059,Big Easy Road to # 9 ERPM Golf Club,no,bet,no,1418
+1670,1670,2021,2021-04-04,8058,MIRA Live the Soul Open,no,alp,no,1419
+1671,1671,2021,2021-04-04,164,Emerald Coast Classic at Sandestin,no,kft,no,1420
+1672,1672,2021,2021-03-28,8052,MIRA Golf Experience Acaya Open,no,alp,no,1421
+1673,1673,2021,2021-03-28,144,Club Car Championship at The Landings Club,no,kft,no,1422
+1674,1674,2021,2021-03-28,8050,Big Easy Road to #8 Pollak Park Golf Club,no,bet,no,1423
+1675,1675,2021,2021-03-28,534,Corales Puntacana Resort & Club Championship #2,no,pga,no,1424
+1676,1676,2021,2021-03-28,14,61 Abierto Mexicano de Golf,no,sam,no,1425
+1677,1677,2021,2021-03-28,8051,Serengeti Pro-Am Invitational,no,afr,no,1426
+1678,1678,2021,2021-03-28,8053,Golf Challenge NSW Open Concord Golf Club,no,anz,no,1427
+1679,1679,2021,2021-03-26,2021148,Kenya Savannah Classic,no,euro,no,1428
+1680,1680,2021,2021-03-21,2021106,Magical Kenya Open,no,euro,no,1429
+1681,1681,2021,2021-03-21,8043,Gauteng Championship presented by BETWAY,no,afr,no,1430
+1682,1682,2021,2021-03-21,10,The Honda Classic,yes,pga,yes,415
+1683,1683,2021,2021-03-21,36,Chitimacha Louisiana Open presented by MISTRAS,no,kft,no,1126
+1684,1684,2021,2021-03-21,8042,Prometheus School presents Delhi-NCR Open 2021,no,pgti,no,1431
+1685,1685,2021,2021-03-14,2021105,Commercial Bank Qatar Masters,no,euro,no,1432
+1686,1686,2021,2021-03-14,8039,Players Championship hosted at Dainfern Golf Estate,no,afr,no,1433
+1687,1687,2021,2021-03-14,8041,2021 Isuzu Queensland Open Pelican Waters Golf Club,no,anz,no,1434
+1688,1688,2021,2021-03-14,11,THE PLAYERS Championship,yes,pga,yes,400
+1689,1689,2021,2021-03-07,8035,Kit Kat Group PROAM,no,afr,no,1435
+1690,1690,2021,2021-03-07,8034,"TPS Sydney, Hosted by Braith Anasta",no,anz,no,1436
+1691,1691,2021,2021-03-07,8037,Big Easy Road To #7 Krugersdrp,no,bet,no,1437
+1692,1692,2021,2021-03-07,8036,Boonchu Ruangkit Championship,no,atgt,no,1438
+1693,1693,2021,2021-03-07,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,407
+1694,1694,2021,2021-02-28,483,Puerto Rico Open,no,pga,basic,411
+1695,1695,2021,2021-02-28,473,World Golf Championships-Workday Championship at The Concession,yes,pga,yes,1439
+1696,1696,2021,2021-02-28,8030,Big Easy Road to # 6 - Centurion Country Club,no,bet,no,1440
+1697,1697,2021,2021-02-28,37,Cologuard Classic,no,champ,no,1441
+1698,1698,2021,2021-02-28,8032,Glade One Masters 2021,no,pgti,no,1442
+1699,1699,2021,2021-02-21,7,The Genesis Invitational,yes,pga,yes,437
+1700,1700,2021,2021-02-21,143,LECOM Suncoast Classic,no,kft,no,1443
+1701,1701,2021,2021-02-21,8028,Gujarat Open Golf Championship 2021 presented by Gujarat Tourism,no,pgti,no,1444
+1702,1702,2021,2021-02-14,8025,Moonah Links PGA Classic,no,anz,no,1445
+1703,1703,2021,2021-02-14,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,452
+1704,1704,2021,2021-02-07,8023,Victorian PGA Championship Moonah Links Resort,no,anz,no,1446
+1705,1705,2021,2021-02-07,2021103,Saudi International powered by SoftBank Investment Advisers,no,euro,no,1447
+1706,1706,2021,2021-02-07,3,Waste Management Phoenix Open,yes,pga,yes,443
+1707,1707,2021,2021-01-31,8017,Big Easy Road To #5 Copperleaf,no,bet,no,1448
+1708,1708,2021,2021-01-31,8020,"TPS Victoria, Hosted by Geoff Ogilvy",no,anz,no,1449
+1709,1709,2021,2021-01-31,2021102,Omega Dubai Desert Classic,no,euro,no,1450
+1710,1710,2021,2021-01-31,4,Farmers Insurance Open,partial,pga,partial,460
+1711,1711,2021,2021-01-24,2,The American Express,partial,pga,partial,465
+1712,1712,2021,2021-01-24,2021101,Abu Dhabi HSBC Championship,no,euro,no,1451
+1713,1713,2021,2021-01-23,36,Mitsubishi Electric Championship at Hualalai,no,champ,no,1452
+1714,1714,2021,2021-01-17,6,Sony Open in Hawaii,yes,pga,yes,472
+1715,1715,2021,2021-01-10,16,Sentry Tournament of Champions,yes,pga,yes,474
+1716,1716,2020,2020-12-20,9,Puerto Plata Open,no,sam,no,1453
+1717,1717,2020,2020-12-20,8006,Tata Steel Tour Championship,no,pgti,no,1454
+1718,1718,2020,2020-12-13,2020098,"DP World Tour Championship, Dubai",no,euro,no,1455
+1719,1719,2020,2020-12-13,8004,Volvo China Open,no,chn,no,1456
+1720,1720,2020,2020-12-13,52,Shell Open,no,sam,no,1457
+1721,1721,2020,2020-12-06,2020105,South African Open,no,euro,no,1458
+1722,1722,2020,2020-12-06,8000,Big Easy Road to # 4 - Centurion,no,bet,no,1459
+1723,1723,2020,2020-12-06,7999,Golf Nippon Series JT Cup,no,jpn,no,1460
+1724,1724,2020,2020-12-06,8001,Jeev Milkha Singh Invitational 2020 presented by TAKE,no,pgti,no,1461
+1725,1725,2020,2020-12-06,457,Mayakoba Golf Classic presented by UNIFIN,no,pga,basic,40
+1726,1726,2020,2020-12-05,2020106,Golf in Dubai Championship presented by DP World,no,euro,no,1462
+1727,1727,2020,2020-11-29,7995,Big Easy Road To #3 Reading,no,bet,no,1463
+1728,1728,2020,2020-11-29,2020104,Alfred Dunhill Championship,no,euro,no,1464
+1729,1729,2020,2020-11-22,2020103,Joburg Open,no,euro,no,1465
+1730,1730,2020,2020-11-22,493,The RSM Classic,partial,pga,partial,23
+1731,1731,2020,2020-11-22,7991,Dunlop Phoenix,no,jpn,no,1466
+1732,1732,2020,2020-11-22,2020762,Challenge Tour Grand Final,no,cha,no,1467
+1733,1733,2020,2020-11-20,51,LOCALiQ Series Championship,no,sam,no,1468
+1734,1734,2020,2020-11-15,7985,Tata Steel PGTI Players Championship 2020 presented by Chandigarh Golf Club,no,pgti,no,1469
+1735,1735,2020,2020-11-15,7984,Mitsui Sumitomo VISA Taiheiyo Masters,no,jpn,no,1470
+1736,1736,2020,2020-11-15,14,The Masters,no,pga,no,370
+1737,1737,2020,2020-11-14,2020302,Challenge de Cadiz,no,cha,no,1471
+1738,1738,2020,2020-11-08,7980,LG Signature Players Championship,no,kor,no,1472
+1739,1739,2020,2020-11-08,539,Charles Schwab Cup Championship,no,champ,no,43
+1740,1740,2020,2020-11-08,20,Vivint Houston Open,yes,pga,yes,391
+1741,1741,2020,2020-11-08,7978,Time Square Casino Challenge,no,afr,no,1473
+1742,1742,2020,2020-11-08,2020101,Aphrodite Hills Cyprus Showdown,no,euro,no,1474
+1743,1743,2020,2020-11-08,2020301,Andalucía Challenge de España,no,cha,no,1475
+1744,1744,2020,2020-11-08,7979,Hangzhou International Championship,no,chn,no,1476
+1745,1745,2020,2020-11-08,7981,Tata Steel PGTI Players Championship 2020 presented by Panchkula Golf Club,no,pgti,no,1477
+1746,1746,2020,2020-11-01,7972,Big Easy Road to # 2 - State Mines,no,bet,no,1478
+1747,1747,2020,2020-11-01,528,Bermuda Championship,no,pga,basic,30
+1748,1748,2020,2020-11-01,7973,Italy Alps Open,no,alp,no,1479
+1749,1749,2020,2020-11-01,2020100,Cyprus Open,no,euro,no,1480
+1750,1750,2020,2020-11-01,9,TimberTech Championship,no,champ,no,54
+1751,1751,2020,2020-10-25,527,ZOZO CHAMPIONSHIP @ SHERWOOD,yes,pga,yes,57
+1752,1752,2020,2020-10-25,7967,Big Easy Road To #1 - Services,no,bet,no,1481
+1753,1753,2020,2020-10-25,2020086,Italian Open,no,euro,no,1482
+1754,1754,2020,2020-10-25,7963,Delight Works Challenge,no,atvt,no,1483
+1755,1755,2020,2020-10-25,7968,BIZPLAY-Electronic Times OPEN with TAMEUS CC,no,kor,no,1484
+1756,1756,2020,2020-10-25,7965,Sun Wild Coast Sun Challenge,no,afr,no,1485
+1757,1757,2020,2020-10-25,7964,Tailor-made Building Services NT PGA Championship,no,anz,no,1486
+1758,1758,2020,2020-10-18,7958,Nexus Risk WA Open,no,anz,no,1487
+1759,1759,2020,2020-10-18,7957,Japan Open Golf Championship,no,jpn,no,1488
+1760,1760,2020,2020-10-18,7959,Singha Laguna Phuket Open,no,atgt,no,1489
+1761,1761,2020,2020-10-18,2020102,Scottish Championship,no,euro,no,1490
+1762,1762,2020,2020-10-18,521,THE CJ CUP @ SHADOW CREEK,yes,pga,yes,873
+1763,1763,2020,2020-10-18,623,Dominion Energy Charity Classic,no,champ,no,63
+1764,1764,2020,2020-10-11,47,Shriners Hospitals for Children Open,yes,pga,yes,64
+1765,1765,2020,2020-10-11,7949,Genesis Championship,no,kor,no,1491
+1766,1766,2020,2020-10-11,7948,Lindbytvätten Tour Final by Ekerum Resort,no,ngl,no,1492
+1767,1767,2020,2020-10-11,142,Orange County National Championship presented by Knight 39,no,kft,no,1493
+1768,1768,2020,2020-10-11,7947,TX Civil & Logistics WA PGA Championship,no,anz,no,1494
+1769,1769,2020,2020-10-11,7946,Ryo Ishikawa everyone PROJECT,no,atvt,no,1495
+1770,1770,2020,2020-10-11,2020078,BMW PGA Championship,no,euro,no,1496
+1771,1771,2020,2020-10-11,609,SAS Championship,no,champ,no,79
+1772,1772,2020,2020-10-09,50,Classic at The Club at Weston Hills,no,sam,no,1497
+1773,1773,2020,2020-10-04,2020726,Italian Challenge,no,cha,no,1498
+1774,1774,2020,2020-10-04,128,Savannah Golf Championship,no,kft,no,379
+1775,1775,2020,2020-10-04,54,Sanderson Farms Championship,yes,pga,yes,87
+1776,1776,2020,2020-10-04,7935,TI Challenge,no,atvt,no,1499
+1777,1777,2020,2020-10-04,7938,Race to Himmerland by FREJA,no,ngl,no,1500
+1778,1778,2020,2020-10-04,2020060,Aberdeen Standard Investments Scottish Open,no,euro,no,1501
+1779,1779,2020,2020-10-04,7939,Castanea Resort Championship,no,pgt,no,1502
+1780,1780,2020,2020-10-04,7936,Vodacom Championship Reloaded,no,afr,no,1503
+1781,1781,2020,2020-10-04,7937,Alps de Las Castillas,no,alp,no,1504
+1782,1782,2020,2020-10-02,49,The Challenge at Harbor Hills,no,sam,no,1505
+1783,1783,2020,2020-09-27,7925,Vodacom Championship Unlocked,no,afr,no,1506
+1784,1784,2020,2020-09-27,2020046,Dubai Duty Free Irish Open,no,euro,no,1507
+1785,1785,2020,2020-09-27,7928,Hyundai Insurance KJ Choi Invitational,no,kor,no,1508
+1786,1786,2020,2020-09-27,522,Corales Puntacana Resort & Club Championship,no,pga,basic,361
+1787,1787,2020,2020-09-27,23,Wichita Open Supporting Wichita's Youth,no,kft,no,270
+1788,1788,2020,2020-09-27,7927,Visby Open by Destination Gotland,no,ngl,no,1509
+1789,1789,2020,2020-09-27,7926,Alps de Andalucia,no,alp,no,1510
+1790,1790,2020,2020-09-25,48,Jacksonville Championship,no,sam,no,1511
+1791,1791,2020,2020-09-20,7917,Toscana Alps Open,no,alp,no,1512
+1792,1792,2020,2020-09-20,616,PURE Insurance Championship,no,champ,no,109
+1793,1793,2020,2020-09-20,7916,PGM Challenge II,no,atvt,no,1513
+1794,1794,2020,2020-09-20,2020750,Open de Portugal at Royal Óbidos,no,euro,no,1514
+1795,1795,2020,2020-09-20,26,U.S. Open,yes,pga,yes,269
+1796,1796,2020,2020-09-20,7919,21st Singha Thailand Masters,no,atgt,no,1515
+1797,1797,2020,2020-09-20,7918,Ledreborg Palace Golf Masters,no,ngl,no,1516
+1798,1798,2020,2020-09-13,7906,Haugschlag NÖ Open by perfect eagle,no,pgt,no,1517
+1799,1799,2020,2020-09-13,23,Sanford International,no,champ,no,122
+1800,1800,2020,2020-09-13,131,Evans Scholars Invitational,no,kft,no,205
+1801,1801,2020,2020-09-13,2020090,Portugal Masters,no,euro,no,1518
+1802,1802,2020,2020-09-13,7907,The 36th Shinhan Donghae Open,no,kor,no,1519
+1803,1803,2020,2020-09-13,7905,Open de la Mirabelle d'Or,no,alp,no,1520
+1804,1804,2020,2020-09-13,464,Safeway Open,yes,pga,yes,120
+1805,1805,2020,2020-09-11,58,Canada Life Series Championship at TPC Toronto,no,can,no,1521
+1806,1806,2020,2020-09-07,60,TOUR Championship,yes,pga,yes,146
+1807,1807,2020,2020-09-06,7897,TanumStrand Fjällbacka Open,no,ngl,no,1522
+1808,1808,2020,2020-09-06,122,Lincoln Land Championship presented by LRS,no,kft,no,245
+1809,1809,2020,2020-09-06,7901,Titleist Championship,no,afr,no,1523
+1810,1810,2020,2020-09-06,7895,Fujisankei Classic,no,jpn,no,1524
+1811,1811,2020,2020-09-06,7896,Cervino Alps Open,no,alp,no,1525
+1812,1812,2020,2020-09-06,2020300,Northern Ireland Open supported by The R&A,no,cha,no,1526
+1813,1813,2020,2020-09-06,2020038,Estrella Damm N.A. Andalucia Masters ,no,euro,no,1527
+1814,1814,2020,2020-09-06,7898,Schladming Dachstein Open 2020 powered by EURAM BANK,no,pgt,no,1528
+1815,1815,2020,2020-09-04,57,Canada Life Series at TPC Toronto: Heathlands Course,no,can,no,1529
+1816,1816,2020,2020-09-03,47,The Invitational at Auburn University Club,no,sam,no,1530
+1817,1817,2020,2020-08-30,7886,ALTEPRO Trophy by EXTEC,no,pgt,no,1531
+1818,1818,2020,2020-08-30,7887,HAZZYS Golf KPGA Open with Ildong Lakes Golf Club,no,kor,no,1532
+1819,1819,2020,2020-08-30,28,BMW Championship,yes,pga,yes,155
+1820,1820,2020,2020-08-30,7885,V Sport Golf Challenge at PGA Sweden National,no,ngl,no,1533
+1821,1821,2020,2020-08-30,45,Korn Ferry Tour Championship presented by United Leasing & Finance,no,kft,no,91
+1822,1822,2020,2020-08-30,2020011,ISPS HANDA UK Championship,no,euro,no,1534
+1823,1823,2020,2020-08-30,7884,The African Bank Sunshine Tour Championship,no,afr,no,1535
+1824,1824,2020,2020-08-28,46,The Classic at Callaway Gardens,no,sam,no,1536
+1825,1825,2020,2020-08-26,25,Charles Schwab Series at Ozarks National,no,champ,no,1537
+1826,1826,2020,2020-08-23,7876,Betway Championship,no,afr,no,1538
+1827,1827,2020,2020-08-23,2020009,ISPS HANDA Wales Open,no,euro,no,1539
+1828,1828,2020,2020-08-23,7878,Esbjerg Open Presented by Total,no,ngl,no,1540
+1829,1829,2020,2020-08-23,7888,The 39th GS Caltex Maekyung Open Golf Championship,no,kor,no,1541
+1830,1830,2020,2020-08-23,27,THE NORTHERN TRUST,yes,pga,yes,176
+1831,1831,2020,2020-08-23,7877,Starnberg Open,no,pgt,no,1542
+1832,1832,2020,2020-08-23,94,Nationwide Children's Hospital Championship,no,kft,no,113
+1833,1833,2020,2020-08-21,24,Charles Schwab Series at Bass Pro Shops Big Cedar Lodge,no,champ,no,1543
+1834,1834,2020,2020-08-19,56,Canada Life Series at Bear Mountain: Valley Course,no,can,no,1544
+1835,1835,2020,2020-08-16,2020007,Celtic Classic,no,euro,no,1545
+1836,1836,2020,2020-08-16,7870,Landeryd Masters by LiveCaddie,no,ngl,no,1546
+1837,1837,2020,2020-08-16,507,Bridgestone SENIOR PLAYERS Championship,no,champ,no,227
+1838,1838,2020,2020-08-16,27,Albertsons Boise Open presented by Kraft Nabisco,no,kft,no,157
+1839,1839,2020,2020-08-16,7871,Singha Pattaya Open,no,atgt,no,1547
+1840,1840,2020,2020-08-16,7869,Gosser Open,no,alp,no,1548
+1841,1841,2020,2020-08-16,13,Wyndham Championship,yes,pga,yes,189
+1842,1842,2020,2020-08-13,45,The Championship at Echelon Golf Club,no,sam,no,1549
+1843,1843,2020,2020-08-12,55,Canada Life Series at Bear Mountain: Mountain Course,no,can,no,1550
+1844,1844,2020,2020-08-09,7861,63rd KPGA Championship with A-ONE CC,no,kor,no,1551
+1845,1845,2020,2020-08-09,33,PGA Championship,yes,pga,yes,316
+1846,1846,2020,2020-08-09,7860,Raiffeisen Pro Golf Tour St. Polten,no,pgt,no,1552
+1847,1847,2020,2020-08-09,2020005,English Championship,no,euro,no,1553
+1848,1848,2020,2020-08-09,111,WinCo Foods Portland Open presented by KraftHeinz,no,kft,no,1554
+1849,1849,2020,2020-08-07,44,Alpharetta Classic,no,sam,no,1555
+1850,1850,2020,2020-08-02,123,Pinnacle Bank Championship presented by Aetna,no,kft,no,188
+1851,1851,2020,2020-08-02,7850,PGA Championship Braviken Open,no,ngl,no,1556
+1852,1852,2020,2020-08-02,2020004,Hero Open,no,euro,no,1557
+1853,1853,2020,2020-08-02,476,World Golf Championships-FedEx St. Jude Invitational,yes,pga,yes,1302
+1854,1854,2020,2020-08-02,7848,Gradi Polish Open by Emeralld,no,pgt,no,1558
+1855,1855,2020,2020-08-02,22,The Ally Challenge,no,champ,no,154
+1856,1856,2020,2020-08-02,472,Barracuda Championship,no,pga,basic,214
+1857,1857,2020,2020-07-26,7843,Stockholm Trophy by Folksam,no,ngl,no,1559
+1858,1858,2020,2020-07-26,22,Price Cutter Charity Championship presented by Dr Pepper,no,kft,no,217
+1859,1859,2020,2020-07-26,525,3M Open,yes,pga,yes,207
+1860,1860,2020,2020-07-25,2020066,Betfred British Masters hosted by Lee Westwood,no,euro,no,1560
+1861,1861,2020,2020-07-19,7838,Barseback Resort Masters,no,ngl,no,1561
+1862,1862,2020,2020-07-19,23,the Memorial Tournament presented by Nationwide,yes,pga,yes,283
+1863,1863,2020,2020-07-18,141,TPC San Antonio Championship at the Oaks,no,kft,no,1562
+1864,1864,2020,2020-07-18,2020732,Euram Bank Open,no,euro,no,1563
+1865,1865,2020,2020-07-12,140,TPC San Antonio Challenge at the Canyons,no,kft,no,1564
+1866,1866,2020,2020-07-12,7833,KPGA Gunsan CC Open,no,kor,no,1565
+1867,1867,2020,2020-07-12,2020731,Austrian Open,no,euro,no,1566
+1868,1868,2020,2020-07-12,7832,Thongchai Jaidee Foundation,no,atgt,no,1567
+1869,1869,2020,2020-07-12,533,Workday Charity Open,yes,pga,yes,1568
+1870,1870,2020,2020-07-05,524,Rocket Mortgage Classic,yes,pga,yes,246
+1871,1871,2020,2020-07-05,7828,Katrineholm Open hosted by Robert Karlsson,no,ngl,no,1569
+1872,1872,2020,2020-07-05,7827,Woosung Construction Aramir CC Busan Gyeongnam Open,no,kor,no,1570
+1873,1873,2020,2020-07-04,130,TPC Colorado Championship at Heron Lakes,no,kft,no,228
+1874,1874,2020,2020-06-28,26,Utah Championship presented by Zions Bank,no,kft,no,197
+1875,1875,2020,2020-06-28,34,Travelers Championship,yes,pga,yes,258
+1876,1876,2020,2020-06-21,12,RBC Heritage,yes,pga,yes,364
+1877,1877,2020,2020-06-20,139,The King & Bear Classic at World Golf Village,no,kft,no,1571
+1878,1878,2020,2020-06-14,138,Korn Ferry Challenge at TPC Sawgrass,no,kft,no,1572
+1879,1879,2020,2020-06-14,21,Charles Schwab Challenge,yes,pga,yes,307
+1880,1880,2020,2020-05-21,0,Maridoe Samaritan Fund Invitational 2.0,no,other,no,1573
+1881,1881,2020,2020-03-15,7817,Open Bahia Golf Beach,no,pgt,no,1574
+1882,1882,2020,2020-03-15,7818,Bengal Open Golf Championship,no,pgti,no,1575
+1883,1883,2020,2020-03-15,11,THE PLAYERS Championship,yes,pga,basic,400
+1884,1884,2020,2020-03-15,7816,PGA Catalunya Resort Championship,no,ngl,no,1576
+1885,1885,2020,2020-03-08,7813,Journey to Jordan 2 - Ayla,no,mgt,no,1577
+1886,1886,2020,2020-03-08,7812,Open Royal Golf Anfa Mohammedia,no,pgt,no,1578
+1887,1887,2020,2020-03-08,7810,Bandar Malaysia Open,no,asa,no,1579
+1888,1888,2020,2020-03-08,21,Estrella del Mar Open,no,sam,no,1146
+1889,1889,2020,2020-03-08,573,Hoag Classic,no,champ,no,392
+1890,1890,2020,2020-03-08,2020022,Commercial Bank Qatar Masters,no,euro,no,1580
+1891,1891,2020,2020-03-08,7814,Spanish Masters - Powered by DAT,no,ngl,no,1581
+1892,1892,2020,2020-03-08,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,407
+1893,1893,2020,2020-03-01,10,The Honda Classic,yes,pga,yes,415
+1894,1894,2020,2020-03-01,7805,Lumine Lakes Open,no,ngl,no,1582
+1895,1895,2020,2020-03-01,95,El Bosque Mexico Championship by INNOVA,no,kft,no,1583
+1896,1896,2020,2020-03-01,18,Cologuard Classic,no,champ,no,409
+1897,1897,2020,2020-03-01,7806,Royal Golf Club Bahrain Open,no,mgt,no,1584
+1898,1898,2020,2020-03-01,2020020,Oman Open,no,euro,no,1585
+1899,1899,2020,2020-03-01,7804,Lumine Hills Open,no,ngl,no,1586
+1900,1900,2020,2020-03-01,7801,New Zealand Open presented by Sky Sport,no,asa,no,1587
+1901,1901,2020,2020-03-01,7803,Red Sea Little Venice Open,no,alp,no,1588
+1902,1902,2020,2020-02-23,7793,Isuzu Queensland Open,no,anz,no,1589
+1903,1903,2020,2020-02-23,483,Puerto Rico Open,no,pga,basic,411
+1904,1904,2020,2020-02-23,7795,Tour Championship,no,afr,no,1590
+1905,1905,2020,2020-02-23,7797,Open Casa Green Golf,no,pgt,no,1591
+1906,1906,2020,2020-02-23,7798,The Ghala Open,no,mgt,no,1592
+1907,1907,2020,2020-02-23,7796,Ein Bay Open,no,alp,no,1593
+1908,1908,2020,2020-02-23,473,World Golf Championships-Mexico Championship,yes,pga,yes,1439
+1909,1909,2020,2020-02-16,2020710,Dimension Data Pro-Am,no,cha,no,1594
+1910,1910,2020,2020-02-16,7788,Coca-Cola QLD PGA Championship,no,anz,no,1595
+1911,1911,2020,2020-02-16,129,LECOM Suncoast Classic,no,kft,no,363
+1912,1912,2020,2020-02-16,7791,Tata Steel PGTI Players Championship presented by Eagleton - The Golf Resort,no,pgti,no,1596
+1913,1913,2020,2020-02-16,7790,NEWGIZA Open,no,mgt,no,1597
+1914,1914,2020,2020-02-16,7789,Open Palmeraie Country Club,no,pgt,no,1598
+1915,1915,2020,2020-02-16,7,The Genesis Invitational,yes,pga,yes,437
+1916,1916,2020,2020-02-16,552,Chubb Classic,no,champ,no,436
+1917,1917,2020,2020-02-09,7784,Golconda Masters Golf Championship 2020 powered by Telangana Tourism,no,pgti,no,1599
+1918,1918,2020,2020-02-09,7783,Journey to Jordan 1 - Ayla,no,mgt,no,1600
+1919,1919,2020,2020-02-09,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,452
+1920,1920,2020,2020-02-09,2020014,ISPS Handa Vic Open,no,euro,no,1601
+1921,1921,2020,2020-02-09,2020708,RAM Cape Town Open,no,cha,no,1602
+1922,1922,2020,2020-02-09,104,Country Club de Bogota Championship,no,kft,no,446
+1923,1923,2020,2020-02-09,7782,Singha E-San Open,no,atgt,no,1603
+1924,1924,2020,2020-02-02,3,Waste Management Phoenix Open,yes,pga,yes,443
+1925,1925,2020,2020-02-02,84,Panama Championship,no,kft,no,454
+1926,1926,2020,2020-02-02,2020706,Limpopo Championship,no,cha,no,1604
+1927,1927,2020,2020-02-02,2020012,Saudi International powered by SoftBank Investment Advisors,no,euro,no,1605
+1928,1928,2020,2020-02-01,624,Morocco Champions,no,champ,no,431
+1929,1929,2020,2020-01-26,4,Farmers Insurance Open,partial,pga,partial,460
+1930,1930,2020,2020-01-26,7772,Boonchu Ruangkit Championship,no,atgt,no,1606
+1931,1931,2020,2020-01-26,2020010,Omega Dubai Desert Classic,no,euro,no,1607
+1932,1932,2020,2020-01-26,7771,Red Sea Ain Sokhna Classic,no,pgt,no,1608
+1933,1933,2020,2020-01-22,125,The Bahamas Great Abaco Classic at Baha Mar,no,kft,no,462
+1934,1934,2020,2020-01-19,7768,Red Sea Egyptian Classic,no,pgt,no,1609
+1935,1935,2020,2020-01-19,7766,SMBC Singapore Open,no,jpn,no,1610
+1936,1936,2020,2020-01-19,2020008,Abu Dhabi HSBC Championship presented by EGA,no,euro,no,1611
+1937,1937,2020,2020-01-19,2,The American Express,partial,pga,partial,465
+1938,1938,2020,2020-01-19,7767,Eye of Africa PGA Championship,no,afr,no,1612
+1939,1939,2020,2020-01-18,524,Mitsubishi Electric Championship at Hualalai,no,champ,no,467
+1940,1940,2020,2020-01-15,124,The Bahamas Great Exuma Classic at Sandals Emerald Bay,no,kft,no,469
+1941,1941,2020,2020-01-12,7761,Hong Kong Open,no,asa,no,1613
+1942,1942,2020,2020-01-12,6,Sony Open in Hawaii,yes,pga,yes,472
+1943,1943,2020,2020-01-12,2020006,South African Open hosted by the City of Johannesburg,no,euro,no,1614
+1944,1944,2020,2020-01-05,16,Sentry Tournament of Champions,yes,pga,yes,474
+1945,1945,2019,2019-12-22,2020003,Australian PGA Championship,no,euro,no,1615
+1946,1946,2019,2019-12-08,2020002,AFRASIA BANK Mauritius Open,no,euro,no,1616
+1947,1947,2019,2019-12-07,478,Hero World Challenge,no,pga,basic,9
+1948,1948,2019,2019-12-01,2020001,Alfred Dunhill Championship,no,euro,no,1617
+1949,1949,2019,2019-11-24,2019095,"DP World Tour Championship, Dubai",no,euro,no,1618
+1950,1950,2019,2019-11-24,493,The RSM Classic,partial,pga,partial,23
+1951,1951,2019,2019-11-17,2019094,Nedbank Golf Challenge hosted by Gary Player,no,euro,no,1619
+1952,1952,2019,2019-11-17,457,Mayakoba Golf Classic,no,pga,basic,40
+1953,1953,2019,2019-11-10,2019093,Turkish Airlines Open,no,euro,no,1620
+1954,1954,2019,2019-11-03,489,World Golf Championships-HSBC Champions,no,pga,basic,1621
+1955,1955,2019,2019-11-03,528,Bermuda Championship,no,pga,basic,30
+1956,1956,2019,2019-10-27,527,ZOZO CHAMPIONSHIP,no,pga,basic,57
+1957,1957,2019,2019-10-27,2019090,Portugal Masters,no,euro,no,1622
+1958,1958,2019,2019-10-20,2019088,Amundi Open de France,no,euro,no,1623
+1959,1959,2019,2019-10-20,521,THE CJ CUP @ NINE BRIDGES,no,pga,basic,873
+1960,1960,2019,2019-10-13,20,Houston Open,yes,pga,yes,391
+1961,1961,2019,2019-10-13,2019086,Italian Open,no,euro,no,1624
+1962,1962,2019,2019-10-06,47,Shriners Hospitals for Children Open,yes,pga,yes,64
+1963,1963,2019,2019-10-06,2019084,Mutuactivos Open de España,no,euro,no,1625
+1964,1964,2019,2019-09-29,464,Safeway Open,yes,pga,yes,120
+1965,1965,2019,2019-09-29,2019082,Alfred Dunhill Links Championship,no,euro,no,1626
+1966,1966,2019,2019-09-22,54,Sanderson Farms Championship,yes,pga,yes,87
+1967,1967,2019,2019-09-22,2019080,BMW PGA Championship,no,euro,no,1627
+1968,1968,2019,2019-09-15,2019078,KLM Open,no,euro,no,1628
+1969,1969,2019,2019-09-15,490,A Military Tribute at The Greenbrier,yes,pga,yes,1629
+1970,1970,2019,2019-09-08,2019076,Porsche European Open,no,euro,no,1630
+1971,1971,2019,2019-09-02,45,Korn Ferry Tour Championship presented by United Leasing & Finance,no,kft,no,91
+1972,1972,2019,2019-09-01,2019074,Omega European Masters,no,euro,no,1631
+1973,1973,2019,2019-08-25,60,TOUR Championship,yes,pga,yes,146
+1974,1974,2019,2019-08-25,27,Albertsons Boise Open presented by Kraft Nabisco,no,kft,no,157
+1975,1975,2019,2019-08-25,2019072,Scandinavian Invitation,no,euro,no,1632
+1976,1976,2019,2019-08-18,94,Nationwide Children's Hospital Championship,no,kft,no,113
+1977,1977,2019,2019-08-18,28,BMW Championship,yes,pga,yes,155
+1978,1978,2019,2019-08-18,2019070,D+D Real Czech Masters,no,euro,no,1633
+1979,1979,2019,2019-08-11,27,THE NORTHERN TRUST,yes,pga,yes,176
+1980,1980,2019,2019-08-11,111,WinCo Foods Portland Open presented by KraftHeinz,no,kft,no,1554
+1981,1981,2019,2019-08-04,13,Wyndham Championship,yes,pga,yes,189
+1982,1982,2019,2019-08-04,99,Ellie Mae Classic at TPC Stonebrae,no,kft,no,1634
+1983,1983,2019,2019-07-28,476,World Golf Championships-FedEx St. Jude Invitational,yes,pga,yes,1302
+1984,1984,2019,2019-07-28,22,Price Cutter Charity Championship presented by Dr Pepper,no,kft,no,217
+1985,1985,2019,2019-07-28,472,Barracuda Championship,yes,pga,basic,214
+1986,1986,2019,2019-07-21,100,The Open Championship,no,pga,basic,218
+1987,1987,2019,2019-07-21,518,Barbasol Championship,yes,pga,yes,222
+1988,1988,2019,2019-07-21,123,Pinnacle Bank Championship presented by Chevrolet,no,kft,no,188
+1989,1989,2019,2019-07-14,2019060,Aberdeen Standard Investments Scottish Open,no,euro,no,1635
+1990,1990,2019,2019-07-14,30,John Deere Classic,yes,pga,yes,234
+1991,1991,2019,2019-07-14,130,TPC Colorado Championship at Heron Lakes,no,kft,no,228
+1992,1992,2019,2019-07-07,118,LECOM Health Challenge,no,kft,no,1636
+1993,1993,2019,2019-07-07,2019058,Dubai Duty Free Irish Open,no,euro,no,1637
+1994,1994,2019,2019-07-07,525,3M Open,yes,pga,yes,207
+1995,1995,2019,2019-06-30,2019056,Estrella Damm N.A. Andalucía Masters hosted by the Sergio Garcia Foundation,no,euro,no,1638
+1996,1996,2019,2019-06-30,524,Rocket Mortgage Classic,yes,pga,yes,246
+1997,1997,2019,2019-06-30,26,Utah Championship presented by Zions Bank,no,kft,no,197
+1998,1998,2019,2019-06-23,34,Travelers Championship,yes,pga,yes,258
+1999,1999,2019,2019-06-23,23,Wichita Open Supporting Wichita's Youth,no,kft,no,270
+2000,2000,2019,2019-06-23,2019054,BMW International Open,no,euro,no,1639
+2001,2001,2019,2019-06-16,122,Lincoln Land Championship presented by LRS,no,kft,no,245
+2002,2002,2019,2019-06-16,26,U.S. Open,yes,pga,yes,269
+2003,2003,2019,2019-06-09,32,RBC Canadian Open,yes,pga,yes,293
+2004,2004,2019,2019-06-09,37,BMW Charity Pro-Am presented by SYNNEX Corporation,no,kft,no,280
+2005,2005,2019,2019-06-02,48,REX Hospital Open,no,kft,no,295
+2006,2006,2019,2019-06-02,23,the Memorial Tournament presented by Nationwide,yes,pga,yes,283
+2007,2007,2019,2019-06-02,2019048,Belgian Knockout,no,euro,no,1640
+2008,2008,2019,2019-05-26,2019046,Made in Denmark presented by FREJA,no,euro,no,1641
+2009,2009,2019,2019-05-26,21,Charles Schwab Challenge,yes,pga,yes,307
+2010,2010,2019,2019-05-26,131,Evans Scholars Invitational,no,kft,no,205
+2011,2011,2019,2019-05-19,33,PGA Championship,yes,pga,yes,316
+2012,2012,2019,2019-05-19,11,Knoxville Open,no,kft,no,305
+2013,2013,2019,2019-05-12,100,KC Golf Classic,no,kft,no,317
+2014,2014,2019,2019-05-12,2019042,Betfred British Masters,no,euro,no,1642
+2015,2015,2019,2019-05-12,19,AT&T Byron Nelson,yes,pga,yes,341
+2016,2016,2019,2019-05-05,120,Nashville Golf Open Benefitting the Snedeker Foundation,no,kft,no,123
+2017,2017,2019,2019-05-05,480,Wells Fargo Championship,yes,pga,yes,325
+2018,2018,2019,2019-05-05,2019040,Volvo China Open,no,euro,no,1643
+2019,2019,2019,2019-04-28,2019038,Trophee Hassan II,no,euro,no,1644
+2020,2020,2019,2019-04-28,132,Dormie Network Classic at Briggs Ranch,no,kft,no,1645
+2021,2021,2019,2019-04-21,12,RBC Heritage,yes,pga,yes,364
+2022,2022,2019,2019-04-21,133,Robert Trent Jones Golf Trail Championship,no,kft,no,1646
+2023,2023,2019,2019-04-14,14,The Masters,no,pga,no,370
+2024,2024,2019,2019-04-07,41,Valero Texas Open,yes,pga,yes,382
+2025,2025,2019,2019-03-31,2019031,Hero Indian Open,no,euro,no,1647
+2026,2026,2019,2019-03-31,522,Corales Puntacana Resort & Club Championship,no,pga,basic,361
+2027,2027,2019,2019-03-31,128,Savannah Golf Championship,no,kft,no,379
+2028,2028,2019,2019-03-24,36,Chitimacha Louisiana Open presented by MISTRAS,no,kft,no,1126
+2029,2029,2019,2019-03-24,475,Valspar Championship,yes,pga,yes,393
+2030,2030,2019,2019-03-24,2019028,Maybank Championship,no,euro,no,1648
+2031,2031,2019,2019-03-17,11,THE PLAYERS Championship,yes,pga,yes,400
+2032,2032,2019,2019-03-17,2019026,Magical Kenya Open presented by Absa,no,euro,no,1649
+2033,2033,2019,2019-03-10,2019024,Commercial Bank Qatar Masters,no,euro,no,1650
+2034,2034,2019,2019-03-10,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,407
+2035,2035,2019,2019-03-03,2019022,Oman Open,no,euro,no,1651
+2036,2036,2019,2019-03-03,10,The Honda Classic,yes,pga,yes,415
+2037,2037,2019,2019-02-24,473,World Golf Championships-Mexico Championship,yes,pga,yes,1439
+2038,2038,2019,2019-02-24,483,Puerto Rico Open,no,pga,basic,411
+2039,2039,2019,2019-02-17,129,LECOM Suncoast Classic,no,kft,no,363
+2040,2040,2019,2019-02-17,7,Genesis Open,yes,pga,yes,437
+2041,2041,2019,2019-02-17,2019018,ISPS Handa World Super 6 Perth,no,euro,no,1652
+2042,2042,2019,2019-02-10,84,Panama Championship,no,kft,no,454
+2043,2043,2019,2019-02-10,2019016,ISPS Handa Vic Open,no,euro,no,1653
+2044,2044,2019,2019-02-10,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,452
+2045,2045,2019,2019-02-03,3,Waste Management Phoenix Open,yes,pga,yes,443
+2046,2046,2019,2019-02-03,2019014,Saudi International powered by SBIA,no,euro,no,1654
+2047,2047,2019,2019-02-03,104,Country Club de Bogota Championship,no,kft,no,446
+2048,2048,2019,2019-01-27,2019012,Omega Dubai Desert Classic,no,euro,no,1655
+2049,2049,2019,2019-01-27,4,Farmers Insurance Open,partial,pga,partial,460
+2050,2050,2019,2019-01-23,125,The Bahamas Great Abaco Classic at The Abaco Club,no,kft,no,462
+2051,2051,2019,2019-01-20,2,Desert Classic,partial,pga,partial,465
+2052,2052,2019,2019-01-19,2019010,Abu Dhabi HSBC Championship presented by EGA,no,euro,no,1656
+2053,2053,2019,2019-01-16,124,The Bahamas Great Exuma Classic at Sandals Emerald Bay,no,kft,no,469
+2054,2054,2019,2019-01-13,6,Sony Open in Hawaii,yes,pga,yes,472
+2055,2055,2019,2019-01-06,16,Sentry Tournament of Champions,yes,pga,yes,474
+2056,2056,2018,2018-12-16,2019006,Alfred Dunhill Championship,no,euro,no,1657
+2057,2057,2018,2018-12-09,2019004,South African Open hosted by the City of Johannesburg,no,euro,no,1658
+2058,2058,2018,2018-12-02,2019003,Afrasia Bank Mauritius Open at Anahita,no,euro,no,1659
+2059,2059,2018,2018-12-02,478,Hero World Challenge,no,pga,basic,9
+2060,2060,2018,2018-12-02,2019002,Australian PGA Championship,no,euro,no,1660
+2061,2061,2018,2018-11-25,2019000,Honma Hong Kong Open presented by Amundi,no,euro,no,1661
+2062,2062,2018,2018-11-18,493,The RSM Classic,partial,pga,partial,23
+2063,2063,2018,2018-11-18,2018090,"DP World Tour Championship, Dubai",no,euro,no,1662
+2064,2064,2018,2018-11-11,457,Mayakoba Golf Classic,no,pga,basic,40
+2065,2065,2018,2018-11-11,2018089,Nedbank Golf Challenge hosted by Gary Player,no,euro,no,1663
+2066,2066,2018,2018-11-04,47,Shriners Hospitals for Children Open,yes,pga,yes,64
+2067,2067,2018,2018-11-04,2018088,Turkish Airlines Open,no,euro,no,1664
+2068,2068,2018,2018-10-28,54,Sanderson Farms Championship,yes,pga,yes,87
+2069,2069,2018,2018-10-28,489,World Golf Championships-HSBC Champions,no,pga,basic,1621
+2070,2070,2018,2018-10-21,521,THE CJ CUP @ NINE BRIDGES,no,pga,basic,873
+2071,2071,2018,2018-10-21,2018084,Andalucia Valderrama Masters hosted by the Sergio Garcia Foundation,no,euro,no,1665
+2072,2072,2018,2018-10-14,2018082,Sky Sports British Masters,no,euro,no,1666
+2073,2073,2018,2018-10-14,494,CIMB Classic,no,pga,basic,1667
+2074,2074,2018,2018-10-07,464,Safeway Open,yes,pga,yes,120
+2075,2075,2018,2018-10-07,2018080,Alfred Dunhill Links Championship,no,euro,no,1668
+2076,2076,2018,2018-09-23,60,TOUR Championship,yes,pga,yes,146
+2077,2077,2018,2018-09-23,2018078,Portugal Masters,no,euro,no,1669
+2078,2078,2018,2018-09-20,45,Web.com Tour Championship,no,kft,no,91
+2079,2079,2018,2018-09-16,2018076,KLM Open,no,euro,no,1670
+2080,2080,2018,2018-09-13,27,Albertsons Boise Open presented by Kraft Nabisco,no,kft,no,157
+2081,2081,2018,2018-09-09,28,BMW Championship,yes,pga,yes,155
+2082,2082,2018,2018-09-09,2018074,Omega European Masters,no,euro,no,1671
+2083,2083,2018,2018-09-03,505,Dell Technologies Championship,yes,pga,yes,1672
+2084,2084,2018,2018-09-02,2018072,Made In Denmark,no,euro,no,1673
+2085,2085,2018,2018-08-30,119,DAP Championship presented by NewBrick,no,kft,no,1674
+2086,2086,2018,2018-08-26,2018070,D+D Real Czech Masters,no,euro,no,1675
+2087,2087,2018,2018-08-26,27,THE NORTHERN TRUST,yes,pga,yes,176
+2088,2088,2018,2018-08-23,94,Nationwide Children's Hospital Championship,no,kft,no,113
+2089,2089,2018,2018-08-19,2018068,Nordea Masters,no,euro,no,1676
+2090,2090,2018,2018-08-19,13,Wyndham Championship,yes,pga,yes,189
+2091,2091,2018,2018-08-16,111,WinCo Foods Portland Open presented by Kraft-Heinz,no,kft,no,1554
+2092,2092,2018,2018-08-12,33,PGA Championship,yes,pga,yes,316
+2093,2093,2018,2018-08-09,99,Ellie Mae Classic at TPC Stonebrae,no,kft,no,1634
+2094,2094,2018,2018-08-05,2018065,Fiji International presented by Fiji Airways,no,euro,no,1677
+2095,2095,2018,2018-08-05,476,World Golf Championships-Bridgestone Invitational,yes,pga,yes,1302
+2096,2096,2018,2018-08-02,100,KC Golf Classic,no,kft,no,317
+2097,2097,2018,2018-07-29,2018062,Porsche European Open,no,euro,no,1678
+2098,2098,2018,2018-07-29,32,RBC Canadian Open,yes,pga,yes,293
+2099,2099,2018,2018-07-26,22,Price Cutter Charity Championship presented by Dr Pepper,no,kft,no,217
+2100,2100,2018,2018-07-22,100,The Open Championship,no,pga,no,218
+2101,2101,2018,2018-07-22,518,Barbasol Championship,yes,pga,yes,222
+2102,2102,2018,2018-07-19,123,Pinnacle Bank Championship presented by Heartland Chevy Dealers,no,kft,no,188
+2103,2103,2018,2018-07-15,2018058,Aberdeen Standard Investments Scottish Open,no,euro,no,1679
+2104,2104,2018,2018-07-15,26,Utah Championship presented by Zions Bank,no,kft,no,197
+2105,2105,2018,2018-07-15,30,John Deere Classic,yes,pga,yes,234
+2106,2106,2018,2018-07-08,118,LECOM Health Challenge,no,kft,no,1636
+2107,2107,2018,2018-07-08,490,A Military Tribute at The Greenbrier,yes,pga,yes,1629
+2108,2108,2018,2018-07-08,2018056,Dubai Duty Free Irish Open hosted by the Rory Foundation,no,euro,no,1680
+2109,2109,2018,2018-07-01,2018054,HNA Open de France,no,euro,no,1681
+2110,2110,2018,2018-07-01,122,Lincoln Land Championship presented by LRS,no,kft,no,245
+2111,2111,2018,2018-07-01,471,Quicken Loans National,yes,pga,yes,1682
+2112,2112,2018,2018-06-24,34,Travelers Championship,yes,pga,yes,258
+2113,2113,2018,2018-06-24,2018052,BMW International Open,no,euro,no,1683
+2114,2114,2018,2018-06-24,23,Wichita Open Supporting Wichita's Youth,no,kft,no,270
+2115,2115,2018,2018-06-17,26,U.S. Open,no,pga,no,269
+2116,2116,2018,2018-06-10,25,FedEx St. Jude Classic,yes,pga,yes,1684
+2117,2117,2018,2018-06-10,2018048,Shot Clock Masters,no,euro,no,1685
+2118,2118,2018,2018-06-10,112,Rust-Oleum Championship,no,kft,no,1686
+2119,2119,2018,2018-06-03,2018046,Italian Open,no,euro,no,1687
+2120,2120,2018,2018-06-03,48,Rex Hospital Open,no,kft,no,295
+2121,2121,2018,2018-06-03,23,the Memorial Tournament presented by Nationwide,yes,pga,yes,283
+2122,2122,2018,2018-05-27,2018044,BMW PGA Championship,no,euro,no,1688
+2123,2123,2018,2018-05-27,120,Nashville Golf Open Benefitting the Snedeker Foundation,no,kft,no,123
+2124,2124,2018,2018-05-27,21,Fort Worth Invitational,yes,pga,yes,307
+2125,2125,2018,2018-05-20,2018042,Belgian Knockout,no,euro,no,1689
+2126,2126,2018,2018-05-20,37,BMW Charity Pro-Am presented by SYNNEX Corporation,no,kft,no,280
+2127,2127,2018,2018-05-20,19,AT&T Byron Nelson,yes,pga,yes,341
+2128,2128,2018,2018-05-13,2018040,Rocco Forte Sicilian Open,no,euro,no,1690
+2129,2129,2018,2018-05-13,11,Knoxville Open,no,kft,no,305
+2130,2130,2018,2018-05-13,11,THE PLAYERS Championship,yes,pga,yes,400
+2131,2131,2018,2018-05-06,480,Wells Fargo Championship,yes,pga,yes,325
+2132,2132,2018,2018-04-29,2018036,Volvo China Open,no,euro,no,1691
+2133,2133,2018,2018-04-29,106,United Leasing & Finance Championship,no,kft,no,1692
+2134,2134,2018,2018-04-22,127,North Mississippi Classic,no,kft,no,1693
+2135,2135,2018,2018-04-22,41,Valero Texas Open,yes,pga,yes,382
+2136,2136,2018,2018-04-22,2018034,Trophee Hassan II,no,euro,no,1694
+2137,2137,2018,2018-04-15,12,RBC Heritage,yes,pga,yes,364
+2138,2138,2018,2018-04-15,2018032,Open de España,no,euro,no,1695
+2139,2139,2018,2018-04-08,14,Masters Tournament,no,pga,no,370
+2140,2140,2018,2018-04-01,128,Savannah Golf Championship,no,kft,no,379
+2141,2141,2018,2018-04-01,20,Houston Open,yes,pga,yes,391
+2142,2142,2018,2018-03-25,522,Corales Puntacana Resort & Club Championship,no,pga,basic,361
+2143,2143,2018,2018-03-25,36,Chitimacha Louisiana Open presented by NACHER,no,kft,no,1126
+2144,2144,2018,2018-03-18,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,407
+2145,2145,2018,2018-03-11,95,El Bosque Mexico Championship by Innova,no,kft,no,1583
+2146,2146,2018,2018-03-11,2018022,Hero Indian Open,no,euro,no,1696
+2147,2147,2018,2018-03-11,475,Valspar Championship,yes,pga,yes,393
+2148,2148,2018,2018-03-04,473,World Golf Championships-Mexico Championship,yes,pga,yes,1439
+2149,2149,2018,2018-03-04,2018021,Tshwane Open,no,euro,no,1697
+2150,2150,2018,2018-02-25,2018018,Commercial Bank Qatar Masters,no,euro,no,1698
+2151,2151,2018,2018-02-25,10,The Honda Classic,yes,pga,yes,415
+2152,2152,2018,2018-02-18,2018016,NBO Oman Open,no,euro,no,1699
+2153,2153,2018,2018-02-18,7,Genesis Open,yes,pga,yes,437
+2154,2154,2018,2018-02-11,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,452
+2155,2155,2018,2018-02-11,104,Club Colombia Championship,no,kft,no,446
+2156,2156,2018,2018-02-04,84,Panama Championship,no,kft,no,454
+2157,2157,2018,2018-02-04,3,Waste Management Phoenix Open,yes,pga,yes,443
+2158,2158,2018,2018-02-04,2018012,Maybank Championship,no,euro,no,1700
+2159,2159,2018,2018-01-28,2018010,Omega Dubai Desert Classic,no,euro,no,1701
+2160,2160,2018,2018-01-28,4,Farmers Insurance Open,partial,pga,partial,460
+2161,2161,2018,2018-01-24,125,The Bahamas Great Abaco Classic at The Abaco Club,no,kft,no,462
+2162,2162,2018,2018-01-21,2,CareerBuilder Challenge,partial,pga,partial,465
+2163,2163,2018,2018-01-21,2018008,Abu Dhabi HSBC Championship presented by EGA,no,euro,no,1702
+2164,2164,2018,2018-01-16,124,The Bahamas Great Exuma Classic at Sandals Emerald Bay,no,kft,no,469
+2165,2165,2018,2018-01-14,6,Sony Open in Hawaii,yes,pga,yes,472
+2166,2166,2018,2018-01-14,2018004,BMW SA Open hosted by the City of Ekurhuleni,no,euro,no,1703
+2167,2167,2018,2018-01-07,16,Sentry Tournament of Champions,yes,pga,yes,474
+2168,2168,2017,2017-12-10,2017098,Joburg Open,no,euro,no,1704
+2169,2169,2017,2017-12-03,2017096,Australian PGA Championship,no,euro,no,1705
+2170,2170,2017,2017-12-03,478,Hero World Challenge,no,pga,basic,9
+2171,2171,2017,2017-12-03,2017097,AfrAsia Bank Mauritius Open,no,euro,no,1706
+2172,2172,2017,2017-11-26,2017095,UBS Hong Kong Open,no,euro,no,1707
+2173,2173,2017,2017-11-19,2017094,"DP World Tour Championship, Dubai",no,euro,no,1708
+2174,2174,2017,2017-11-19,493,The RSM Classic,partial,pga,partial,23
+2175,2175,2017,2017-11-12,2017092,Nedbank Golf Challenge hosted by Gary Player,no,euro,no,1709
+2176,2176,2017,2017-11-12,457,OHL Classic at Mayakoba,no,pga,basic,40
+2177,2177,2017,2017-11-05,2017090,Turkish Airlines Open,no,euro,no,1710
+2178,2178,2017,2017-11-05,47,Shriners Hospitals for Children Open,yes,pga,yes,64
+2179,2179,2017,2017-10-29,54,Sanderson Farms Championship,yes,pga,yes,87
+2180,2180,2017,2017-10-29,489,World Golf Championships-HSBC Champions,no,pga,basic,1621
+2181,2181,2017,2017-10-22,2017086,Andalucia Valderrama Masters hosted by the Sergio Garcia Foundation,no,euro,no,1711
+2182,2182,2017,2017-10-22,521,THE CJ CUP @ NINE BRIDGES,no,pga,basic,873
+2183,2183,2017,2017-10-15,494,CIMB Classic,no,pga,basic,1667
+2184,2184,2017,2017-10-15,2017084,Italian Open,no,euro,no,1712
+2185,2185,2017,2017-10-08,2017082,Alfred Dunhill Links Championship,no,euro,no,1713
+2186,2186,2017,2017-10-08,464,Safeway Open,yes,pga,yes,120
+2187,2187,2017,2017-10-01,45,Web.com Tour Championship,no,kft,no,91
+2188,2188,2017,2017-10-01,2017080,British Masters supported by Sky Sports,no,euro,no,1714
+2189,2189,2017,2017-09-24,119,DAP Championship,no,kft,no,1674
+2190,2190,2017,2017-09-24,60,TOUR Championship,yes,pga,yes,146
+2191,2191,2017,2017-09-24,2017078,Portugal Masters,no,euro,no,1715
+2192,2192,2017,2017-09-17,28,BMW Championship,yes,pga,yes,155
+2193,2193,2017,2017-09-17,27,Albertsons Boise Open presented by Kraft Nabisco,no,kft,no,157
+2194,2194,2017,2017-09-17,2017076,KLM Open,no,euro,no,1716
+2195,2195,2017,2017-09-10,2017074,Omega European Masters,no,euro,no,1717
+2196,2196,2017,2017-09-04,505,Dell Technologies Championship,yes,pga,yes,1672
+2197,2197,2017,2017-09-03,2017072,D+D REAL Czech Masters,no,euro,no,1718
+2198,2198,2017,2017-09-03,94,Nationwide Children's Hospital Championship,no,kft,no,113
+2199,2199,2017,2017-08-27,27,THE NORTHERN TRUST,yes,pga,yes,176
+2200,2200,2017,2017-08-27,2017070,Made In Denmark,no,euro,no,1719
+2201,2201,2017,2017-08-27,111,WinCo Foods Portland Open presented by Kraft-Heinz,no,kft,no,1554
+2202,2202,2017,2017-08-20,11,News Sentinel Open presented by Pilot,no,kft,no,305
+2203,2203,2017,2017-08-20,2017068,Fiji International,no,euro,no,1720
+2204,2204,2017,2017-08-20,13,Wyndham Championship,yes,pga,yes,189
+2205,2205,2017,2017-08-13,22,Price Cutter Charity Championship presented by Dr Pepper,no,kft,no,217
+2206,2206,2017,2017-08-13,33,PGA Championship,yes,pga,yes,316
+2207,2207,2017,2017-08-06,99,Ellie Mae Classic at TPC Stonebrae,no,kft,no,1634
+2208,2208,2017,2017-08-06,476,World Golf Championships-Bridgestone Invitational,yes,pga,yes,1302
+2209,2209,2017,2017-07-30,2017060,Porsche European Open,no,euro,no,1721
+2210,2210,2017,2017-07-30,32,RBC Canadian Open,yes,pga,yes,293
+2211,2211,2017,2017-07-30,100,Digital Ally Open,no,kft,no,317
+2212,2212,2017,2017-07-23,123,Pinnacle Bank Championship presented by Heartland Chevy Dealers,no,kft,no,188
+2213,2213,2017,2017-07-23,100,The Open Championship,no,pga,no,218
+2214,2214,2017,2017-07-23,518,Barbasol Championship,yes,pga,yes,222
+2215,2215,2017,2017-07-16,2017056,Aberdeen Asset Management Scottish Open,no,euro,no,1722
+2216,2216,2017,2017-07-16,26,Utah Championship presented by Zions Bank,no,kft,no,197
+2217,2217,2017,2017-07-16,30,John Deere Classic,yes,pga,yes,234
+2218,2218,2017,2017-07-09,118,LECOM Health Challenge,no,kft,no,1636
+2219,2219,2017,2017-07-09,490,The Greenbrier Classic,yes,pga,yes,1629
+2220,2220,2017,2017-07-09,2017054,Dubai Duty Free Irish Open hosted by the Rory Foundation,no,euro,no,1723
+2221,2221,2017,2017-07-02,471,Quicken Loans National,yes,pga,yes,1682
+2222,2222,2017,2017-07-02,120,Nashville Golf Open Benefitting the Snedeker Foundation,no,kft,no,123
+2223,2223,2017,2017-07-02,2017052,HNA Open de France,no,euro,no,1724
+2224,2224,2017,2017-06-25,2017050,BMW International Open,no,euro,no,1725
+2225,2225,2017,2017-06-25,34,Travelers Championship,yes,pga,yes,258
+2226,2226,2017,2017-06-25,122,Lincoln Land Charity Championship,no,kft,no,245
+2227,2227,2017,2017-06-18,23,Air Capital Classic Supporting Wichita's Youth,no,kft,no,270
+2228,2228,2017,2017-06-18,26,U.S. Open,no,pga,no,269
+2229,2229,2017,2017-06-11,25,FedEx St. Jude Classic,yes,pga,yes,1684
+2230,2230,2017,2017-06-11,2017046,LYONESS OPEN powered by ORGANIC+,no,euro,no,1726
+2231,2231,2017,2017-06-11,112,Rust-Oleum Championship,no,kft,no,1686
+2232,2232,2017,2017-06-04,48,Rex Hospital Open,no,kft,no,295
+2233,2233,2017,2017-06-04,23,the Memorial Tournament presented by Nationwide,yes,pga,yes,283
+2234,2234,2017,2017-06-04,2017044,Nordea Masters,no,euro,no,1727
+2235,2235,2017,2017-05-28,21,DEAN & DELUCA Invitational,yes,pga,yes,307
+2236,2236,2017,2017-05-28,2017042,BMW PGA Championship,no,euro,no,1728
+2237,2237,2017,2017-05-21,2017040,"Rocco Forte Open - Verdura, Sicily",no,euro,no,1729
+2238,2238,2017,2017-05-21,19,AT&T Byron Nelson,yes,pga,yes,341
+2239,2239,2017,2017-05-21,37,BMW Charity Pro-Am presented by SYNNEX Corporation,no,kft,no,280
+2240,2240,2017,2017-05-14,11,THE PLAYERS Championship,yes,pga,yes,400
+2241,2241,2017,2017-05-14,2017038,Open de Portugal at Morgado Golf Resort,no,euro,no,1730
+2242,2242,2017,2017-05-07,117,Corales Puntacana Resort and Club Championship,no,kft,no,1731
+2243,2243,2017,2017-05-07,480,Wells Fargo Championship,yes,pga,yes,325
+2244,2244,2017,2017-04-30,2017034,Volvo China Open,no,euro,no,1732
+2245,2245,2017,2017-04-30,95,El Bosque Mexico Championship by Innova,no,kft,no,1583
+2246,2246,2017,2017-04-23,106,United Leasing & Finance Championship,no,kft,no,1692
+2247,2247,2017,2017-04-23,2017032,Shenzhen International,no,euro,no,1733
+2248,2248,2017,2017-04-23,41,Valero Texas Open,yes,pga,yes,382
+2249,2249,2017,2017-04-16,2017030,Trophee Hassan II,no,euro,no,1734
+2250,2250,2017,2017-04-16,12,RBC Heritage,yes,pga,yes,364
+2251,2251,2017,2017-04-09,14,Masters Tournament,no,pga,no,370
+2252,2252,2017,2017-04-02,20,Shell Houston Open,yes,pga,yes,391
+2253,2253,2017,2017-03-26,36,Chitimacha Louisiana Open presented by NACHER,no,kft,no,1126
+2254,2254,2017,2017-03-26,483,Puerto Rico Open,no,pga,basic,411
+2255,2255,2017,2017-03-19,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,407
+2256,2256,2017,2017-03-12,2017020,Hero Indian Open,no,euro,no,1735
+2257,2257,2017,2017-03-12,475,Valspar Championship,yes,pga,yes,393
+2258,2258,2017,2017-03-05,473,World Golf Championships-Mexico Championship,yes,pga,yes,1439
+2259,2259,2017,2017-03-05,2017018,Tshwane Open,no,euro,no,1736
+2260,2260,2017,2017-02-26,2017014,Joburg Open,no,euro,no,1737
+2261,2261,2017,2017-02-26,10,The Honda Classic,yes,pga,yes,415
+2262,2262,2017,2017-02-19,7,Genesis Open,yes,pga,yes,437
+2263,2263,2017,2017-02-19,84,Panama Claro Championship,no,kft,no,454
+2264,2264,2017,2017-02-12,2017010,Maybank Championship,no,euro,no,1738
+2265,2265,2017,2017-02-12,104,Club Colombia Championship by Servientrega,no,kft,no,446
+2266,2266,2017,2017-02-12,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,452
+2267,2267,2017,2017-02-05,3,Waste Management Phoenix Open,yes,pga,yes,443
+2268,2268,2017,2017-02-05,2017008,Omega Dubai Desert Classic,no,euro,no,1739
+2269,2269,2017,2017-01-29,2017006,Commercial Bank Qatar Masters,no,euro,no,1740
+2270,2270,2017,2017-01-29,4,Farmers Insurance Open,partial,pga,partial,460
+2271,2271,2017,2017-01-25,125,The Bahamas Great Abaco Classic at The Abaco Club,no,kft,no,462
+2272,2272,2017,2017-01-22,2017004,Abu Dhabi HSBC Championship,no,euro,no,1741
+2273,2273,2017,2017-01-22,2,CareerBuilder Challenge,partial,pga,partial,465
+2274,2274,2017,2017-01-15,6,Sony Open in Hawaii,yes,pga,yes,472
+2275,2275,2017,2017-01-15,2017002,BMW SA Open hosted by City of Ekurhuleni,no,euro,no,1742
+2276,2276,2017,2017-01-11,124,The Bahamas Great Exuma Classic at Sandals Emerald Bay,no,kft,no,469
+2277,2277,2017,2017-01-08,16,SBS Tournament of Champions,yes,pga,yes,474
+2278,2278,2016,2016-07-17,100,The Open Championship,no,pga,no,218
+2279,2279,2014,2014-08-10,33,PGA Championship,yes,pga,yes,316
+2280,2280,2014,2014-06-15,26,U.S. Open,no,pga,no,269
+2281,2281,2004,2004-07-18,100,The Open Championship,no,pga,no,218
