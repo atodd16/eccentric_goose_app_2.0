@@ -26,7 +26,7 @@ performance_data['year'] = pd.to_datetime(performance_data['event_completed']).d
 
 print(performance_data)
 
-print('hi')
+
 
 
 
