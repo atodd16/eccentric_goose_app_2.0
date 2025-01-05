@@ -16,7 +16,7 @@ event_data['distinct_event_id'] = pd.factorize(event_data[['event_id', 'tour']].
 event_data.rename(columns={'date':'event_completed'}, inplace=True)
 
 # saves CSV to 'cleansed_data_files'
-event_data.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\cleansed_data_files\event_data_cleansed')
+event_data.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\cleansed_data_files\event_data_cleansed.csv')
 
 #event_data = event_data[event_data['event_name'] == 'Alfred Dunhill Championship #2']
 
