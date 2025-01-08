@@ -11,8 +11,15 @@ performance_data = pd.read_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling
                                parse_dates=['event_completed'])
 
 # read in event_data_cleansed CSV
-event_data = pd.read_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\cleansed_data_files\event_data_cleansed', index_col=0,
+event_data = pd.read_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\cleansed_data_files\event_data_cleansed.csv', index_col=0,
                          parse_dates=['event_completed'])
+
+# read in aggregated_datagolf_rankings CSV
+aggregated_data_golf_rankings = pd.read_csv(
+    r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\cleansed_data_files\aggregated_datagolf_rankings.csv',
+    index_col=0,
+    parse_dates=['dg_ranking_start', 'dg_ranking_end']
+)
 
 # drops columns where event_id is blank
 performance_data = performance_data.dropna(subset=['event_completed'])
@@ -57,6 +64,19 @@ performance_data = performance_data.merge(
     rolling_counts[['round_completed', 'dg_id', '#_of_rounds']],
     on=['round_completed', 'dg_id']
 )
+
+# creates new dataframe 'dg_ranked_performance_data' which merges 'dg_rank' from 'aggregated_datagolf_ranking' into performance data and filters out null values
+merged_df = pd.merge(performance_data, aggregated_data_golf_rankings[['dg_id', 'dg_rank','dg_ranking_start', 'dg_ranking_end']], on='dg_id', how='left')
+
+dg_ranked_performance_data = merged_df[((merged_df['event_completed'] >= merged_df['dg_ranking_start']) &
+                         (merged_df['event_completed'] <= merged_df['dg_ranking_end']))]
+
+
+dg_ranked_performance_data.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\scratch\dg_ranked_performance_data.csv')
+
+
+
+
 
 
 
