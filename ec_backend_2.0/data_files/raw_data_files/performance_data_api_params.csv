@@ -1,444 +1,444 @@
 ,calendar_year,date,event_id,event_name,sg_categories,tour,traditional_stats,distinct_event_id
-1,2024,2024-12-22,2025104,AfrAsia Bank Mauritius Open,no,euro,no,2
-2,2024,2024-12-15,2025103,Alfred Dunhill Championship,no,euro,no,3
-3,2024,2024-12-15,88,PGA TOUR Q-School presented by Korn Ferry,no,pga,basic,4
-6,2024,2024-12-14,38,Promotions Event,no,liv,no,7
-8,2024,2024-12-08,478,Hero World Challenge,yes,pga,yes,9
-9,2024,2024-12-08,2025102,Nedbank Golf Challenge,no,euro,no,10
-13,2024,2024-12-01,2025101,ISPS Handa Australian Open,no,euro,no,14
-21,2024,2024-11-24,2025100,BMW Australian PGA Championship,no,euro,no,22
+4,2024,2024-12-22,2025104,AfrAsia Bank Mauritius Open,no,euro,no,5
+5,2024,2024-12-15,2025103,Alfred Dunhill Championship,no,euro,no,6
+6,2024,2024-12-15,88,PGA TOUR Q-School presented by Korn Ferry,no,pga,basic,7
+9,2024,2024-12-14,38,Promotions Event,no,liv,no,10
+12,2024,2024-12-08,478,Hero World Challenge,yes,pga,yes,13
+13,2024,2024-12-08,2025102,Nedbank Golf Challenge,no,euro,no,14
+15,2024,2024-12-01,2025101,ISPS Handa Australian Open,no,euro,no,16
 22,2024,2024-11-24,493,The RSM Classic,yes,pga,yes,23
-27,2024,2024-11-17,2024142,DP World Tour Championship,no,euro,no,28
-29,2024,2024-11-17,528,Butterfield Bermuda Championship,no,pga,basic,30
-35,2024,2024-11-13,2024714,DP World Tour Qualifying (Final Stage),no,euro,no,36
-38,2024,2024-11-10,2024141,Abu Dhabi HSBC Championship,no,euro,no,39
-39,2024,2024-11-10,457,World Wide Technology Championship,no,pga,basic,40
+26,2024,2024-11-24,2025100,BMW Australian PGA Championship,no,euro,no,27
+34,2024,2024-11-17,2024142,DP World Tour Championship,no,euro,no,35
+36,2024,2024-11-17,528,Butterfield Bermuda Championship,no,pga,basic,37
+38,2024,2024-11-13,2024714,DP World Tour Qualifying (Final Stage),no,euro,no,39
+42,2024,2024-11-10,457,World Wide Technology Championship,no,pga,basic,43
+45,2024,2024-11-10,2024141,Abu Dhabi HSBC Championship,no,euro,no,46
 55,2024,2024-10-27,2024118,Genesis Championship,no,euro,no,56
 56,2024,2024-10-27,527,ZOZO CHAMPIONSHIP,yes,pga,yes,57
 63,2024,2024-10-20,47,Shriners Children's Open,yes,pga,yes,64
 68,2024,2024-10-20,2024139,Estrella Damm N.A. Andalucía  Masters,no,euro,no,69
-74,2024,2024-10-13,554,Black Desert Championship,yes,pga,yes,75
-80,2024,2024-10-13,2024138,FedEx Open de France,no,euro,no,81
-85,2024,2024-10-06,2024137,Alfred Dunhill Links Championship,no,euro,no,86
-86,2024,2024-10-06,54,Sanderson Farms Championship,yes,pga,yes,87
-96,2024,2024-09-29,2024136,acciona Open de España presented by Madrid,no,euro,no,97
-109,2024,2024-09-22,2024135,BMW PGA Championship,no,euro,no,110
-110,2024,2024-09-22,37,Dallas (Team Final—Stroke Play),no,liv,no,111
-117,2024,2024-09-15,36,Chicago,no,liv,basic,118
-118,2024,2024-09-15,2024134,Amgen Irish Open,no,euro,no,119
-119,2024,2024-09-15,464,Procore Championship,yes,pga,yes,120
-135,2024,2024-09-08,2024133,Omega European Masters,no,euro,no,136
-143,2024,2024-09-01,2024132,Betfred British Masters hosted by Sir Nick Faldo,no,euro,no,144
+78,2024,2024-10-13,554,Black Desert Championship,yes,pga,yes,79
+82,2024,2024-10-13,2024138,FedEx Open de France,no,euro,no,83
+88,2024,2024-10-06,54,Sanderson Farms Championship,yes,pga,yes,89
+93,2024,2024-10-06,2024137,Alfred Dunhill Links Championship,no,euro,no,94
+100,2024,2024-09-29,2024136,acciona Open de España presented by Madrid,no,euro,no,101
+111,2024,2024-09-22,2024135,BMW PGA Championship,no,euro,no,112
+112,2024,2024-09-22,37,Dallas (Team Final—Stroke Play),no,liv,no,113
+123,2024,2024-09-15,36,Chicago,no,liv,basic,124
+126,2024,2024-09-15,2024134,Amgen Irish Open,no,euro,no,127
+127,2024,2024-09-15,464,Procore Championship,yes,pga,yes,128
+134,2024,2024-09-08,2024133,Omega European Masters,no,euro,no,135
 145,2024,2024-09-01,60,TOUR Championship,yes,pga,yes,146
-154,2024,2024-08-25,28,BMW Championship,yes,pga,yes,155
-159,2024,2024-08-25,2024145,Danish Golf Championship,no,euro,no,160
-174,2024,2024-08-18,35,Greenbrier,no,liv,no,175
-175,2024,2024-08-18,27,FedEx St. Jude Championship,yes,pga,yes,176
-176,2024,2024-08-18,2024144,D+D REAL Czech Masters,no,euro,no,177
-188,2024,2024-08-11,13,Wyndham Championship,yes,pga,yes,189
-197,2024,2024-08-04,519,Olympic Men's Golf Competition,yes,pga,yes,198
-206,2024,2024-07-28,525,3M Open,yes,pga,yes,207
-208,2024,2024-07-28,34,United Kingdom,no,liv,basic,209
-213,2024,2024-07-21,472,Barracuda Championship,yes,pga,basic,214
+147,2024,2024-09-01,2024132,Betfred British Masters hosted by Sir Nick Faldo,no,euro,no,148
+156,2024,2024-08-25,28,BMW Championship,yes,pga,yes,157
+157,2024,2024-08-25,2024145,Danish Golf Championship,no,euro,no,158
+176,2024,2024-08-18,35,Greenbrier,no,liv,no,177
+177,2024,2024-08-18,27,FedEx St. Jude Championship,yes,pga,yes,178
+178,2024,2024-08-18,2024144,D+D REAL Czech Masters,no,euro,no,179
+190,2024,2024-08-11,13,Wyndham Championship,yes,pga,yes,191
+199,2024,2024-08-04,519,Olympic Men's Golf Competition,yes,pga,yes,200
+207,2024,2024-07-28,34,United Kingdom,no,liv,basic,208
+208,2024,2024-07-28,525,3M Open,yes,pga,yes,209
 217,2024,2024-07-21,100,The Open Championship,yes,pga,yes,218
-221,2024,2024-07-14,518,ISCO Championship,yes,pga,yes,222
-223,2024,2024-07-14,33,Andalucia,no,liv,basic,224
-225,2024,2024-07-14,541,Genesis Scottish Open,yes,pga,yes,226
-233,2024,2024-07-07,30,John Deere Classic,yes,pga,yes,234
-235,2024,2024-07-07,2024126,BMW International Open,no,euro,no,236
-242,2024,2024-06-30,2024125,Italian Open presented by Regione Emilia-Romagna,no,euro,no,243
-245,2024,2024-06-30,524,Rocket Mortgage Classic,yes,pga,yes,246
-254,2024,2024-06-23,2024124,KLM Open,no,euro,no,255
-255,2024,2024-06-23,32,Nashville,no,liv,no,256
-257,2024,2024-06-23,34,Travelers Championship,yes,pga,yes,258
-268,2024,2024-06-16,26,U.S. Open,yes,pga,yes,269
-280,2024,2024-06-09,31,Houston,no,liv,basic,281
-282,2024,2024-06-09,23,the Memorial Tournament presented by Workday,yes,pga,yes,283
-286,2024,2024-06-09,2024122,Volvo Car Scandinavian Mixed,no,euro,no,287
-292,2024,2024-06-02,32,RBC Canadian Open,yes,pga,yes,293
-296,2024,2024-06-02,2024121,European Open,no,euro,no,297
-302,2024,2024-05-26,2024120,Soudal Open,no,euro,no,303
-306,2024,2024-05-26,21,Charles Schwab Challenge,yes,pga,yes,307
-315,2024,2024-05-19,33,PGA Championship,yes,pga,yes,316
-324,2024,2024-05-12,480,Wells Fargo Championship,yes,pga,yes,325
-325,2024,2024-05-12,553,Myrtle Beach Classic,yes,pga,yes,326
-333,2024,2024-05-05,2024116,Volvo China Open,no,euro,no,334
-334,2024,2024-05-05,30,Singapore,no,liv,basic,335
-340,2024,2024-05-05,19,THE CJ CUP Byron Nelson,yes,pga,yes,341
-346,2024,2024-04-28,29,Adelaide,no,liv,basic,347
-349,2024,2024-04-28,2024117,ISPS HANDA - CHAMPIONSHIP,no,euro,no,350
-360,2024,2024-04-21,522,Corales Puntacana Championship,no,pga,basic,361
-363,2024,2024-04-21,12,RBC Heritage,yes,pga,yes,364
-369,2024,2024-04-14,14,Masters Tournament,yes,pga,yes,370
-380,2024,2024-04-07,28,Miami,no,liv,basic,381
-381,2024,2024-04-07,41,Valero Texas Open,yes,pga,yes,382
-388,2024,2024-03-31,2024114,Hero Indian Open,no,euro,no,389
-390,2024,2024-03-31,20,Texas Children's Houston Open,yes,pga,yes,391
-392,2024,2024-03-24,475,Valspar Championship,yes,pga,yes,393
-396,2024,2024-03-24,2024113,Porsche Singapore Classic,no,euro,no,397
-399,2024,2024-03-17,11,THE PLAYERS Championship,yes,pga,yes,400
-406,2024,2024-03-10,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,407
-407,2024,2024-03-10,2024112,Jonsson Workwear Open,no,euro,no,408
-409,2024,2024-03-10,27,Hong Kong,no,liv,basic,410
-410,2024,2024-03-10,483,Puerto Rico Open,no,pga,basic,411
-414,2024,2024-03-03,10,Cognizant Classic in The Palm Beaches,yes,pga,yes,415
-416,2024,2024-03-03,2024111,SDC Championship,no,euro,no,417
+219,2024,2024-07-21,472,Barracuda Championship,yes,pga,basic,220
+224,2024,2024-07-14,541,Genesis Scottish Open,yes,pga,yes,225
+225,2024,2024-07-14,518,ISCO Championship,yes,pga,yes,226
+229,2024,2024-07-14,33,Andalucia,no,liv,basic,230
+236,2024,2024-07-07,2024126,BMW International Open,no,euro,no,237
+239,2024,2024-07-07,30,John Deere Classic,yes,pga,yes,240
+247,2024,2024-06-30,524,Rocket Mortgage Classic,yes,pga,yes,248
+248,2024,2024-06-30,2024125,Italian Open presented by Regione Emilia-Romagna,no,euro,no,249
+256,2024,2024-06-23,2024124,KLM Open,no,euro,no,257
+258,2024,2024-06-23,34,Travelers Championship,yes,pga,yes,259
+261,2024,2024-06-23,32,Nashville,no,liv,no,262
+272,2024,2024-06-16,26,U.S. Open,yes,pga,yes,273
+282,2024,2024-06-09,31,Houston,no,liv,basic,283
+284,2024,2024-06-09,23,the Memorial Tournament presented by Workday,yes,pga,yes,285
+288,2024,2024-06-09,2024122,Volvo Car Scandinavian Mixed,no,euro,no,289
+295,2024,2024-06-02,32,RBC Canadian Open,yes,pga,yes,296
+297,2024,2024-06-02,2024121,European Open,no,euro,no,298
+305,2024,2024-05-26,2024120,Soudal Open,no,euro,no,306
+309,2024,2024-05-26,21,Charles Schwab Challenge,yes,pga,yes,310
+317,2024,2024-05-19,33,PGA Championship,yes,pga,yes,318
+328,2024,2024-05-12,553,Myrtle Beach Classic,yes,pga,yes,329
+331,2024,2024-05-12,480,Wells Fargo Championship,yes,pga,yes,332
+336,2024,2024-05-05,2024116,Volvo China Open,no,euro,no,337
+337,2024,2024-05-05,30,Singapore,no,liv,basic,338
+343,2024,2024-05-05,19,THE CJ CUP Byron Nelson,yes,pga,yes,344
+352,2024,2024-04-28,29,Adelaide,no,liv,basic,353
+354,2024,2024-04-28,2024117,ISPS HANDA - CHAMPIONSHIP,no,euro,no,355
+363,2024,2024-04-21,522,Corales Puntacana Championship,no,pga,basic,364
+368,2024,2024-04-21,12,RBC Heritage,yes,pga,yes,369
+372,2024,2024-04-14,14,Masters Tournament,yes,pga,yes,373
+383,2024,2024-04-07,28,Miami,no,liv,basic,384
+384,2024,2024-04-07,41,Valero Texas Open,yes,pga,yes,385
+391,2024,2024-03-31,2024114,Hero Indian Open,no,euro,no,392
+393,2024,2024-03-31,20,Texas Children's Houston Open,yes,pga,yes,394
+394,2024,2024-03-24,475,Valspar Championship,yes,pga,yes,395
+398,2024,2024-03-24,2024113,Porsche Singapore Classic,no,euro,no,399
+405,2024,2024-03-17,11,THE PLAYERS Championship,yes,pga,yes,406
+409,2024,2024-03-10,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,410
+410,2024,2024-03-10,2024112,Jonsson Workwear Open,no,euro,no,411
+412,2024,2024-03-10,27,Hong Kong,no,liv,basic,413
+413,2024,2024-03-10,483,Puerto Rico Open,no,pga,basic,414
+417,2024,2024-03-03,2024111,SDC Championship,no,euro,no,418
 418,2024,2024-03-03,26,Jeddah,no,liv,basic,419
-426,2024,2024-02-25,540,Mexico Open at Vidanta,yes,pga,yes,427
-427,2024,2024-02-25,2024110,Magical Kenya Open,no,euro,no,428
-436,2024,2024-02-18,7,The Genesis Invitational,yes,pga,yes,437
-442,2024,2024-02-11,3,WM Phoenix Open,yes,pga,yes,443
+422,2024,2024-03-03,10,Cognizant Classic in The Palm Beaches,yes,pga,yes,423
+429,2024,2024-02-25,540,Mexico Open at Vidanta,yes,pga,yes,430
+430,2024,2024-02-25,2024110,Magical Kenya Open,no,euro,no,431
+442,2024,2024-02-18,7,The Genesis Invitational,yes,pga,yes,443
 446,2024,2024-02-11,2024147,Commercial Bank Qatar Masters,no,euro,no,447
-447,2024,2024-02-10,25,Las Vegas,no,liv,basic,448
-448,2024,2024-02-04,2024109,Bahrain Championship presented by Bapco Energies,no,euro,no,449
-450,2024,2024-02-04,24,Mayakoba,no,liv,basic,451
-451,2024,2024-02-04,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,452
-455,2024,2024-01-28,2024108,Ras Al Khaimah Championship,no,euro,no,456
-459,2024,2024-01-27,4,Farmers Insurance Open,yes,pga,yes,460
-464,2024,2024-01-21,2,The American Express,yes,pga,yes,465
-465,2024,2024-01-21,2024107,Hero Dubai Desert Classic,no,euro,no,466
-470,2024,2024-01-14,2024106,Dubai Invitational,no,euro,no,471
-471,2024,2024-01-14,6,Sony Open in Hawaii,yes,pga,yes,472
-473,2024,2024-01-07,16,The Sentry,yes,pga,yes,474
-475,2023,2023-12-17,88,PGA TOUR Q-School presented by Korn Ferry,no,pga,basic,4
-476,2023,2023-12-17,2024105,AfrAsia Bank Mauritius Open,no,euro,no,476
-479,2023,2023-12-10,23,Promotions Event,no,liv,no,479
-482,2023,2023-12-10,2024104,Alfred Dunhill Championship,no,euro,no,482
-487,2023,2023-12-03,550,Hero World Challenge #2,yes,pga,yes,487
-488,2023,2023-12-03,2024103,Investec South African Open Championship,no,euro,no,488
-489,2023,2023-12-03,2024102,ISPS Handa Australian Open,no,euro,no,489
-492,2023,2023-11-26,2024101,Joburg Open,no,euro,no,492
-494,2023,2023-11-26,2024100,Fortinet Australian PGA Championship,no,euro,no,494
-500,2023,2023-11-19,2023146,DP World Tour Championship,no,euro,no,500
-502,2023,2023-11-19,549,The RSM Classic #2,partial,pga,partial,502
-505,2023,2023-11-15,2023713,DP World Tour Qualifying (Final Stage),no,euro,no,505
-507,2023,2023-11-12,2023145,Nedbank Golf Challenge,no,euro,no,507
-510,2023,2023-11-12,548,Butterfield Bermuda Championship #2,no,pga,basic,509
-517,2023,2023-11-05,547,World Wide Technology Championship #2,no,pga,basic,516
-526,2023,2023-10-29,2023150,Commercial Bank Qatar Masters,no,euro,no,524
-530,2023,2023-10-22,546,ZOZO CHAMPIONSHIP #2,no,pga,basic,528
-534,2023,2023-10-22,22,Miami (Team Final—Stroke Play),no,liv,basic,531
-536,2023,2023-10-22,2023149,Estrella Damm N.A. Andalucía  Masters,no,euro,no,533
-542,2023,2023-10-15,21,Jeddah,no,liv,basic,539
-544,2023,2023-10-15,2023143,acciona Open de España presented by Madrid,no,euro,no,540
-545,2023,2023-10-15,545,Shriners Children's Open #2,yes,pga,yes,541
-554,2023,2023-10-08,2023142,Alfred Dunhill Links Championship,no,euro,no,549
-556,2023,2023-10-08,544,Sanderson Farms Championship #2,yes,pga,yes,550
-573,2023,2023-09-24,20,Chicago,no,liv,basic,567
-574,2023,2023-09-24,2023140,Cazoo Open de France,no,euro,no,568
-585,2023,2023-09-17,543,Fortinet Championship #2,yes,pga,yes,577
-588,2023,2023-09-17,2023139,BMW PGA Championship,no,euro,no,578
-595,2023,2023-09-10,2023138,Horizon Irish Open,no,euro,no,585
-607,2023,2023-09-03,2023137,Omega European Masters,no,euro,no,596
-619,2023,2023-08-27,60,TOUR Championship,yes,pga,yes,146
-621,2023,2023-08-27,2023136,D+D Real Czech Masters,no,euro,no,608
-632,2023,2023-08-20,28,BMW Championship,yes,pga,yes,155
-634,2023,2023-08-20,2023135,ISPS Handa World Invitational presented by AVIV Clinics,no,euro,no,617
-644,2023,2023-08-13,27,FedEx St. Jude Championship,yes,pga,yes,176
-646,2023,2023-08-13,19,Bedminster,no,liv,basic,626
-648,2023,2023-08-06,18,Greenbrier,no,liv,basic,628
-653,2023,2023-08-06,13,Wyndham Championship,yes,pga,yes,189
-657,2023,2023-07-30,525,3M Open,yes,pga,yes,207
-668,2023,2023-07-23,100,The Open Championship,yes,pga,yes,218
-670,2023,2023-07-23,472,Barracuda Championship,no,pga,basic,214
-675,2023,2023-07-16,541,Genesis Scottish Open,yes,pga,yes,226
-679,2023,2023-07-16,518,Barbasol Championship,yes,pga,yes,222
-687,2023,2023-07-09,17,London,no,liv,basic,655
-689,2023,2023-07-09,2023130,Made in HimmerLand,no,euro,no,657
-690,2023,2023-07-09,30,John Deere Classic,yes,pga,yes,234
-698,2023,2023-07-02,524,Rocket Mortgage Classic,yes,pga,yes,246
-699,2023,2023-07-02,2023129,Betfred British Masters,no,euro,no,664
-700,2023,2023-07-02,16,Valderrama,no,liv,basic,665
-706,2023,2023-06-25,2023128,BMW International Open,no,euro,no,670
-711,2023,2023-06-25,34,Travelers Championship,yes,pga,yes,258
-719,2023,2023-06-18,26,U.S. Open,yes,pga,yes,269
-729,2023,2023-06-11,2023126,Volvo Car Scandinavian Mixed,no,euro,no,687
-731,2023,2023-06-11,32,RBC Canadian Open,yes,pga,yes,293
-742,2023,2023-06-04,23,the Memorial Tournament presented by Workday,yes,pga,yes,283
-743,2023,2023-06-04,2023125,Porsche European Open,no,euro,no,696
-750,2023,2023-05-28,15,DC,no,liv,basic,703
-752,2023,2023-05-28,2023124,KLM Open,no,euro,no,705
-754,2023,2023-05-28,21,Charles Schwab Challenge,yes,pga,yes,307
-762,2023,2023-05-21,33,PGA Championship,yes,pga,yes,316
-771,2023,2023-05-14,2023122,Soudal Open,no,euro,no,719
-773,2023,2023-05-14,19,AT&T Byron Nelson,yes,pga,yes,341
-775,2023,2023-05-14,14,Tulsa,no,liv,basic,722
-782,2023,2023-05-07,480,Wells Fargo Championship,yes,pga,yes,325
-783,2023,2023-05-07,2023117,DS Automobiles Italian Open,no,euro,no,728
-790,2023,2023-04-30,2023121,Korea Championship Presented by Genesis,no,euro,no,734
-793,2023,2023-04-30,13,Singapore,no,liv,basic,736
-794,2023,2023-04-30,540,Mexico Open at Vidanta,yes,pga,yes,427
-801,2023,2023-04-23,2023120,ISPS HANDA - CHAMPIONSHIP,no,euro,no,743
-802,2023,2023-04-23,18,Zurich Classic of New Orleans,yes,pga,basic,744
-804,2023,2023-04-23,12,Adelaide,no,liv,basic,745
-814,2023,2023-04-16,12,RBC Heritage,yes,pga,yes,364
-825,2023,2023-04-09,14,Masters Tournament,yes,pga,yes,370
-829,2023,2023-04-02,11,Orlando,no,liv,basic,766
-831,2023,2023-04-02,41,Valero Texas Open,yes,pga,yes,382
-838,2023,2023-03-26,2023119,Jonsson Workwear Open,no,euro,no,774
-841,2023,2023-03-26,522,Corales Puntacana Championship,no,pga,basic,361
-845,2023,2023-03-19,475,Valspar Championship,yes,pga,yes,393
-847,2023,2023-03-19,2023118,SDC Championship,no,euro,no,778
-849,2023,2023-03-19,10,Tucson,no,liv,basic,780
-854,2023,2023-03-12,2023114,Magical Kenya Open,no,euro,no,785
-855,2023,2023-03-12,11,THE PLAYERS Championship,yes,pga,yes,400
-860,2023,2023-03-05,483,Puerto Rico Open,no,pga,basic,411
-861,2023,2023-03-05,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,407
-869,2023,2023-02-26,9,Mayakoba,no,liv,no,796
-872,2023,2023-02-26,2023112,Hero Indian Open,no,euro,no,799
-873,2023,2023-02-26,10,The Honda Classic,yes,pga,yes,415
-879,2023,2023-02-19,7,The Genesis Invitational,yes,pga,yes,437
-880,2023,2023-02-19,2023111,Thailand Classic,no,euro,no,805
-887,2023,2023-02-12,3,WM Phoenix Open,yes,pga,yes,443
-888,2023,2023-02-12,2023110,Singapore Classic,no,euro,no,810
-893,2023,2023-02-05,2023109,Ras Al Khaimah Championship,no,euro,no,814
-894,2023,2023-02-05,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,452
-900,2023,2023-01-29,2023108,Hero Dubai Desert Classic,no,euro,no,819
-904,2023,2023-01-28,4,Farmers Insurance Open,partial,pga,partial,460
-906,2023,2023-01-22,2023107,Abu Dhabi HSBC Championship,no,euro,no,823
-907,2023,2023-01-22,2,The American Express,partial,pga,partial,465
-910,2023,2023-01-15,6,Sony Open in Hawaii,yes,pga,yes,472
-911,2023,2023-01-08,16,Sentry Tournament of Champions,yes,pga,yes,474
-916,2022,2022-12-18,2023105,AfrAsia Bank Mauritius Open,no,euro,no,828
-922,2022,2022-12-11,2023104,Alfred Dunhill Championship,no,euro,no,834
-927,2022,2022-12-04,2023103,Investec South African Open Championship,no,euro,no,839
-928,2022,2022-12-04,2023102,ISPS Handa Australian Open,no,euro,no,840
-931,2022,2022-12-04,478,Hero World Challenge,no,pga,basic,9
-934,2022,2022-11-27,2023101,Joburg Open,no,euro,no,845
-938,2022,2022-11-27,2023100,Fortinet Australian PGA Championship,no,euro,no,849
-940,2022,2022-11-20,493,The RSM Classic,partial,pga,partial,23
-941,2022,2022-11-20,2022143,DP World Tour Championship,no,euro,no,851
-948,2022,2022-11-13,20,Cadence Bank Houston Open,yes,pga,yes,391
-951,2022,2022-11-13,2022145,Nedbank Golf Challenge,no,euro,no,859
-957,2022,2022-11-06,457,World Wide Technology Championship at Mayakoba,no,pga,basic,40
-963,2022,2022-10-30,2022156,Portugal Masters,no,euro,no,869
-964,2022,2022-10-30,528,Butterfield Bermuda Championship,no,pga,basic,30
-965,2022,2022-10-30,8,Miami (Team Final—Stroke Play),no,liv,basic,870
-968,2022,2022-10-23,521,THE CJ CUP in South Carolina,yes,pga,yes,873
-970,2022,2022-10-23,2022140,Mallorca Golf Open,no,euro,no,874
-978,2022,2022-10-16,7,Jeddah,no,liv,basic,882
-980,2022,2022-10-16,2022139,Estrella Damm N.A. Andalucía  Masters,no,euro,no,884
-982,2022,2022-10-16,527,ZOZO CHAMPIONSHIP,no,pga,basic,57
-989,2022,2022-10-09,6,Bangkok,no,liv,basic,890
-990,2022,2022-10-09,2022138,acciona Open de España presented by Madrid,no,euro,no,891
-991,2022,2022-10-09,47,Shriners Children's Open,yes,pga,yes,64
-1001,2022,2022-10-02,54,Sanderson Farms Championship,yes,pga,yes,87
-1003,2022,2022-10-02,2022137,Alfred Dunhill Links Championship,no,euro,no,902
-1015,2022,2022-09-25,2022136,Cazoo Open de France,no,euro,no,913
-1023,2022,2022-09-18,2022135,DS Automobiles Italian Open,no,euro,no,921
-1026,2022,2022-09-18,5,Chicago,no,liv,basic,924
-1028,2022,2022-09-18,464,Fortinet Championship,yes,pga,yes,120
-1037,2022,2022-09-11,2022134,BMW PGA Championship,no,euro,no,932
-1047,2022,2022-09-04,2022133,Made in HimmerLand,no,euro,no,941
-1050,2022,2022-09-04,4,Boston,no,liv,basic,943
-1059,2022,2022-08-28,2022132,Omega European Masters,no,euro,no,951
-1063,2022,2022-08-28,60,TOUR Championship,yes,pga,yes,146
-1072,2022,2022-08-21,28,BMW Championship,yes,pga,yes,155
-1073,2022,2022-08-21,2022131,D+D Real Czech Masters,no,euro,no,960
-1086,2022,2022-08-14,2022130,ISPS Handa World Invitational presented by AVIV Clinics,no,euro,no,970
-1087,2022,2022-08-14,27,FedEx St. Jude Championship,yes,pga,yes,176
-1095,2022,2022-08-07,13,Wyndham Championship,yes,pga,yes,189
-1097,2022,2022-08-07,2022129,Cazoo Open supported by Gareth Bale,no,euro,no,978
-1105,2022,2022-07-31,3,Bedminster,no,liv,basic,983
-1112,2022,2022-07-31,524,Rocket Mortgage Classic,yes,pga,yes,246
-1113,2022,2022-07-31,2022128,Hero Open,no,euro,no,990
-1120,2022,2022-07-24,2022127,Cazoo Classic,no,euro,no,996
-1123,2022,2022-07-24,525,3M Open,yes,pga,yes,207
-1125,2022,2022-07-17,472,Barracuda Championship,no,pga,basic,214
-1131,2022,2022-07-17,100,The Open Championship,yes,pga,yes,218
-1134,2022,2022-07-10,541,Genesis Scottish Open,yes,pga,yes,226
-1135,2022,2022-07-10,518,Barbasol Championship,yes,pga,yes,222
-1144,2022,2022-07-03,2022122,Horizon Irish Open,no,euro,no,1010
-1145,2022,2022-07-03,2,Portland,no,liv,basic,1011
-1146,2022,2022-07-03,30,John Deere Classic,yes,pga,yes,234
-1155,2022,2022-06-26,34,Travelers Championship,yes,pga,yes,258
-1160,2022,2022-06-26,2022121,BMW International Open,no,euro,no,1024
-1177,2022,2022-06-19,26,U.S. Open,yes,pga,basic,269
-1178,2022,2022-06-12,32,RBC Canadian Open,yes,pga,yes,293
-1188,2022,2022-06-12,2022119,Volvo Car Scandinavian Mixed,no,euro,no,1045
-1193,2022,2022-06-11,1,London,no,liv,basic,1048
-1202,2022,2022-06-05,23,the Memorial Tournament presented by Workday,yes,pga,yes,283
-1204,2022,2022-06-05,2022118,Porsche European Open,no,euro,no,1054
-1214,2022,2022-05-29,21,Charles Schwab Challenge,yes,pga,yes,307
-1218,2022,2022-05-29,2022117,Dutch Open,no,euro,no,1065
-1220,2022,2022-05-22,33,PGA Championship,yes,pga,yes,316
-1232,2022,2022-05-15,2022115,Soudal Open,no,euro,no,1077
-1234,2022,2022-05-15,19,AT&T Byron Nelson,yes,pga,yes,341
-1239,2022,2022-05-08,480,Wells Fargo Championship,yes,pga,yes,325
-1247,2022,2022-05-08,2022114,Betfred British Masters hosted by Danny Willett,no,euro,no,1085
-1256,2022,2022-05-01,2022151,Catalunya Championship,no,euro,no,1091
-1259,2022,2022-05-01,540,Mexico Open at Vidanta,yes,pga,yes,427
-1263,2022,2022-04-24,2022149,ISPS Handa Championship in Spain,no,euro,no,1096
-1275,2022,2022-04-17,12,RBC Heritage,yes,pga,yes,364
-1281,2022,2022-04-10,14,The Masters,yes,pga,yes,370
-1286,2022,2022-04-03,41,Valero Texas Open,yes,pga,yes,382
-1293,2022,2022-03-27,522,Corales Puntacana Championship,no,pga,basic,361
-1296,2022,2022-03-27,2022106,Commercial Bank Qatar Masters,no,euro,no,1121
-1298,2022,2022-03-20,2022147,Steyn City Championship,no,euro,no,1123
-1303,2022,2022-03-20,475,Valspar Championship,yes,pga,yes,393
-1306,2022,2022-03-13,2022146,MyGolfLife Open hosted by Pecanwood,no,euro,no,1130
-1308,2022,2022-03-13,11,THE PLAYERS Championship,yes,pga,yes,400
-1312,2022,2022-03-06,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,407
-1314,2022,2022-03-06,483,Puerto Rico Open,no,pga,basic,411
-1317,2022,2022-03-06,2022108,Magical Kenya Open,no,euro,no,1137
-1326,2022,2022-02-27,10,The Honda Classic,yes,pga,yes,415
-1328,2022,2022-02-20,7,The Genesis Invitational,yes,pga,yes,437
-1337,2022,2022-02-13,3,WM Phoenix Open,yes,pga,yes,443
-1340,2022,2022-02-13,2022148,Ras al Khaimah Classic ,no,euro,no,1153
-1344,2022,2022-02-06,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,452
-1345,2022,2022-02-06,2022105,Ras al Khaimah Championship presented by Phoenix Capital,no,euro,no,1156
-1348,2022,2022-01-30,2022104,Slync.io Dubai Desert Classic,no,euro,no,1159
-1349,2022,2022-01-29,4,Farmers Insurance Open,partial,pga,partial,460
-1352,2022,2022-01-23,2022103,Abu Dhabi HSBC Championship,no,euro,no,1161
-1354,2022,2022-01-23,2,The American Express,partial,pga,partial,465
-1357,2022,2022-01-16,6,Sony Open in Hawaii,yes,pga,yes,472
-1360,2022,2022-01-09,16,Sentry Tournament of Champions,yes,pga,yes,474
-1373,2021,2021-12-05,478,Hero World Challenge,no,pga,no,9
-1375,2021,2021-11-28,2022100,Joburg Open,no,euro,no,1176
-1380,2021,2021-11-21,2021143,"DP WORLD TOUR CHAMPIONSHIP, DUBAI",no,euro,no,1181
-1381,2021,2021-11-21,493,The RSM Classic,partial,pga,partial,23
-1385,2021,2021-11-14,20,Hewlett Packard Enterprise Houston Open,yes,pga,yes,391
-1388,2021,2021-11-14,2021157,AVIV Dubai Championship,no,euro,no,1187
-1392,2021,2021-11-07,457,World Wide Technology Championship at Mayakoba,no,pga,basic,40
-1396,2021,2021-11-07,2021156,Portugal Masters,no,euro,no,1194
-1403,2021,2021-10-31,528,Butterfield Bermuda Championship,no,pga,basic,30
-1405,2021,2021-10-24,2021155,Mallorca Golf Open,no,euro,no,1202
-1406,2021,2021-10-24,527,ZOZO CHAMPIONSHIP,no,pga,no,57
-1415,2021,2021-10-17,2021137,Estrella Damm N.A. Andalucía Masters,no,euro,no,1211
-1419,2021,2021-10-17,521,THE CJ CUP @ SUMMIT,yes,pga,yes,873
-1426,2021,2021-10-10,47,Shriners Children's Open,yes,pga,yes,64
-1430,2021,2021-10-10,2021136,ACCIONA Open de España,no,euro,no,1224
-1436,2021,2021-10-03,54,Sanderson Farms Championship,yes,pga,yes,87
-1441,2021,2021-10-03,2021135,Alfred Dunhill Links Championship,no,euro,no,1233
-1452,2021,2021-09-19,2021133,Dutch Open,no,euro,no,1244
-1454,2021,2021-09-19,464,Fortinet Championship,yes,pga,yes,120
-1467,2021,2021-09-12,2021132,BMW PGA CHAMPIONSHIP,no,euro,no,1257
-1471,2021,2021-09-05,2021131,DS Automobiles Italian Open,no,euro,no,1261
-1472,2021,2021-09-05,60,TOUR Championship,yes,pga,yes,146
-1485,2021,2021-08-29,28,BMW Championship,yes,pga,yes,155
-1486,2021,2021-08-29,2021130,Omega European Masters,no,euro,no,1274
-1497,2021,2021-08-22,27,THE NORTHERN TRUST,yes,pga,yes,176
-1498,2021,2021-08-22,2021129,D+D Real Czech Masters,no,euro,no,1285
-1506,2021,2021-08-15,13,Wyndham Championship,yes,pga,yes,189
-1508,2021,2021-08-15,2021128,Cazoo Classic,no,euro,no,1293
-1516,2021,2021-08-08,472,Barracuda Championship,no,pga,no,214
-1517,2021,2021-08-08,2021126,Hero Open,no,euro,no,1300
-1519,2021,2021-08-08,476,World Golf Championships-FedEx St. Jude Invitational,yes,pga,yes,1302
-1524,2021,2021-08-01,519,Olympic Men's Golf Competition,yes,pga,basic,198
-1525,2021,2021-08-01,2021124,ISPS HANDA World Invitational presented by Modest! Golf Management,no,euro,no,1307
-1528,2021,2021-07-25,2021123,Cazoo Open supported by Gareth Bale,no,euro,no,1309
-1530,2021,2021-07-25,525,3M Open,yes,pga,yes,207
-1537,2021,2021-07-18,518,Barbasol Championship,yes,pga,yes,222
+447,2024,2024-02-11,3,WM Phoenix Open,yes,pga,yes,448
+450,2024,2024-02-10,25,Las Vegas,no,liv,basic,451
+451,2024,2024-02-04,2024109,Bahrain Championship presented by Bapco Energies,no,euro,no,452
+453,2024,2024-02-04,24,Mayakoba,no,liv,basic,454
+454,2024,2024-02-04,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,455
+458,2024,2024-01-28,2024108,Ras Al Khaimah Championship,no,euro,no,459
+462,2024,2024-01-27,4,Farmers Insurance Open,yes,pga,yes,463
+467,2024,2024-01-21,2,The American Express,yes,pga,yes,468
+468,2024,2024-01-21,2024107,Hero Dubai Desert Classic,no,euro,no,469
+473,2024,2024-01-14,2024106,Dubai Invitational,no,euro,no,474
+474,2024,2024-01-14,6,Sony Open in Hawaii,yes,pga,yes,1
+476,2024,2024-01-07,16,The Sentry,yes,pga,yes,3
+477,2023,2023-12-17,88,PGA TOUR Q-School presented by Korn Ferry,no,pga,basic,7
+479,2023,2023-12-17,2024105,AfrAsia Bank Mauritius Open,no,euro,no,477
+482,2023,2023-12-10,23,Promotions Event,no,liv,no,480
+485,2023,2023-12-10,2024104,Alfred Dunhill Championship,no,euro,no,483
+489,2023,2023-12-03,2024103,Investec South African Open Championship,no,euro,no,487
+491,2023,2023-12-03,2024102,ISPS Handa Australian Open,no,euro,no,489
+492,2023,2023-12-03,550,Hero World Challenge #2,yes,pga,yes,490
+495,2023,2023-11-26,2024100,Fortinet Australian PGA Championship,no,euro,no,493
+499,2023,2023-11-26,2024101,Joburg Open,no,euro,no,497
+502,2023,2023-11-19,2023146,DP World Tour Championship,no,euro,no,500
+504,2023,2023-11-19,549,The RSM Classic #2,partial,pga,partial,502
+508,2023,2023-11-15,2023713,DP World Tour Qualifying (Final Stage),no,euro,no,506
+511,2023,2023-11-12,2023145,Nedbank Golf Challenge,no,euro,no,509
+515,2023,2023-11-12,548,Butterfield Bermuda Championship #2,no,pga,basic,512
+525,2023,2023-11-05,547,World Wide Technology Championship #2,no,pga,basic,521
+528,2023,2023-10-29,2023150,Commercial Bank Qatar Masters,no,euro,no,524
+536,2023,2023-10-22,22,Miami (Team Final—Stroke Play),no,liv,basic,531
+538,2023,2023-10-22,2023149,Estrella Damm N.A. Andalucía  Masters,no,euro,no,533
+539,2023,2023-10-22,546,ZOZO CHAMPIONSHIP #2,no,pga,basic,534
+546,2023,2023-10-15,21,Jeddah,no,liv,basic,540
+547,2023,2023-10-15,2023143,acciona Open de España presented by Madrid,no,euro,no,541
+548,2023,2023-10-15,545,Shriners Children's Open #2,yes,pga,yes,542
+557,2023,2023-10-08,2023142,Alfred Dunhill Links Championship,no,euro,no,550
+559,2023,2023-10-08,544,Sanderson Farms Championship #2,yes,pga,yes,551
+576,2023,2023-09-24,20,Chicago,no,liv,basic,568
+580,2023,2023-09-24,2023140,Cazoo Open de France,no,euro,no,570
+589,2023,2023-09-17,543,Fortinet Championship #2,yes,pga,yes,578
+591,2023,2023-09-17,2023139,BMW PGA Championship,no,euro,no,580
+601,2023,2023-09-10,2023138,Horizon Irish Open,no,euro,no,588
+609,2023,2023-09-03,2023137,Omega European Masters,no,euro,no,596
+620,2023,2023-08-27,60,TOUR Championship,yes,pga,yes,146
+624,2023,2023-08-27,2023136,D+D Real Czech Masters,no,euro,no,609
+631,2023,2023-08-20,28,BMW Championship,yes,pga,yes,157
+632,2023,2023-08-20,2023135,ISPS Handa World Invitational presented by AVIV Clinics,no,euro,no,615
+645,2023,2023-08-13,19,Bedminster,no,liv,basic,626
+647,2023,2023-08-13,27,FedEx St. Jude Championship,yes,pga,yes,178
+652,2023,2023-08-06,18,Greenbrier,no,liv,basic,630
+655,2023,2023-08-06,13,Wyndham Championship,yes,pga,yes,191
+662,2023,2023-07-30,525,3M Open,yes,pga,yes,209
+670,2023,2023-07-23,100,The Open Championship,yes,pga,yes,218
+672,2023,2023-07-23,472,Barracuda Championship,no,pga,basic,220
+679,2023,2023-07-16,518,Barbasol Championship,yes,pga,yes,226
+685,2023,2023-07-16,541,Genesis Scottish Open,yes,pga,yes,225
+689,2023,2023-07-09,2023130,Made in HimmerLand,no,euro,no,655
+690,2023,2023-07-09,30,John Deere Classic,yes,pga,yes,240
+691,2023,2023-07-09,17,London,no,liv,basic,656
+698,2023,2023-07-02,16,Valderrama,no,liv,basic,662
+699,2023,2023-07-02,2023129,Betfred British Masters,no,euro,no,663
+704,2023,2023-07-02,524,Rocket Mortgage Classic,yes,pga,yes,248
+708,2023,2023-06-25,2023128,BMW International Open,no,euro,no,670
+712,2023,2023-06-25,34,Travelers Championship,yes,pga,yes,259
+721,2023,2023-06-18,26,U.S. Open,yes,pga,yes,273
+728,2023,2023-06-11,32,RBC Canadian Open,yes,pga,yes,296
+733,2023,2023-06-11,2023126,Volvo Car Scandinavian Mixed,no,euro,no,688
+744,2023,2023-06-04,23,the Memorial Tournament presented by Workday,yes,pga,yes,285
+745,2023,2023-06-04,2023125,Porsche European Open,no,euro,no,696
+753,2023,2023-05-28,15,DC,no,liv,basic,704
+755,2023,2023-05-28,2023124,KLM Open,no,euro,no,706
+761,2023,2023-05-28,21,Charles Schwab Challenge,yes,pga,yes,310
+770,2023,2023-05-21,33,PGA Championship,yes,pga,yes,318
+774,2023,2023-05-14,2023122,Soudal Open,no,euro,no,720
+777,2023,2023-05-14,19,AT&T Byron Nelson,yes,pga,yes,344
+778,2023,2023-05-14,14,Tulsa,no,liv,basic,723
+785,2023,2023-05-07,480,Wells Fargo Championship,yes,pga,yes,332
+786,2023,2023-05-07,2023117,DS Automobiles Italian Open,no,euro,no,729
+794,2023,2023-04-30,2023121,Korea Championship Presented by Genesis,no,euro,no,735
+796,2023,2023-04-30,13,Singapore,no,liv,basic,737
+798,2023,2023-04-30,540,Mexico Open at Vidanta,yes,pga,yes,430
+803,2023,2023-04-23,18,Zurich Classic of New Orleans,yes,pga,basic,743
+804,2023,2023-04-23,12,Adelaide,no,liv,basic,744
+808,2023,2023-04-23,2023120,ISPS HANDA - CHAMPIONSHIP,no,euro,no,747
+821,2023,2023-04-16,12,RBC Heritage,yes,pga,yes,369
+828,2023,2023-04-09,14,Masters Tournament,yes,pga,yes,373
+833,2023,2023-04-02,11,Orlando,no,liv,basic,768
+836,2023,2023-04-02,41,Valero Texas Open,yes,pga,yes,385
+844,2023,2023-03-26,2023119,Jonsson Workwear Open,no,euro,no,777
+847,2023,2023-03-26,522,Corales Puntacana Championship,no,pga,basic,364
+848,2023,2023-03-19,2023118,SDC Championship,no,euro,no,779
+849,2023,2023-03-19,475,Valspar Championship,yes,pga,yes,395
+854,2023,2023-03-19,10,Tucson,no,liv,basic,783
+857,2023,2023-03-12,2023114,Magical Kenya Open,no,euro,no,786
+858,2023,2023-03-12,11,THE PLAYERS Championship,yes,pga,yes,406
+863,2023,2023-03-05,483,Puerto Rico Open,no,pga,basic,414
+865,2023,2023-03-05,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,410
+871,2023,2023-02-26,2023112,Hero Indian Open,no,euro,no,796
+872,2023,2023-02-26,10,The Honda Classic,yes,pga,yes,423
+875,2023,2023-02-26,9,Mayakoba,no,liv,no,799
+881,2023,2023-02-19,7,The Genesis Invitational,yes,pga,yes,443
+885,2023,2023-02-19,2023111,Thailand Classic,no,euro,no,807
+890,2023,2023-02-12,3,WM Phoenix Open,yes,pga,yes,448
+891,2023,2023-02-12,2023110,Singapore Classic,no,euro,no,811
+897,2023,2023-02-05,2023109,Ras Al Khaimah Championship,no,euro,no,816
+898,2023,2023-02-05,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,455
+903,2023,2023-01-29,2023108,Hero Dubai Desert Classic,no,euro,no,820
+907,2023,2023-01-28,4,Farmers Insurance Open,partial,pga,partial,463
+909,2023,2023-01-22,2023107,Abu Dhabi HSBC Championship,no,euro,no,824
+910,2023,2023-01-22,2,The American Express,partial,pga,partial,468
+913,2023,2023-01-15,6,Sony Open in Hawaii,yes,pga,yes,1
+914,2023,2023-01-08,16,Sentry Tournament of Champions,yes,pga,yes,3
+919,2022,2022-12-18,2023105,AfrAsia Bank Mauritius Open,no,euro,no,829
+925,2022,2022-12-11,2023104,Alfred Dunhill Championship,no,euro,no,835
+930,2022,2022-12-04,2023103,Investec South African Open Championship,no,euro,no,840
+931,2022,2022-12-04,2023102,ISPS Handa Australian Open,no,euro,no,841
+934,2022,2022-12-04,478,Hero World Challenge,no,pga,basic,13
+937,2022,2022-11-27,2023100,Fortinet Australian PGA Championship,no,euro,no,846
+940,2022,2022-11-27,2023101,Joburg Open,no,euro,no,849
+946,2022,2022-11-20,2022143,DP World Tour Championship,no,euro,no,855
+947,2022,2022-11-20,493,The RSM Classic,partial,pga,partial,23
+952,2022,2022-11-13,20,Cadence Bank Houston Open,yes,pga,yes,394
+953,2022,2022-11-13,2022145,Nedbank Golf Challenge,no,euro,no,859
+960,2022,2022-11-06,457,World Wide Technology Championship at Mayakoba,no,pga,basic,43
+966,2022,2022-10-30,528,Butterfield Bermuda Championship,no,pga,basic,37
+967,2022,2022-10-30,2022156,Portugal Masters,no,euro,no,870
+968,2022,2022-10-30,8,Miami (Team Final—Stroke Play),no,liv,basic,871
+971,2022,2022-10-23,2022140,Mallorca Golf Open,no,euro,no,874
+972,2022,2022-10-23,521,THE CJ CUP in South Carolina,yes,pga,yes,875
+980,2022,2022-10-16,7,Jeddah,no,liv,basic,882
+984,2022,2022-10-16,2022139,Estrella Damm N.A. Andalucía  Masters,no,euro,no,886
+986,2022,2022-10-16,527,ZOZO CHAMPIONSHIP,no,pga,basic,57
+993,2022,2022-10-09,2022138,acciona Open de España presented by Madrid,no,euro,no,893
+994,2022,2022-10-09,6,Bangkok,no,liv,basic,894
+997,2022,2022-10-09,47,Shriners Children's Open,yes,pga,yes,64
+1004,2022,2022-10-02,54,Sanderson Farms Championship,yes,pga,yes,89
+1006,2022,2022-10-02,2022137,Alfred Dunhill Links Championship,no,euro,no,903
+1017,2022,2022-09-25,2022136,Cazoo Open de France,no,euro,no,914
+1026,2022,2022-09-18,2022135,DS Automobiles Italian Open,no,euro,no,922
+1029,2022,2022-09-18,464,Fortinet Championship,yes,pga,yes,128
+1033,2022,2022-09-18,5,Chicago,no,liv,basic,926
+1042,2022,2022-09-11,2022134,BMW PGA Championship,no,euro,no,934
+1048,2022,2022-09-04,2022133,Made in HimmerLand,no,euro,no,940
+1054,2022,2022-09-04,4,Boston,no,liv,basic,945
+1062,2022,2022-08-28,2022132,Omega European Masters,no,euro,no,952
+1065,2022,2022-08-28,60,TOUR Championship,yes,pga,yes,146
+1074,2022,2022-08-21,28,BMW Championship,yes,pga,yes,157
+1075,2022,2022-08-21,2022131,D+D Real Czech Masters,no,euro,no,961
+1089,2022,2022-08-14,2022130,ISPS Handa World Invitational presented by AVIV Clinics,no,euro,no,971
+1090,2022,2022-08-14,27,FedEx St. Jude Championship,yes,pga,yes,178
+1097,2022,2022-08-07,2022129,Cazoo Open supported by Gareth Bale,no,euro,no,977
+1105,2022,2022-08-07,13,Wyndham Championship,yes,pga,yes,191
+1111,2022,2022-07-31,3,Bedminster,no,liv,basic,987
+1116,2022,2022-07-31,2022128,Hero Open,no,euro,no,992
+1117,2022,2022-07-31,524,Rocket Mortgage Classic,yes,pga,yes,248
+1124,2022,2022-07-24,525,3M Open,yes,pga,yes,209
+1126,2022,2022-07-24,2022127,Cazoo Classic,no,euro,no,998
+1129,2022,2022-07-17,472,Barracuda Championship,no,pga,basic,220
+1133,2022,2022-07-17,100,The Open Championship,yes,pga,yes,218
+1137,2022,2022-07-10,541,Genesis Scottish Open,yes,pga,yes,225
+1138,2022,2022-07-10,518,Barbasol Championship,yes,pga,yes,226
+1144,2022,2022-07-03,2022122,Horizon Irish Open,no,euro,no,1009
+1147,2022,2022-07-03,2,Portland,no,liv,basic,1012
+1149,2022,2022-07-03,30,John Deere Classic,yes,pga,yes,240
+1155,2022,2022-06-26,2022121,BMW International Open,no,euro,no,1018
+1157,2022,2022-06-26,34,Travelers Championship,yes,pga,yes,259
+1175,2022,2022-06-19,26,U.S. Open,yes,pga,basic,273
+1181,2022,2022-06-12,32,RBC Canadian Open,yes,pga,yes,296
+1189,2022,2022-06-12,2022119,Volvo Car Scandinavian Mixed,no,euro,no,1044
+1196,2022,2022-06-11,1,London,no,liv,basic,1049
+1205,2022,2022-06-05,23,the Memorial Tournament presented by Workday,yes,pga,yes,285
+1208,2022,2022-06-05,2022118,Porsche European Open,no,euro,no,1056
+1220,2022,2022-05-29,2022117,Dutch Open,no,euro,no,1066
+1221,2022,2022-05-29,21,Charles Schwab Challenge,yes,pga,yes,310
+1225,2022,2022-05-22,33,PGA Championship,yes,pga,yes,318
+1230,2022,2022-05-15,2022115,Soudal Open,no,euro,no,1073
+1241,2022,2022-05-15,19,AT&T Byron Nelson,yes,pga,yes,344
+1247,2022,2022-05-08,480,Wells Fargo Championship,yes,pga,yes,332
+1249,2022,2022-05-08,2022114,Betfred British Masters hosted by Danny Willett,no,euro,no,1085
+1259,2022,2022-05-01,540,Mexico Open at Vidanta,yes,pga,yes,430
+1261,2022,2022-05-01,2022151,Catalunya Championship,no,euro,no,1093
+1269,2022,2022-04-24,2022149,ISPS Handa Championship in Spain,no,euro,no,1099
+1274,2022,2022-04-17,12,RBC Heritage,yes,pga,yes,369
+1282,2022,2022-04-10,14,The Masters,yes,pga,yes,373
+1291,2022,2022-04-03,41,Valero Texas Open,yes,pga,yes,385
+1292,2022,2022-03-27,2022106,Commercial Bank Qatar Masters,no,euro,no,1117
+1297,2022,2022-03-27,522,Corales Puntacana Championship,no,pga,basic,364
+1302,2022,2022-03-20,475,Valspar Championship,yes,pga,yes,395
+1306,2022,2022-03-20,2022147,Steyn City Championship,no,euro,no,1128
+1309,2022,2022-03-13,11,THE PLAYERS Championship,yes,pga,yes,406
+1310,2022,2022-03-13,2022146,MyGolfLife Open hosted by Pecanwood,no,euro,no,1131
+1319,2022,2022-03-06,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,410
+1320,2022,2022-03-06,483,Puerto Rico Open,no,pga,basic,414
+1321,2022,2022-03-06,2022108,Magical Kenya Open,no,euro,no,1139
+1324,2022,2022-02-27,10,The Honda Classic,yes,pga,yes,423
+1335,2022,2022-02-20,7,The Genesis Invitational,yes,pga,yes,443
+1339,2022,2022-02-13,2022148,Ras al Khaimah Classic ,no,euro,no,1151
+1343,2022,2022-02-13,3,WM Phoenix Open,yes,pga,yes,448
+1344,2022,2022-02-06,2022105,Ras al Khaimah Championship presented by Phoenix Capital,no,euro,no,1155
+1346,2022,2022-02-06,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,455
+1349,2022,2022-01-30,2022104,Slync.io Dubai Desert Classic,no,euro,no,1158
+1352,2022,2022-01-29,4,Farmers Insurance Open,partial,pga,partial,463
+1355,2022,2022-01-23,2022103,Abu Dhabi HSBC Championship,no,euro,no,1162
+1357,2022,2022-01-23,2,The American Express,partial,pga,partial,468
+1362,2022,2022-01-16,6,Sony Open in Hawaii,yes,pga,yes,1
+1363,2022,2022-01-09,16,Sentry Tournament of Champions,yes,pga,yes,3
+1371,2021,2021-12-05,478,Hero World Challenge,no,pga,no,13
+1378,2021,2021-11-28,2022100,Joburg Open,no,euro,no,1177
+1383,2021,2021-11-21,2021143,"DP WORLD TOUR CHAMPIONSHIP, DUBAI",no,euro,no,1182
+1384,2021,2021-11-21,493,The RSM Classic,partial,pga,partial,23
+1390,2021,2021-11-14,2021157,AVIV Dubai Championship,no,euro,no,1188
+1393,2021,2021-11-14,20,Hewlett Packard Enterprise Houston Open,yes,pga,yes,394
+1397,2021,2021-11-07,457,World Wide Technology Championship at Mayakoba,no,pga,basic,43
+1400,2021,2021-11-07,2021156,Portugal Masters,no,euro,no,1196
+1406,2021,2021-10-31,528,Butterfield Bermuda Championship,no,pga,basic,37
+1409,2021,2021-10-24,2021155,Mallorca Golf Open,no,euro,no,1204
+1410,2021,2021-10-24,527,ZOZO CHAMPIONSHIP,no,pga,no,57
+1419,2021,2021-10-17,2021137,Estrella Damm N.A. Andalucía Masters,no,euro,no,1213
+1422,2021,2021-10-17,521,THE CJ CUP @ SUMMIT,yes,pga,yes,875
+1431,2021,2021-10-10,47,Shriners Children's Open,yes,pga,yes,64
+1434,2021,2021-10-10,2021136,ACCIONA Open de España,no,euro,no,1226
+1440,2021,2021-10-03,54,Sanderson Farms Championship,yes,pga,yes,89
+1445,2021,2021-10-03,2021135,Alfred Dunhill Links Championship,no,euro,no,1235
+1453,2021,2021-09-19,2021133,Dutch Open,no,euro,no,1243
+1461,2021,2021-09-19,464,Fortinet Championship,yes,pga,yes,128
+1470,2021,2021-09-12,2021132,BMW PGA CHAMPIONSHIP,no,euro,no,1258
+1475,2021,2021-09-05,2021131,DS Automobiles Italian Open,no,euro,no,1263
+1476,2021,2021-09-05,60,TOUR Championship,yes,pga,yes,146
+1488,2021,2021-08-29,28,BMW Championship,yes,pga,yes,157
+1489,2021,2021-08-29,2021130,Omega European Masters,no,euro,no,1275
+1501,2021,2021-08-22,2021129,D+D Real Czech Masters,no,euro,no,1287
+1504,2021,2021-08-22,27,THE NORTHERN TRUST,yes,pga,yes,178
+1509,2021,2021-08-15,13,Wyndham Championship,yes,pga,yes,191
+1513,2021,2021-08-15,2021128,Cazoo Classic,no,euro,no,1295
+1517,2021,2021-08-08,476,World Golf Championships-FedEx St. Jude Invitational,yes,pga,yes,1299
+1519,2021,2021-08-08,2021126,Hero Open,no,euro,no,1301
+1520,2021,2021-08-08,472,Barracuda Championship,no,pga,no,220
+1524,2021,2021-08-01,519,Olympic Men's Golf Competition,yes,pga,basic,200
+1525,2021,2021-08-01,2021124,ISPS HANDA World Invitational presented by Modest! Golf Management,no,euro,no,1305
+1533,2021,2021-07-25,2021123,Cazoo Open supported by Gareth Bale,no,euro,no,1313
+1535,2021,2021-07-25,525,3M Open,yes,pga,yes,209
 1539,2021,2021-07-18,100,The Open Championship,no,pga,no,218
-1542,2021,2021-07-11,30,John Deere Classic,yes,pga,yes,234
-1544,2021,2021-07-11,2021121,abrdn Scottish Open,no,euro,no,1320
-1555,2021,2021-07-04,2021120,Dubai Duty Free Irish Open,no,euro,no,1330
-1557,2021,2021-07-04,524,Rocket Mortgage Classic,yes,pga,yes,246
-1561,2021,2021-06-27,34,Travelers Championship,yes,pga,yes,258
-1570,2021,2021-06-27,2021119,BMW International Open,no,euro,no,1341
-1577,2021,2021-06-20,535,U.S. Open #2,yes,pga,yes,1347
-1585,2021,2021-06-13,538,Palmetto Championship at Congaree,yes,pga,yes,1355
-1591,2021,2021-06-13,2021117,Scandinavian Mixed Hosted by Henrik & Annika,no,euro,no,1360
-1595,2021,2021-06-06,2021116,Porsche European Open,no,euro,no,1362
-1603,2021,2021-06-06,23,the Memorial Tournament presented by Nationwide,yes,pga,yes,283
-1612,2021,2021-05-30,21,Charles Schwab Challenge,yes,pga,yes,307
-1616,2021,2021-05-30,2021115,Made in HimmerLand presented by FREJA,no,euro,no,1379
-1617,2021,2021-05-23,33,PGA Championship,yes,pga,yes,316
-1629,2021,2021-05-16,19,AT&T Byron Nelson,yes,pga,yes,341
-1630,2021,2021-05-15,2021113,Betfred British Masters hosted by Danny Willett,no,euro,no,1388
-1631,2021,2021-05-09,480,Wells Fargo Championship,yes,pga,yes,325
-1632,2021,2021-05-09,2021153,Canary Islands Championship,no,euro,no,1389
-1645,2021,2021-05-02,475,Valspar Championship,yes,pga,yes,393
-1648,2021,2021-05-02,2021109,Tenerife Open,no,euro,no,1400
-1651,2021,2021-04-25,2021110,Gran Canaria Lopesan Open,no,euro,no,1402
-1660,2021,2021-04-18,2021152,Austrian Golf Open,no,euro,no,1411
-1663,2021,2021-04-18,12,RBC Heritage,yes,pga,yes,364
-1667,2021,2021-04-11,536,The Masters #2,yes,pga,yes,1417
-1668,2021,2021-04-04,41,Valero Texas Open,yes,pga,yes,382
-1675,2021,2021-03-28,534,Corales Puntacana Resort & Club Championship #2,no,pga,no,1424
-1679,2021,2021-03-26,2021148,Kenya Savannah Classic,no,euro,no,1428
-1680,2021,2021-03-21,2021106,Magical Kenya Open,no,euro,no,1429
-1682,2021,2021-03-21,10,The Honda Classic,yes,pga,yes,415
-1685,2021,2021-03-14,2021105,Commercial Bank Qatar Masters,no,euro,no,1432
-1688,2021,2021-03-14,11,THE PLAYERS Championship,yes,pga,yes,400
-1693,2021,2021-03-07,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,407
-1694,2021,2021-02-28,483,Puerto Rico Open,no,pga,basic,411
-1695,2021,2021-02-28,473,World Golf Championships-Workday Championship at The Concession,yes,pga,yes,1439
-1699,2021,2021-02-21,7,The Genesis Invitational,yes,pga,yes,437
-1703,2021,2021-02-14,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,452
-1705,2021,2021-02-07,2021103,Saudi International powered by SoftBank Investment Advisers,no,euro,no,1447
-1706,2021,2021-02-07,3,Waste Management Phoenix Open,yes,pga,yes,443
-1709,2021,2021-01-31,2021102,Omega Dubai Desert Classic,no,euro,no,1450
-1710,2021,2021-01-31,4,Farmers Insurance Open,partial,pga,partial,460
-1711,2021,2021-01-24,2,The American Express,partial,pga,partial,465
-1712,2021,2021-01-24,2021101,Abu Dhabi HSBC Championship,no,euro,no,1451
-1714,2021,2021-01-17,6,Sony Open in Hawaii,yes,pga,yes,472
-1715,2021,2021-01-10,16,Sentry Tournament of Champions,yes,pga,yes,474
-1718,2020,2020-12-13,2020098,"DP World Tour Championship, Dubai",no,euro,no,1455
-1721,2020,2020-12-06,2020105,South African Open,no,euro,no,1458
-1725,2020,2020-12-06,457,Mayakoba Golf Classic presented by UNIFIN,no,pga,basic,40
-1726,2020,2020-12-05,2020106,Golf in Dubai Championship presented by DP World,no,euro,no,1462
-1728,2020,2020-11-29,2020104,Alfred Dunhill Championship,no,euro,no,1464
-1729,2020,2020-11-22,2020103,Joburg Open,no,euro,no,1465
-1730,2020,2020-11-22,493,The RSM Classic,partial,pga,partial,23
-1736,2020,2020-11-15,14,The Masters,no,pga,no,370
-1740,2020,2020-11-08,20,Vivint Houston Open,yes,pga,yes,391
-1742,2020,2020-11-08,2020101,Aphrodite Hills Cyprus Showdown,no,euro,no,1474
-1747,2020,2020-11-01,528,Bermuda Championship,no,pga,basic,30
-1749,2020,2020-11-01,2020100,Cyprus Open,no,euro,no,1480
-1751,2020,2020-10-25,527,ZOZO CHAMPIONSHIP @ SHERWOOD,yes,pga,yes,57
-1753,2020,2020-10-25,2020086,Italian Open,no,euro,no,1482
-1761,2020,2020-10-18,2020102,Scottish Championship,no,euro,no,1490
-1762,2020,2020-10-18,521,THE CJ CUP @ SHADOW CREEK,yes,pga,yes,873
-1764,2020,2020-10-11,47,Shriners Hospitals for Children Open,yes,pga,yes,64
-1770,2020,2020-10-11,2020078,BMW PGA Championship,no,euro,no,1496
-1775,2020,2020-10-04,54,Sanderson Farms Championship,yes,pga,yes,87
-1778,2020,2020-10-04,2020060,Aberdeen Standard Investments Scottish Open,no,euro,no,1501
-1784,2020,2020-09-27,2020046,Dubai Duty Free Irish Open,no,euro,no,1507
-1786,2020,2020-09-27,522,Corales Puntacana Resort & Club Championship,no,pga,basic,361
-1794,2020,2020-09-20,2020750,Open de Portugal at Royal Óbidos,no,euro,no,1514
-1795,2020,2020-09-20,26,U.S. Open,yes,pga,yes,269
-1801,2020,2020-09-13,2020090,Portugal Masters,no,euro,no,1518
-1804,2020,2020-09-13,464,Safeway Open,yes,pga,yes,120
-1806,2020,2020-09-07,60,TOUR Championship,yes,pga,yes,146
-1813,2020,2020-09-06,2020038,Estrella Damm N.A. Andalucia Masters ,no,euro,no,1527
-1819,2020,2020-08-30,28,BMW Championship,yes,pga,yes,155
-1822,2020,2020-08-30,2020011,ISPS HANDA UK Championship,no,euro,no,1534
-1827,2020,2020-08-23,2020009,ISPS HANDA Wales Open,no,euro,no,1539
-1830,2020,2020-08-23,27,THE NORTHERN TRUST,yes,pga,yes,176
-1835,2020,2020-08-16,2020007,Celtic Classic,no,euro,no,1545
-1841,2020,2020-08-16,13,Wyndham Championship,yes,pga,yes,189
-1845,2020,2020-08-09,33,PGA Championship,yes,pga,yes,316
-1847,2020,2020-08-09,2020005,English Championship,no,euro,no,1553
-1852,2020,2020-08-02,2020004,Hero Open,no,euro,no,1557
-1853,2020,2020-08-02,476,World Golf Championships-FedEx St. Jude Invitational,yes,pga,yes,1302
-1856,2020,2020-08-02,472,Barracuda Championship,no,pga,basic,214
-1859,2020,2020-07-26,525,3M Open,yes,pga,yes,207
-1860,2020,2020-07-25,2020066,Betfred British Masters hosted by Lee Westwood,no,euro,no,1560
-1862,2020,2020-07-19,23,the Memorial Tournament presented by Nationwide,yes,pga,yes,283
-1864,2020,2020-07-18,2020732,Euram Bank Open,no,euro,no,1563
-1867,2020,2020-07-12,2020731,Austrian Open,no,euro,no,1566
-1869,2020,2020-07-12,533,Workday Charity Open,yes,pga,yes,1568
-1870,2020,2020-07-05,524,Rocket Mortgage Classic,yes,pga,yes,246
-1875,2020,2020-06-28,34,Travelers Championship,yes,pga,yes,258
-1876,2020,2020-06-21,12,RBC Heritage,yes,pga,yes,364
-1879,2020,2020-06-14,21,Charles Schwab Challenge,yes,pga,yes,307
-1883,2020,2020-03-15,11,THE PLAYERS Championship,yes,pga,basic,400
-1890,2020,2020-03-08,2020022,Commercial Bank Qatar Masters,no,euro,no,1580
-1892,2020,2020-03-08,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,407
-1893,2020,2020-03-01,10,The Honda Classic,yes,pga,yes,415
-1898,2020,2020-03-01,2020020,Oman Open,no,euro,no,1585
-1903,2020,2020-02-23,483,Puerto Rico Open,no,pga,basic,411
-1908,2020,2020-02-23,473,World Golf Championships-Mexico Championship,yes,pga,yes,1439
-1915,2020,2020-02-16,7,The Genesis Invitational,yes,pga,yes,437
-1919,2020,2020-02-09,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,452
-1920,2020,2020-02-09,2020014,ISPS Handa Vic Open,no,euro,no,1601
-1924,2020,2020-02-02,3,Waste Management Phoenix Open,yes,pga,yes,443
-1927,2020,2020-02-02,2020012,Saudi International powered by SoftBank Investment Advisors,no,euro,no,1605
-1929,2020,2020-01-26,4,Farmers Insurance Open,partial,pga,partial,460
-1931,2020,2020-01-26,2020010,Omega Dubai Desert Classic,no,euro,no,1607
-1936,2020,2020-01-19,2020008,Abu Dhabi HSBC Championship presented by EGA,no,euro,no,1611
-1937,2020,2020-01-19,2,The American Express,partial,pga,partial,465
-1942,2020,2020-01-12,6,Sony Open in Hawaii,yes,pga,yes,472
-1943,2020,2020-01-12,2020006,South African Open hosted by the City of Johannesburg,no,euro,no,1614
-1944,2020,2020-01-05,16,Sentry Tournament of Champions,yes,pga,yes,474
+1544,2021,2021-07-18,518,Barbasol Championship,yes,pga,yes,226
+1545,2021,2021-07-11,2021121,abrdn Scottish Open,no,euro,no,1321
+1551,2021,2021-07-11,30,John Deere Classic,yes,pga,yes,240
+1559,2021,2021-07-04,524,Rocket Mortgage Classic,yes,pga,yes,248
+1561,2021,2021-07-04,2021120,Dubai Duty Free Irish Open,no,euro,no,1333
+1565,2021,2021-06-27,34,Travelers Championship,yes,pga,yes,259
+1572,2021,2021-06-27,2021119,BMW International Open,no,euro,no,1341
+1579,2021,2021-06-20,535,U.S. Open #2,yes,pga,yes,1348
+1588,2021,2021-06-13,538,Palmetto Championship at Congaree,yes,pga,yes,1356
+1592,2021,2021-06-13,2021117,Scandinavian Mixed Hosted by Henrik & Annika,no,euro,no,1359
+1601,2021,2021-06-06,2021116,Porsche European Open,no,euro,no,1366
+1605,2021,2021-06-06,23,the Memorial Tournament presented by Nationwide,yes,pga,yes,285
+1616,2021,2021-05-30,21,Charles Schwab Challenge,yes,pga,yes,310
+1617,2021,2021-05-30,2021115,Made in HimmerLand presented by FREJA,no,euro,no,1378
+1620,2021,2021-05-23,33,PGA Championship,yes,pga,yes,318
+1632,2021,2021-05-16,19,AT&T Byron Nelson,yes,pga,yes,344
+1633,2021,2021-05-15,2021113,Betfred British Masters hosted by Danny Willett,no,euro,no,1389
+1634,2021,2021-05-09,480,Wells Fargo Championship,yes,pga,yes,332
+1635,2021,2021-05-09,2021153,Canary Islands Championship,no,euro,no,1390
+1647,2021,2021-05-02,2021109,Tenerife Open,no,euro,no,1398
+1648,2021,2021-05-02,475,Valspar Championship,yes,pga,yes,395
+1652,2021,2021-04-25,2021110,Gran Canaria Lopesan Open,no,euro,no,1402
+1666,2021,2021-04-18,2021152,Austrian Golf Open,no,euro,no,1415
+1669,2021,2021-04-18,12,RBC Heritage,yes,pga,yes,369
+1670,2021,2021-04-11,536,The Masters #2,yes,pga,yes,1418
+1671,2021,2021-04-04,41,Valero Texas Open,yes,pga,yes,385
+1677,2021,2021-03-28,534,Corales Puntacana Resort & Club Championship #2,no,pga,no,1424
+1682,2021,2021-03-26,2021148,Kenya Savannah Classic,no,euro,no,1429
+1683,2021,2021-03-21,2021106,Magical Kenya Open,no,euro,no,1430
+1686,2021,2021-03-21,10,The Honda Classic,yes,pga,yes,423
+1689,2021,2021-03-14,2021105,Commercial Bank Qatar Masters,no,euro,no,1434
+1691,2021,2021-03-14,11,THE PLAYERS Championship,yes,pga,yes,406
+1695,2021,2021-03-07,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,410
+1697,2021,2021-02-28,483,Puerto Rico Open,no,pga,basic,414
+1698,2021,2021-02-28,473,World Golf Championships-Workday Championship at The Concession,yes,pga,yes,1440
+1703,2021,2021-02-21,7,The Genesis Invitational,yes,pga,yes,443
+1706,2021,2021-02-14,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,455
+1708,2021,2021-02-07,2021103,Saudi International powered by SoftBank Investment Advisers,no,euro,no,1448
+1709,2021,2021-02-07,3,Waste Management Phoenix Open,yes,pga,yes,448
+1712,2021,2021-01-31,2021102,Omega Dubai Desert Classic,no,euro,no,1451
+1713,2021,2021-01-31,4,Farmers Insurance Open,partial,pga,partial,463
+1714,2021,2021-01-24,2,The American Express,partial,pga,partial,468
+1715,2021,2021-01-24,2021101,Abu Dhabi HSBC Championship,no,euro,no,1452
+1717,2021,2021-01-17,6,Sony Open in Hawaii,yes,pga,yes,1
+1718,2021,2021-01-10,16,Sentry Tournament of Champions,yes,pga,yes,3
+1721,2020,2020-12-13,2020098,"DP World Tour Championship, Dubai",no,euro,no,1456
+1724,2020,2020-12-06,2020105,South African Open,no,euro,no,1459
+1726,2020,2020-12-06,457,Mayakoba Golf Classic presented by UNIFIN,no,pga,basic,43
+1729,2020,2020-12-05,2020106,Golf in Dubai Championship presented by DP World,no,euro,no,1463
+1731,2020,2020-11-29,2020104,Alfred Dunhill Championship,no,euro,no,1465
+1733,2020,2020-11-22,493,The RSM Classic,partial,pga,partial,23
+1734,2020,2020-11-22,2020103,Joburg Open,no,euro,no,1467
+1739,2020,2020-11-15,14,The Masters,no,pga,no,373
+1744,2020,2020-11-08,20,Vivint Houston Open,yes,pga,yes,394
+1747,2020,2020-11-08,2020101,Aphrodite Hills Cyprus Showdown,no,euro,no,1477
+1749,2020,2020-11-01,2020100,Cyprus Open,no,euro,no,1479
+1751,2020,2020-11-01,528,Bermuda Championship,no,pga,basic,37
+1759,2020,2020-10-25,2020086,Italian Open,no,euro,no,1487
+1760,2020,2020-10-25,527,ZOZO CHAMPIONSHIP @ SHERWOOD,yes,pga,yes,57
+1763,2020,2020-10-18,2020102,Scottish Championship,no,euro,no,1490
+1764,2020,2020-10-18,521,THE CJ CUP @ SHADOW CREEK,yes,pga,yes,875
+1767,2020,2020-10-11,2020078,BMW PGA Championship,no,euro,no,1492
+1768,2020,2020-10-11,47,Shriners Hospitals for Children Open,yes,pga,yes,64
+1779,2020,2020-10-04,54,Sanderson Farms Championship,yes,pga,yes,89
+1781,2020,2020-10-04,2020060,Aberdeen Standard Investments Scottish Open,no,euro,no,1502
+1787,2020,2020-09-27,2020046,Dubai Duty Free Irish Open,no,euro,no,1508
+1789,2020,2020-09-27,522,Corales Puntacana Resort & Club Championship,no,pga,basic,364
+1795,2020,2020-09-20,2020750,Open de Portugal at Royal Óbidos,no,euro,no,1513
+1796,2020,2020-09-20,26,U.S. Open,yes,pga,yes,273
+1801,2020,2020-09-13,464,Safeway Open,yes,pga,yes,128
+1806,2020,2020-09-13,2020090,Portugal Masters,no,euro,no,1520
+1809,2020,2020-09-07,60,TOUR Championship,yes,pga,yes,146
+1811,2020,2020-09-06,2020038,Estrella Damm N.A. Andalucia Masters ,no,euro,no,1524
+1820,2020,2020-08-30,28,BMW Championship,yes,pga,yes,157
+1823,2020,2020-08-30,2020011,ISPS HANDA UK Championship,no,euro,no,1533
+1830,2020,2020-08-23,27,THE NORTHERN TRUST,yes,pga,yes,178
+1831,2020,2020-08-23,2020009,ISPS HANDA Wales Open,no,euro,no,1540
+1841,2020,2020-08-16,13,Wyndham Championship,yes,pga,yes,191
+1842,2020,2020-08-16,2020007,Celtic Classic,no,euro,no,1548
+1848,2020,2020-08-09,33,PGA Championship,yes,pga,yes,318
+1849,2020,2020-08-09,2020005,English Championship,no,euro,no,1553
+1855,2020,2020-08-02,472,Barracuda Championship,no,pga,basic,220
+1856,2020,2020-08-02,476,World Golf Championships-FedEx St. Jude Invitational,yes,pga,yes,1299
+1857,2020,2020-08-02,2020004,Hero Open,no,euro,no,1558
+1860,2020,2020-07-26,525,3M Open,yes,pga,yes,209
+1863,2020,2020-07-25,2020066,Betfred British Masters hosted by Lee Westwood,no,euro,no,1561
+1864,2020,2020-07-19,23,the Memorial Tournament presented by Nationwide,yes,pga,yes,285
+1867,2020,2020-07-18,2020732,Euram Bank Open,no,euro,no,1564
+1870,2020,2020-07-12,533,Workday Charity Open,yes,pga,yes,1567
+1871,2020,2020-07-12,2020731,Austrian Open,no,euro,no,1568
+1873,2020,2020-07-05,524,Rocket Mortgage Classic,yes,pga,yes,248
+1877,2020,2020-06-28,34,Travelers Championship,yes,pga,yes,259
+1879,2020,2020-06-21,12,RBC Heritage,yes,pga,yes,369
+1882,2020,2020-06-14,21,Charles Schwab Challenge,yes,pga,yes,310
+1886,2020,2020-03-15,11,THE PLAYERS Championship,yes,pga,basic,406
+1890,2020,2020-03-08,9,Arnold Palmer Invitational presented by Mastercard,yes,pga,yes,410
+1895,2020,2020-03-08,2020022,Commercial Bank Qatar Masters,no,euro,no,1582
+1899,2020,2020-03-01,2020020,Oman Open,no,euro,no,1586
+1902,2020,2020-03-01,10,The Honda Classic,yes,pga,yes,423
+1905,2020,2020-02-23,473,World Golf Championships-Mexico Championship,yes,pga,yes,1440
+1906,2020,2020-02-23,483,Puerto Rico Open,no,pga,basic,414
+1919,2020,2020-02-16,7,The Genesis Invitational,yes,pga,yes,443
+1923,2020,2020-02-09,2020014,ISPS Handa Vic Open,no,euro,no,1602
+1924,2020,2020-02-09,5,AT&T Pebble Beach Pro-Am,partial,pga,partial,455
+1929,2020,2020-02-02,2020012,Saudi International powered by SoftBank Investment Advisors,no,euro,no,1606
+1930,2020,2020-02-02,3,Waste Management Phoenix Open,yes,pga,yes,448
+1934,2020,2020-01-26,2020010,Omega Dubai Desert Classic,no,euro,no,1609
+1935,2020,2020-01-26,4,Farmers Insurance Open,partial,pga,partial,463
+1937,2020,2020-01-19,2020008,Abu Dhabi HSBC Championship presented by EGA,no,euro,no,1610
+1939,2020,2020-01-19,2,The American Express,partial,pga,partial,468
+1944,2020,2020-01-12,6,Sony Open in Hawaii,yes,pga,yes,1
+1946,2020,2020-01-12,2020006,South African Open hosted by the City of Johannesburg,no,euro,no,1615
+1947,2020,2020-01-05,16,Sentry Tournament of Champions,yes,pga,yes,3
