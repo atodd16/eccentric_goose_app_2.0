@@ -44,7 +44,6 @@ performance_data['round_completed']=pd.to_datetime(performance_data['round_compl
 performance_data['advanced_sg_stats']=performance_data[['sg_ott', 'sg_app', 'sg_arg', 'sg_putt']].notna().all(axis=1).map({True:'Y', False:'N'})
 
 # count the number of rounds each player has had in the last 12 months
-
 # sorts 'performance_data' by 'dg_id' and 'round_completed'
 performance_data = performance_data.sort_values(by=['dg_id', 'round_completed'])
 
@@ -71,7 +70,7 @@ merged_df = pd.merge(performance_data, aggregated_data_golf_rankings[['dg_id', '
 dg_ranked_performance_data = merged_df[((merged_df['event_completed'] >= merged_df['dg_ranking_start']) &
                          (merged_df['event_completed'] <= merged_df['dg_ranking_end']))]
 
-performance_data_clean = dg_ranked_performance_data.copy()
+dg_ranked_performance_data = dg_ranked_performance_data.copy()
 
 # creates new dataframe 'event_round_dg_rank' which evaluates the average dg_rank by event and round
 event_round_dg_rank = (
@@ -85,16 +84,12 @@ event_round_dg_rank = (
 )
 
 # add 12-month rolling sg statistics columns to 'dg_ranked_performance' dataframe
+# resets index
+dg_ranked_performance_data.reset_index(drop=True, inplace=True)
 
-# NEED TO ADD THE OTHER 12 MONTH ROLLING AVERAGE COLUMNS - ADDITIONALLY SEE IF YOU CAN FILTER WITHIN THE FUNCTIONS TO SWITCH BETWEEN ADVANCED SG STATS 'Y' & 'N'
-
-performance_data_clean = performance_data_clean[performance_data_clean['advanced_sg_stats'] == 'Y']
-
-
-performance_data_clean.reset_index(drop=True, inplace=True)
-
-performance_data_clean['sg_ott_rolling_avg'] = (
-    performance_data_clean
+# adds 12 month rolling avg for 'sg_ott'
+dg_ranked_performance_data['sg_ott_rolling_avg'] = (
+    dg_ranked_performance_data
     .groupby('dg_id', group_keys=False)
     .apply(
         lambda group: group.rolling('365D', on='round_completed', min_periods=1)['sg_ott'].mean(), include_groups=False
@@ -102,30 +97,66 @@ performance_data_clean['sg_ott_rolling_avg'] = (
     .reset_index(level=0, drop=True)
  )
 
+# adds 12 month rolling avg for 'sg_app'
+dg_ranked_performance_data['sg_app_rolling_avg'] = (
+    dg_ranked_performance_data
+    .groupby('dg_id', group_keys=False)
+    .apply(
+        lambda group: group.rolling('365D', on='round_completed', min_periods=1)['sg_app'].mean(), include_groups=False
+    )
+    .reset_index(level=0, drop=True)
+ )
 
-print(performance_data_clean)
+# adds 12 month rolling avg for 'sg_arg'
+dg_ranked_performance_data['sg_arg_rolling_avg'] = (
+    dg_ranked_performance_data
+    .groupby('dg_id', group_keys=False)
+    .apply(
+        lambda group: group.rolling('365D', on='round_completed', min_periods=1)['sg_arg'].mean(), include_groups=False
+    )
+    .reset_index(level=0, drop=True)
+ )
+
+# adds 12 month rolling avg for 'sg_putt'
+dg_ranked_performance_data['sg_putt_rolling_avg'] = (
+    dg_ranked_performance_data
+    .groupby('dg_id', group_keys=False)
+    .apply(
+        lambda group: group.rolling('365D', on='round_completed', min_periods=1)['sg_putt'].mean(), include_groups=False
+    )
+    .reset_index(level=0, drop=True)
+ )
+
+# adds 12 month rolling avg for 'sg_total'
+dg_ranked_performance_data['sg_total_rolling_avg'] = (
+    dg_ranked_performance_data
+    .groupby('dg_id', group_keys=False)
+    .apply(
+        lambda group: group.rolling('365D', on='round_completed', min_periods=1)['sg_total'].mean(), include_groups=False
+    )
+    .reset_index(level=0, drop=True)
+ )
+
+# add rows which calculate the delta between actual score and sg rolling averages
+dg_ranked_performance_data['sg_ott_delta'] = dg_ranked_performance_data['sg_ott'] - dg_ranked_performance_data['sg_ott_rolling_avg']
+dg_ranked_performance_data['sg_app_delta'] = dg_ranked_performance_data['sg_app'] - dg_ranked_performance_data['sg_app_rolling_avg']
+dg_ranked_performance_data['sg_arg_delta'] = dg_ranked_performance_data['sg_arg'] - dg_ranked_performance_data['sg_arg_rolling_avg']
+dg_ranked_performance_data['sg_putt_delta'] = dg_ranked_performance_data['sg_putt'] - dg_ranked_performance_data['sg_putt_rolling_avg']
+dg_ranked_performance_data['sg_total_delta'] = dg_ranked_performance_data['sg_total'] - dg_ranked_performance_data['sg_total_rolling_avg']
+
+
+dg_rank_performance_matrix = dg_ranked_performance_data['dg_rank'].unique()
+dg_rank_performance_matrix = pd.DataFrame(dg_rank_performance_matrix)
+
+#dg_rank_performance_matrix = dg_rank_performance_matrix.sort_values(by=['dg_rank'])
+
+print(dg_rank_performance_matrix)
+
+dg_rank_performance_matrix.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\scratch\dg_rank_performance_matrix.csv')
 
 
 
-# performance_data_clean['sg_app_rolling_avg'] = performance_data_clean.groupby('dg_id', group_keys=False).apply(
-#     lambda group: group.sort_values('round_completed').rolling('365D', on='round_completed', min_periods=1)['sg_app'].mean(), include_groups=False
-# ).reset_index(level=0, drop=True)
-
-# performance_data_clean['sg_arg_rolling_avg'] = performance_data_clean.groupby('dg_id', group_keys=False).apply(
-#     lambda group: group.sort_values('round_completed').rolling('365D', on='round_completed', min_periods=1)['sg_arg'].mean(), include_groups=False
-# ).reset_index(level=0, drop=True)
-
-# performance_data_clean['sg_putt_rolling_avg'] = performance_data_clean.groupby('dg_id', group_keys=False).apply(
-#     lambda group: group.sort_values('round_completed').rolling('365D', on='round_completed', min_periods=1)['sg_putt'].mean(), include_groups=False
-# ).reset_index(level=0, drop=True)
-
-# performance_data_clean['sg_total_rolling_avg'] = performance_data_clean.groupby('dg_id',group_keys=False).apply(
-#     lambda group: group.sort_values('round_completed').rolling('365D', on='round_completed', min_periods=1)['sg_total'].mean(), include_groups=False
-# ).reset_index(level=0, drop=True)
-
-performance_data_clean.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\scratch\performance_data_clean.csv')
-
-
+#dg_ranked_performance_data.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\scratch\dg_ranked_performance_data.csv')
 
 
 
