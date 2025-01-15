@@ -71,6 +71,8 @@ merged_df = pd.merge(performance_data, aggregated_data_golf_rankings[['dg_id', '
 dg_ranked_performance_data = merged_df[((merged_df['event_completed'] >= merged_df['dg_ranking_start']) &
                          (merged_df['event_completed'] <= merged_df['dg_ranking_end']))]
 
+performance_data_clean = dg_ranked_performance_data.copy()
+
 # creates new dataframe 'event_round_dg_rank' which evaluates the average dg_rank by event and round
 event_round_dg_rank = (
     dg_ranked_performance_data
@@ -82,10 +84,46 @@ event_round_dg_rank = (
     .reset_index()
 )
 
+# add 12-month rolling sg statistics columns to 'dg_ranked_performance' dataframe
+
+# NEED TO ADD THE OTHER 12 MONTH ROLLING AVERAGE COLUMNS - ADDITIONALLY SEE IF YOU CAN FILTER WITHIN THE FUNCTIONS TO SWITCH BETWEEN ADVANCED SG STATS 'Y' & 'N'
+
+performance_data_clean = performance_data_clean[performance_data_clean['advanced_sg_stats'] == 'Y']
+
+
+performance_data_clean.reset_index(drop=True, inplace=True)
+
+performance_data_clean['sg_ott_rolling_avg'] = (
+    performance_data_clean
+    .groupby('dg_id', group_keys=False)
+    .apply(
+        lambda group: group.rolling('365D', on='round_completed', min_periods=1)['sg_ott'].mean(), include_groups=False
+    )
+    .reset_index(level=0, drop=True)
+ )
+
+
+print(performance_data_clean)
 
 
 
+# performance_data_clean['sg_app_rolling_avg'] = performance_data_clean.groupby('dg_id', group_keys=False).apply(
+#     lambda group: group.sort_values('round_completed').rolling('365D', on='round_completed', min_periods=1)['sg_app'].mean(), include_groups=False
+# ).reset_index(level=0, drop=True)
 
+# performance_data_clean['sg_arg_rolling_avg'] = performance_data_clean.groupby('dg_id', group_keys=False).apply(
+#     lambda group: group.sort_values('round_completed').rolling('365D', on='round_completed', min_periods=1)['sg_arg'].mean(), include_groups=False
+# ).reset_index(level=0, drop=True)
+
+# performance_data_clean['sg_putt_rolling_avg'] = performance_data_clean.groupby('dg_id', group_keys=False).apply(
+#     lambda group: group.sort_values('round_completed').rolling('365D', on='round_completed', min_periods=1)['sg_putt'].mean(), include_groups=False
+# ).reset_index(level=0, drop=True)
+
+# performance_data_clean['sg_total_rolling_avg'] = performance_data_clean.groupby('dg_id',group_keys=False).apply(
+#     lambda group: group.sort_values('round_completed').rolling('365D', on='round_completed', min_periods=1)['sg_total'].mean(), include_groups=False
+# ).reset_index(level=0, drop=True)
+
+performance_data_clean.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\scratch\performance_data_clean.csv')
 
 
 
