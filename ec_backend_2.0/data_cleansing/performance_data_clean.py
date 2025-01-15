@@ -1,6 +1,7 @@
 # this script cleanses performance_data CSV and creates other necessary CSV files
 
 import pandas as pd
+import matplotlib.pyplot as plt
 
 # adjusts settings to print full dataframe
 pd.set_option('display.max_columns', None)
@@ -83,6 +84,10 @@ event_round_dg_rank = (
     .reset_index()
 )
 
+# merge round level dg rank into 'dg_ranked_performance' and round 'dg_rank'
+dg_ranked_performance_data = pd.merge(dg_ranked_performance_data, event_round_dg_rank[['distinct_event_id', 'round_completed', 'round', 'avg_dg_rank']], on=['distinct_event_id', 'round_completed', 'round'], how='left')
+dg_ranked_performance_data['avg_dg_rank'] = dg_ranked_performance_data['avg_dg_rank'].round()
+
 # add 12-month rolling sg statistics columns to 'dg_ranked_performance' dataframe
 # resets index
 dg_ranked_performance_data.reset_index(drop=True, inplace=True)
@@ -145,16 +150,30 @@ dg_ranked_performance_data['sg_putt_delta'] = dg_ranked_performance_data['sg_put
 dg_ranked_performance_data['sg_total_delta'] = dg_ranked_performance_data['sg_total'] - dg_ranked_performance_data['sg_total_rolling_avg']
 
 
-dg_rank_performance_matrix = dg_ranked_performance_data['dg_rank'].unique()
-dg_rank_performance_matrix = pd.DataFrame(dg_rank_performance_matrix)
+dg_rank_performance_matrix = dg_ranked_performance_data.groupby('avg_dg_rank').agg(
+    sg_ott_avg_perf_delta=('sg_ott_delta', 'mean'),
+    sg_app_avg_perf_delta=('sg_app_delta', 'mean'),
+    sg_arg_avg_perf_delta=('sg_arg_delta', 'mean'),
+    sg_putt_avg_perf_delta=('sg_putt_delta', 'mean'),
+    sg_total_avg_perf_delta=('sg_total_delta', 'mean'),
+    count=('sg_total_delta', 'count')
+).reset_index()
 
-#dg_rank_performance_matrix = dg_rank_performance_matrix.sort_values(by=['dg_rank'])
+# plt.figure(figsize=(10, 6))
+# plt.bar(dg_rank_performance_matrix['avg_dg_rank'], dg_rank_performance_matrix['count'])
+# plt.xlabel('Average Ranking')
+# plt.ylabel('Number of Events')
+# plt.title('Distribution of Observations by Average Ranking')
+# plt.show()
 
 print(dg_rank_performance_matrix)
 
 dg_rank_performance_matrix.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\scratch\dg_rank_performance_matrix.csv')
 
 
+# NEED TO REMOVE PLAYER VALUES FROM PERFORMANCE DATA WITH LIMITED AMOUNT OF ROUNDS AND AVG_DG_RANKS WITH LOW AMOUNT OF DATA POINTS
+
+#print(dg_ranked_performance_data)
 
 #dg_ranked_performance_data.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\scratch\dg_ranked_performance_data.csv')
 
