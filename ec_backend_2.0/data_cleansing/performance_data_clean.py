@@ -71,8 +71,17 @@ merged_df = pd.merge(performance_data, aggregated_data_golf_rankings[['dg_id', '
 dg_ranked_performance_data = merged_df[((merged_df['event_completed'] >= merged_df['dg_ranking_start']) &
                          (merged_df['event_completed'] <= merged_df['dg_ranking_end']))]
 
+# creates new dataframe 'event_round_dg_rank' which evaluates the average dg_rank by event and round
+event_round_dg_rank = (
+    dg_ranked_performance_data
+    .groupby(['distinct_event_id', 'round_completed', 'round'])
+    .agg(
+        avg_dg_rank=('dg_rank', 'mean'),
+        total_count=('dg_rank', 'count')
+    )
+    .reset_index()
+)
 
-dg_ranked_performance_data.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\scratch\dg_ranked_performance_data.csv')
 
 
 
