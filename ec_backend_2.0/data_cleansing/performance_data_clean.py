@@ -1,6 +1,10 @@
 # this script cleanses performance_data CSV and creates other necessary CSV files
 
 import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error, r2_score
+import matplotlib.pyplot as plt
 
 # adjusts settings to print full dataframe
 pd.set_option('display.max_columns', None)
@@ -181,8 +185,12 @@ print(f'p10:{p10},p25:{p25}, p50:{p50}, p75: {p75}')
 
 dg_rank_performance_matrix = dg_rank_performance_matrix[dg_rank_performance_matrix['count'] > p10]
 
+dg_rank_performance_matrix.reset_index(drop=True, inplace=True)
+
 # saves as 'dg_rank_performance_matrix' in cleansed data files
 dg_rank_performance_matrix.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\cleansed_data_files\dg_rank_performance_matrix.csv')
+
+print(dg_rank_performance_matrix)
 
 
 
