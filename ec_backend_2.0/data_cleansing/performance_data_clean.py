@@ -1,7 +1,6 @@
 # this script cleanses performance_data CSV and creates other necessary CSV files
 
 import pandas as pd
-import matplotlib.pyplot as plt
 
 # adjusts settings to print full dataframe
 pd.set_option('display.max_columns', None)
@@ -25,8 +24,8 @@ aggregated_data_golf_rankings = pd.read_csv(
 # drops columns where event_id is blank
 performance_data = performance_data.dropna(subset=['event_completed'])
 
-# merge distinct_event_id into performance_data
-performance_data = performance_data.merge(event_data[['event_id', 'event_completed', 'distinct_event_id']], on=['event_id', 'event_completed'], how='left')
+# merge tour and distinct_event_id into performance_data
+performance_data = performance_data.merge(event_data[['event_id', 'event_completed', 'tour', 'distinct_event_id']], on=['event_id', 'event_completed'], how='left')
 
 # adds a 'year' column based off 'event_completed'
 performance_data['year'] = pd.to_datetime(performance_data['event_completed']).dt.year.astype(int)
@@ -44,7 +43,6 @@ performance_data['round_completed']=pd.to_datetime(performance_data['round_compl
 # create new column 'advanced_sg_stats' based on whether specific sg columns have non-null values
 performance_data['advanced_sg_stats']=performance_data[['sg_ott', 'sg_app', 'sg_arg', 'sg_putt']].notna().all(axis=1).map({True:'Y', False:'N'})
 
-# count the number of rounds each player has had in the last 12 months
 # sorts 'performance_data' by 'dg_id' and 'round_completed'
 performance_data = performance_data.sort_values(by=['dg_id', 'round_completed'])
 
@@ -87,6 +85,9 @@ event_round_dg_rank = (
 # merge round level dg rank into 'dg_ranked_performance' and round 'dg_rank'
 dg_ranked_performance_data = pd.merge(dg_ranked_performance_data, event_round_dg_rank[['distinct_event_id', 'round_completed', 'round', 'avg_dg_rank']], on=['distinct_event_id', 'round_completed', 'round'], how='left')
 dg_ranked_performance_data['avg_dg_rank'] = dg_ranked_performance_data['avg_dg_rank'].round()
+
+# saves as 'performance_data_cleansed' under cleansed data files
+dg_ranked_performance_data.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\cleansed_data_files\performance_data_cleansed.csv')
 
 # add 12-month rolling sg statistics columns to 'dg_ranked_performance' dataframe
 # resets index
@@ -150,32 +151,43 @@ dg_ranked_performance_data['sg_putt_delta'] = dg_ranked_performance_data['sg_put
 dg_ranked_performance_data['sg_total_delta'] = dg_ranked_performance_data['sg_total'] - dg_ranked_performance_data['sg_total_rolling_avg']
 
 
-dg_rank_performance_matrix = dg_ranked_performance_data.groupby('avg_dg_rank').agg(
+# drops all players who have completed >1st Q in rounds
+q1 = dg_ranked_performance_data['#_of_rounds'].quantile(.25)
+q2 = dg_ranked_performance_data['#_of_rounds'].quantile(.50)
+q3 = dg_ranked_performance_data['#_of_rounds'].quantile(.75)
+print(f'Q1: {q1}, Q2:{q2}, Q3:{q3}')
+
+dg_ranked_performance_data = dg_ranked_performance_data[dg_ranked_performance_data['#_of_rounds'] > q1]
+
+# filters out non-pga tour rounds
+dg_ranked_performance_data_pga = dg_ranked_performance_data[dg_ranked_performance_data['tour'] == 'pga']
+
+# creates dataframe summarizing average sg_delta by dg_rank
+dg_rank_performance_matrix = dg_ranked_performance_data_pga.groupby(['avg_dg_rank']).agg(
     sg_ott_avg_perf_delta=('sg_ott_delta', 'mean'),
     sg_app_avg_perf_delta=('sg_app_delta', 'mean'),
     sg_arg_avg_perf_delta=('sg_arg_delta', 'mean'),
     sg_putt_avg_perf_delta=('sg_putt_delta', 'mean'),
     sg_total_avg_perf_delta=('sg_total_delta', 'mean'),
-    count=('sg_total_delta', 'count')
+    count=('sg_total_delta', 'count'),
 ).reset_index()
 
-# plt.figure(figsize=(10, 6))
-# plt.bar(dg_rank_performance_matrix['avg_dg_rank'], dg_rank_performance_matrix['count'])
-# plt.xlabel('Average Ranking')
-# plt.ylabel('Number of Events')
-# plt.title('Distribution of Observations by Average Ranking')
-# plt.show()
+# removes 'avg_dg_rank' values from 'dg_rank_performance_matrix' under .10 percentile
+p10 = dg_rank_performance_matrix['count'].quantile(.1)
+p25 = dg_rank_performance_matrix['count'].quantile(.25)
+p50 = dg_rank_performance_matrix['count'].quantile(.50)
+p75 = dg_rank_performance_matrix['count'].quantile(.75)
+print(f'p10:{p10},p25:{p25}, p50:{p50}, p75: {p75}')
 
-print(dg_rank_performance_matrix)
+dg_rank_performance_matrix = dg_rank_performance_matrix[dg_rank_performance_matrix['count'] > p10]
 
-dg_rank_performance_matrix.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\scratch\dg_rank_performance_matrix.csv')
+# saves as 'dg_rank_performance_matrix' in cleansed data files
+dg_rank_performance_matrix.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\cleansed_data_files\dg_rank_performance_matrix.csv')
 
 
-# NEED TO REMOVE PLAYER VALUES FROM PERFORMANCE DATA WITH LIMITED AMOUNT OF ROUNDS AND AVG_DG_RANKS WITH LOW AMOUNT OF DATA POINTS
 
-#print(dg_ranked_performance_data)
 
-#dg_ranked_performance_data.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\scratch\dg_ranked_performance_data.csv')
+
 
 
 
