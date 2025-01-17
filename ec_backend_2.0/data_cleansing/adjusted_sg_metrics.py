@@ -45,6 +45,9 @@ print("Coefficients:", model.coef_)
 print("Intercept:", model.intercept_)
 
 # calculate sg total statistics at target rank
+intercept = model.intercept_
+coefficient = model.coef_
+
 target_sg_total = model.intercept_ + (model.coef_ * target_pga_dg_rank)
 print(f'target sg total: {target_sg_total}')
 
@@ -53,7 +56,7 @@ print(f'target sg total: {target_sg_total}')
 performance_data['adj_sg_total'] = performance_data.apply(
     lambda row: row['sg_total'] + (target_sg_total - (model.intercept_ + model.coef_ * row['avg_dg_rank'])),
     axis=1
-)
+).astype(float)
 
 # sg_ott strength of field sg regression analysis
 # filter out blanks
@@ -92,11 +95,11 @@ target_sg_ott = model.intercept_ + (model.coef_ * target_pga_dg_rank)
 print(f'target sg ott: {target_sg_ott}')
 
 
-# adjust sg total statistics to target ranking
+# adjust sg ott statistics to target ranking
 performance_data['adj_sg_ott'] = performance_data.apply(
-    lambda row: row['sg_ott'] + (target_sg_total - (model.intercept_ + model.coef_ * row['avg_dg_rank'])),
+    lambda row: row['sg_ott'] + (target_sg_ott - (model.intercept_ + model.coef_ * row['avg_dg_rank'])),
     axis=1
-)
+).astype(float)
 
 # sg_app strength of field sg regression analysis
 # filter out blanks
@@ -135,11 +138,11 @@ target_sg_app = model.intercept_ + (model.coef_ * target_pga_dg_rank)
 print(f'target sg app: {target_sg_app}')
 
 
-# adjust sg total statistics to target ranking
+# adjust sg app statistics to target ranking
 performance_data['adj_sg_app'] = performance_data.apply(
-    lambda row: row['sg_app'] + (target_sg_total - (model.intercept_ + model.coef_ * row['avg_dg_rank'])),
+    lambda row: row['sg_app'] + (target_sg_app - (model.intercept_ + model.coef_ * row['avg_dg_rank'])),
     axis=1
-)
+).astype(float)
 
 # sg_arg strength of field sg regression analysis
 # filter out blanks
@@ -178,11 +181,11 @@ target_sg_arg = model.intercept_ + (model.coef_ * target_pga_dg_rank)
 print(f'target sg arg: {target_sg_arg}')
 
 
-# adjust sg total statistics to target ranking
+# adjust sg arg statistics to target ranking
 performance_data['adj_sg_arg'] = performance_data.apply(
-    lambda row: row['sg_arg'] + (target_sg_total - (model.intercept_ + model.coef_ * row['avg_dg_rank'])),
+    lambda row: row['sg_arg'] + (target_sg_arg - (model.intercept_ + model.coef_ * row['avg_dg_rank'])),
     axis=1
-)
+).astype(float)
 
 # sg_putt strength of field sg regression analysis
 # filter out blanks
@@ -221,11 +224,13 @@ target_sg_putt = model.intercept_ + (model.coef_ * target_pga_dg_rank)
 print(f'target sg putt: {target_sg_putt}')
 
 
-# adjust sg total statistics to target ranking
+# adjust sg putt statistics to target ranking
 performance_data['adj_sg_putt'] = performance_data.apply(
-    lambda row: row['sg_putt'] + (target_sg_total - (model.intercept_ + model.coef_ * row['avg_dg_rank'])),
+    lambda row: row['sg_putt'] + (target_sg_putt - (model.intercept_ + model.coef_ * row['avg_dg_rank'])),
     axis=1
-)
+).astype(float)
+
+performance_data.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\cleansed_data_files\perf_data_adj_sg.csv')
 
 
 
