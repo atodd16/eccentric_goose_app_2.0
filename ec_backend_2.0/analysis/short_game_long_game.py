@@ -1,4 +1,5 @@
 import pandas as pd
+from datetime import datetime
 
 # adjusts settings to print full dataframe
 pd.set_option('display.max_columns', None)
@@ -17,18 +18,42 @@ performance_data = performance_data[performance_data['advanced_sg_stats'] == 'Y'
 # set 'round_completed as datetime
 performance_data['round_completed'] = pd.to_datetime(performance_data['round_completed'], errors='coerce')
 
-short_game_long_game_quad = performance_data.groupby('dg_id', group_keys=False).apply(
-    lambda group: pd.DataFrame({
-        'player_name': group['player_name'],
-        'short_game_rolling_mean': group.rolling('365D', on='round_completed', min_periods=1)['sg_short_game'].mean(),
-        'long_game_rolling_mean': group.rolling('365D', on='round_completed', min_periods=1)['sg_long_game'].mean(),
-    }), include_groups=False
-).reset_index(drop=True)
+# sort by dg_id and date
+performance_data = performance_data.sort_values(by=['dg_id', 'round_completed'])
 
-test = performance_data.groupby('dg_id', group_keys=False)
-print(test)
+# calculate 12 mo long-game rolling average
+performance_data['12_mo_long_game']= (
+    performance_data.groupby('dg_id')
+    .rolling('365D', on='round_completed')['sg_long_game']
+    .mean()
+    .reset_index(drop=True)
+)
 
-#short_game_long_game_quad.reset_index(drop=True, inplace=True)
+# calculate 12 mo short-game rolling average
+performance_data['12_mo_short_game']= (
+    performance_data.groupby('dg_id')
+    .rolling('365D', on='round_completed')['sg_short_game']
+    .mean()
+    .reset_index(drop=True)
+)
 
+today = pd.Timestamp(datetime.now().date())
+
+# filter data for each player to get the closest record to today's date
+latest_rnd_df = (
+    performance_data[performance_data['round_completed'] <= today]
+    .sort_values(['dg_id', 'round_completed'], ascending=[True, False])
+    .groupby('dg_id', as_index=False)
+    .first()
+)
+
+latest_rnd_df = latest_rnd_df[latest_rnd_df['#_of_rounds'] > 25]
+
+# create quad chart dg
+quad_df = latest_rnd_df[['dg_id', 'player_name', '12_mo_long_game','12_mo_short_game', '#_of_rounds', 'tour']]
+
+quad_df.to_csv(r'C:\Users\aaron\OneDrive\Documents\Golf Modeling\eccentric_goose_model_app\ec_backend_2.0\data_files\chart_data_files\quad_df.csv')
+
+print(quad_df)
 
 
