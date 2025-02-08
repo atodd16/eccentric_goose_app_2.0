@@ -4,23 +4,71 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>My Embedded Dash App</title>
+  <!-- Google Font for stylish typography -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,700&display=swap" rel="stylesheet">
   <style>
-    /* Basic styles for the iframe container */
+    /* Reset and base styles */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(135deg, #1abc9c, #16a085);
+      color: #fff;
+      line-height: 1.6;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    /* Center content and constrain width */
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    /* Header styles */
+    h1 {
+      font-size: 2.5rem;
+      text-align: center;
+      margin: 20px 0;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    }
+    p {
+      font-size: 1.2rem;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    /* Styles for the embedded Dash app */
     .dash-container {
       width: 100%;
-      height: 800px;  /* Adjust the height to suit your needs */
+      height: 80vh; /* 80% of the viewport height on larger screens */
       border: none;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    /* Responsive adjustments for smaller devices */
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2rem;
+      }
+      p {
+        font-size: 1rem;
+      }
+      .dash-container {
+        height: 70vh;
+      }
     }
   </style>
 </head>
 <body>
-<h1 style="color: lightseagreen;">Eccentric Goose has Arrived</h1>
-<p style="color: sandybrown;">I love you all:</p>
-
-<iframe
-        src="https://eccentric-goose-app-2-0.onrender.com/"
-        class="dash-container"
-        title="Embedded Dash App">
-</iframe>
+<div class="container">
+  <h1>Eccentric Goose has Arrived</h1>
+  <p>I love you all:</p>
+  <iframe
+          src="https://eccentric-goose-app-2-0.onrender.com/"
+          class="dash-container"
+          title="Embedded Dash App">
+  </iframe>
+</div>
 </body>
 </html>
