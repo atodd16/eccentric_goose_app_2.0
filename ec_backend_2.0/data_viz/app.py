@@ -16,6 +16,9 @@ sorted_players = sorted(quad_chart['player_name'].unique())
 # Initialize Dash app
 app = Dash(__name__)
 
+# Expose the Flask server
+server = app.server
+
 # Layout with dropdown for player filtering and toggle for display names
 app.layout = html.Div([
     html.Div([
