@@ -1,25 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Eccentric Goose</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Embedded Dash App</title>
   <style>
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
-    }
-    h1 {
-      color: #500;
+    /* Basic styles for the iframe container */
+    .dash-container {
+      width: 100%;
+      height: 800px;  /* Adjust the height to suit your needs */
+      border: none;
     }
   </style>
 </head>
 <body>
-<h1>Eccentric Goose Coming Soon</h1>
+<h1>Welcome to My Site</h1>
+<p>Below is our embedded Dash app:</p>
+
+<iframe
+        src="https://eccentric-goose-app-2-0.onrender.com/"
+        class="dash-container"
+        title="Embedded Dash App">
+</iframe>
 </body>
 </html>
