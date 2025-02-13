@@ -37,6 +37,7 @@ app.layout = html.Div([
             value=['show'],  # Default to showing names
             style={'margin-top': '10px'}
         )
+
     ], style={'display': 'flex', 'align-items': 'center', 'gap': '20px'}),
     dcc.Graph(id='quad-chart')
 ])

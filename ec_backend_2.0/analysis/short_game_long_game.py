@@ -47,7 +47,19 @@ latest_rnd_df = (
     .first()
 )
 
-latest_rnd_df = latest_rnd_df[latest_rnd_df['#_of_rounds'] > 25]
+p0 = latest_rnd_df['#_of_sga_rounds'].quantile(0.0)
+p25 = latest_rnd_df['#_of_sga_rounds'].quantile(0.25)
+p50 = latest_rnd_df['#_of_sga_rounds'].quantile(0.5)
+p75 = latest_rnd_df['#_of_sga_rounds'].quantile(0.75)
+p100 = latest_rnd_df['#_of_sga_rounds'].quantile(0.1)
+
+print(p0)
+print(p25)
+print(p50)
+print(p75)
+print(p100)
+
+latest_rnd_df = latest_rnd_df[latest_rnd_df['#_of_sga_rounds'] > p50]
 
 # create quad chart dg
 quad_df = latest_rnd_df[['dg_id', 'player_name', '12_mo_long_game','12_mo_short_game', '#_of_rounds', 'tour']]

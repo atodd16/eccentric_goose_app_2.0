@@ -41,7 +41,31 @@ performance_data['round_completed'] = performance_data.apply(
 performance_data['round_completed']=pd.to_datetime(performance_data['round_completed'], errors='coerce')
 
 # create new column 'advanced_sg_stats' based on whether specific sg columns have non-null values
-performance_data['advanced_sg_stats']=performance_data[['sg_ott', 'sg_app', 'sg_arg', 'sg_putt']].notna().all(axis=1).map({True:'Y', False:'N'})
+performance_data['advanced_sg_stats'] = performance_data[['sg_ott', 'sg_app', 'sg_arg', 'sg_putt']].notna().all(axis=1).map({True: 'Y', False: 'N'})
+
+# create 12 month rolling count for advanced strokes gained rounds
+adv_sg = performance_data[performance_data['advanced_sg_stats'] == 'Y'].copy()
+
+# Convert 'round_completed' to datetime using pd.to_datetime
+adv_sg['round_completed'] = pd.to_datetime(adv_sg['round_completed'])
+
+# Sort the DataFrame by 'round_completed' to ensure proper rolling calculation
+adv_sg = adv_sg.sort_values('round_completed')
+
+# Group by 'dg_id' and compute the rolling 365-day count of 'player_name'
+adv_sg = (
+    adv_sg.groupby('dg_id')
+    .apply(lambda group: group.set_index('round_completed')['player_name']
+           .rolling('365D').count(), include_groups=False)
+    .reset_index(name='#_of_sga_rounds')
+)
+
+# merges '#_of_sga_rounds' into 'performance_data'
+performance_data = performance_data.merge(
+    adv_sg[['round_completed', 'dg_id', '#_of_sga_rounds']],
+    on=['round_completed', 'dg_id'],
+    how='left'
+)
 
 # sorts 'performance_data' by 'dg_id' and 'round_completed'
 performance_data = performance_data.sort_values(by=['dg_id', 'round_completed'])
