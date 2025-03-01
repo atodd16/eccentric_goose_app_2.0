@@ -2,9 +2,246 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eccentric Goose</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Global Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            height: 100%;
+        }
+
+        /* Base font */
+        body {
+            font-family: Calibri, sans-serif;
+        }
+
+        /* Main container: using Flexbox to enable a sticky footer */
+        .main {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            background-color: lightcyan;
+        }
+
+        /* Navbar styles */
+        .navbar {
+            max-width: 1600px;
+            height: 75px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .navbar .left {
+            display: flex;
+            align-items: center;
+        }
+
+        .icon {
+            margin-right: 20px;
+            margin-top: 100px;
+        }
+
+        .icon img {
+            width: 150px;
+            height: auto;
+        }
+
+        .menu ul {
+            display: flex;
+            list-style: none;
+            align-items: center;
+        }
+
+        .menu ul li {
+            margin: 20px;
+            font-size: 25px;
+            margin-top: 120px;
+        }
+
+        .menu ul li a {
+            text-decoration: none;
+            color: #555;
+            font-weight: bold;
+            transition: color 0.4s ease-in-out;
+        }
+
+        .menu ul li a:hover {
+            color: darkcyan;
+        }
+
+        .search {
+            display: flex;
+            align-items: center;
+        }
+
+        .srch {
+            font-family: "Calibri", serif;
+            width: 200px;
+            height: 40px;
+            background: transparent;
+            border: 1px solid dimgrey;
+            border-right: none;
+            font-size: 16px;
+            padding: 10px;
+            border-top-left-radius: 5px;
+            border-bottom-left-radius: 5px;
+            margin-top: 100px;
+        }
+
+        .srch:focus {
+            outline: none;
+        }
+
+        .btn {
+            width: 100px;
+            height: 40px;
+            background: dimgrey;
+            border: 2px solid dimgrey;
+            color: white;
+            font-size: 15px;
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            margin-top: 100px;
+        }
+
+        .btn:focus {
+            outline: none;
+        }
+
+        .btn:hover {
+            background-color: darkcyan;
+        }
+
+        /* Content area */
+        .content {
+            flex: 1; /* Allows content to grow, pushing the footer down */
+            max-width: 1400px;
+            margin: 100px auto;
+            padding: 40px 20px;  /* Increased padding to create more space around text */
+            color: dimgrey;
+        }
+
+        .content h1 {
+            font-family: "Calibri", serif;
+            font-size: 50px;
+            margin-top: 0;
+            margin-bottom: 20px;  /* Extra margin below the heading */
+            letter-spacing: 2px;
+        }
+
+        .par {
+            margin: 20px 0;  /* Increased margin on top and bottom of paragraphs */
+            font-family: Calibri, sans-serif;
+            letter-spacing: 1.2px;
+            line-height: 30px;
+        }
+
+        /* Flex container for big text and right-side image */
+        .text-and-image {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .text {
+            flex: 1;
+        }
+
+        .right-image img {
+            width: 150px;
+            height: auto;
+            margin-left: 20px;
+        }
+
+        /* Footer styling */
+        .footer {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 10px 20px;
+            font-size: small;
+            font-style: italic;
+            text-align: left;
+        }
+
+        /* Responsive adjustments */
+        @media screen and (max-width: 1200px) {
+            .navbar,
+            .content {
+                padding: 0 20px;
+            }
+            .navbar {
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            .menu ul li {
+                margin-top: 0;
+            }
+        }
+    </style>
 </head>
 <body>
+<div class="main">
+    <!-- Navbar -->
+    <div class="navbar">
+        <div class="left">
+            <div class="icon">
+                <a href="index.html" style="text-decoration: none; color: inherit;">
+                    <img src="photos/eg_logo.png" alt="Eccentric Goose">
+                </a>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#">ABOUT</a></li>
+                    <li><a href="#">ANALYTICS</a></li>
+                    <li><a href="#">BETTING TOOLS</a></li>
+                    <li><a href="#">NEWSLETTER</a></li>
+                    <li><a href="#">MIKE MORONEY</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="search">
+            <input class="srch" type="search" placeholder="Type to text">
+            <a href="#">
+                <button class="btn">Search</button>
+            </a>
+        </div>
+    </div>
 
+    <!-- Content -->
+    <div class="content">
+        <div class="text-and-image">
+            <div class="text">
+                <h1>
+                    Welcome to eccentric goose<br>
+                    dot com everyone!
+                </h1>
+                <p class="par">
+                    An exploratory data and analytics platform reporting on all thing politics,
+                    economics, and the PGA tour
+                </p>
+            </div>
+            <div class="right-image">
+                <img src="photos/golf_ball.png" alt="Golf Ball">
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer: stays at bottom of page -->
+    <div class="footer">
+        Disclaimer: By using the information provided by Eccentric Goose, you acknowledge and agree that it is offered on an "as is" basis and that Eccentric Goose, including its affiliates, officers, directors, employees, and agents, shall not be held liable for any gambling or financial losses, nor for any personal, social, or economic consequences such as divorces, wars, or any other disasters that may arise from your reliance on or use of the content provided.
+    </div>
+</div>
 </body>
 </html>
