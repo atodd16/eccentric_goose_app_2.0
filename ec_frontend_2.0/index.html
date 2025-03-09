@@ -34,7 +34,7 @@
         .navbar {
             max-width: 1600px;
             margin: 0 auto;
-            padding: 1% 2%;  /* Percentage-based padding */
+            padding: 1% 2%;
             display: flex;
             align-items: center;
             justify-content: space-between;
@@ -47,11 +47,11 @@
         }
 
         .icon {
-            margin-right: 2%;  /* Percentage-based margin */
+            margin-right: 2%;
         }
 
         .icon img {
-            width: clamp(100px, 10vw, 150px);  /* Responsive image width */
+            width: clamp(100px, 10vw, 150px);
             height: auto;
         }
 
@@ -63,7 +63,7 @@
 
         .menu ul li {
             margin: 0 10px;
-            font-size: clamp(16px, 2vw, 25px);  /* Responsive text size */
+            font-size: clamp(16px, 2vw, 25px);
         }
 
         .menu ul li a {
@@ -133,7 +133,6 @@
 
         .content h1 {
             font-family: "Segoe UI Variable", "Segoe UI", system-ui, sans-serif;
-            /* Scales between 28px and 50px depending on viewport width */
             font-size: clamp(28px, 5vw, 50px);
             margin-top: 0;
             margin-bottom: 20px;
@@ -145,7 +144,6 @@
             font-family: "Segoe UI Variable", "Segoe UI", system-ui, sans-serif;
             letter-spacing: 1.2px;
             line-height: 1.5;
-            /* Responsive paragraph text size */
             font-size: clamp(14px, 2vw, 18px);
         }
 
@@ -161,7 +159,7 @@
         }
 
         .right-image img {
-            width: clamp(100px, 10vw, 150px);  /* Responsive image size */
+            width: clamp(100px, 10vw, 150px);
             height: auto;
             margin-left: 20px;
         }
@@ -192,76 +190,74 @@
 
         /* Responsive adjustments for mobile devices (e.g., iPhone 15) */
         @media screen and (max-width: 768px) {
-            /* Navbar: keep in a row */
+            /* Force navbar to fill the entire viewport */
             .navbar {
-                flex-direction: row;
-                justify-content: space-between;
-                align-items: flex-start;
-                padding: 1% 2%;
+                width: 100vw !important;
+                max-width: 100% !important;
+                margin: 0 !important;
+                padding: 1% 0 !important;
+                flex-direction: row !important;
+                justify-content: flex-start !important;
+                align-items: flex-start !important;
+                position: relative;
             }
-            /* Logo remains at top left */
+            /* Ensure the left container is flush with the edge */
             .navbar .left {
-                flex: 0 0 auto;
-                align-self: flex-start;
+                margin-left: 0 !important;
             }
             .icon {
-                margin: 0; /* Remove extra margin to keep logo flush top left */
+                margin: 0 !important;
             }
-            /* Menu: stack vertically in the top right */
+            /* Push the menu to the right */
             .menu {
-                flex: 0 0 auto;
-                display: flex;
-                flex-direction: column;
-                align-items: flex-end;
+                margin-left: auto !important;
+                padding-right: 2%;
             }
             .menu ul {
-                flex-direction: column;
-                align-items: flex-end;
-                margin: 0;
-                padding: 0;
+                flex-direction: column !important;
+                align-items: flex-end !important;
+                margin: 0 !important;
+                padding: 0 !important;
             }
             .menu ul li {
-                margin: 5px 0;
-                font-size: clamp(14px, 3vw, 18px);
+                margin: 5px 0 !important;
+                font-size: clamp(14px, 3vw, 18px) !important;
             }
             /* Hide search bar on mobile */
             .search {
-                display: none;
+                display: none !important;
             }
-
-            /* Content: center text and shrink header/paragraph sizes */
+            /* Content: center text and adjust sizes */
             .content {
-                width: 100%;
-                max-width: 100%;
-                margin: 50px auto;
-                padding: 20px;
-                text-align: center;
-                overflow-x: hidden;
+                width: 100% !important;
+                max-width: 100% !important;
+                margin: 50px auto !important;
+                padding: 20px !important;
+                text-align: center !important;
+                overflow-x: hidden !important;
             }
             .content h1 {
-                font-size: clamp(24px, 6vw, 28px);
-                word-wrap: break-word;
+                font-size: clamp(24px, 6vw, 28px) !important;
+                word-wrap: break-word !important;
             }
             .par {
-                font-size: clamp(14px, 3vw, 16px);
-                word-wrap: break-word;
+                font-size: clamp(14px, 3vw, 16px) !important;
+                word-wrap: break-word !important;
             }
-
             /* Stack text and image vertically and center the image */
             .text-and-image {
-                flex-direction: column;
-                align-items: center;
-                width: 100%;
+                flex-direction: column !important;
+                align-items: center !important;
+                width: 100% !important;
             }
             .right-image img {
-                margin: 20px auto 0;
-                display: block;
-                width: clamp(80px, 20vw, 100px);
+                margin: 20px auto 0 !important;
+                display: block !important;
+                width: clamp(80px, 20vw, 100px) !important;
             }
-
-            /* Footer: center text */
+            /* Center footer text */
             .footer {
-                text-align: center;
+                text-align: center !important;
             }
         }
     </style>
@@ -314,7 +310,7 @@
         </div>
     </div>
 
-    <!-- Footer: stays at bottom of page -->
+    <!-- Footer -->
     <div class="footer">
         Disclaimer: By using the information provided by Eccentric Goose, you acknowledge and agree that it is offered on an "as is" basis and that Eccentric Goose, including its affiliates, officers, directors, employees, and agents, shall not be held liable for any gambling or financial losses, nor for any personal, social, or economic consequences such as divorces, wars, or any other disasters that may arise from your reliance on or use of the content provided.
     </div>
