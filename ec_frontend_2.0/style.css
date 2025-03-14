@@ -104,6 +104,7 @@ body {
     color: #555;
     font-weight: bold;
     transition: background-color 0.3s ease-in-out;
+    font-size: 14px; /* Smaller dropdown text */
 }
 .dropdown-menu li a:hover {
     background-color: lightgray;
@@ -217,10 +218,11 @@ body {
         margin: 5px 0;
         font-size: clamp(14px, 3vw, 18px);
     }
-    /* Force dropdown menus on mobile to align right */
+    /* Adjust dropdown menu for mobile to pop out to the left */
     .dropdown-menu {
-        left: auto;
-        right: 0;
+        left: 0;
+        right: auto;
+        transform: translateX(-100%);
     }
     /* Hide search bar */
     .search {
