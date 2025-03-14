@@ -3,18 +3,261 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Performance Quad</title>
-    <link rel="stylesheet" href="styles.css"> <!-- if you have a CSS file -->
+    <title>Eccentric Goose</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Global Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            height: 100%;
+        }
+
+        /* Base font */
+        body {
+            font-family: "Segoe UI Variable", "Segoe UI", system-ui, sans-serif;
+        }
+
+        /* Main container */
+        .main {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            background-color: lightcyan;
+        }
+
+        /* Navbar styles */
+        .navbar {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 1% 2%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .navbar .left {
+            display: flex;
+            align-items: center;
+        }
+
+        .icon img {
+            width: clamp(100px, 10vw, 150px);
+            height: auto;
+        }
+
+        .menu ul {
+            display: flex;
+            list-style: none;
+            align-items: center;
+        }
+
+        .menu ul li {
+            margin: 0 15px;
+            font-size: clamp(16px, 2vw, 25px);
+            position: relative;
+        }
+
+        .menu ul li a {
+            text-decoration: none;
+            color: #555;
+            font-weight: bold;
+            transition: color 0.4s ease-in-out;
+        }
+
+        .menu ul li a:hover {
+            color: darkcyan;
+        }
+
+        /* Dropdown Styling */
+        .dropdown {
+            position: relative;
+        }
+
+        /* 👇 This ensures the dropdown is completely hidden */
+        .dropdown-menu {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background: white;
+            list-style: none;
+            padding: 10px;
+            margin: 0;
+            border-radius: 5px;
+            min-width: 200px;
+            border: 1px solid #ccc;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            z-index: 1000;
+            visibility: hidden; /* Extra safeguard */
+            opacity: 0; /* Extra safeguard */
+            transition: opacity 0.2s ease-in-out, visibility 0.2s ease-in-out;
+        }
+
+        /* 👇 Dropdown now only appears on hover */
+        .dropdown:hover .dropdown-menu {
+            display: block;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .dropdown-menu li {
+            padding: 8px 12px;
+        }
+
+        .dropdown-menu li a {
+            display: block;
+            text-decoration: none;
+            color: #555;
+            font-weight: bold;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .dropdown-menu li a:hover {
+            background-color: lightgray;
+        }
+
+        .search {
+            display: flex;
+            align-items: center;
+        }
+
+        .srch {
+            font-family: "Segoe UI Variable", "Segoe UI", system-ui, sans-serif;
+            width: 200px;
+            height: 40px;
+            border: 1px solid dimgrey;
+            border-right: none;
+            font-size: 16px;
+            padding: 10px;
+            border-top-left-radius: 5px;
+            border-bottom-left-radius: 5px;
+        }
+
+        .btn {
+            width: 100px;
+            height: 40px;
+            background: dimgrey;
+            border: 2px solid dimgrey;
+            color: white;
+            font-size: 15px;
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: darkcyan;
+        }
+
+        /* Content area */
+        .content {
+            flex: 1;
+            max-width: 1400px;
+            margin: 100px auto;
+            padding: 40px 20px;
+            color: dimgrey;
+        }
+
+        .content h1 {
+            font-size: clamp(28px, 5vw, 50px);
+            margin-bottom: 20px;
+            letter-spacing: 2px;
+        }
+
+        .par {
+            margin: 20px 0;
+            letter-spacing: 1.2px;
+            line-height: 1.5;
+            font-size: clamp(14px, 2vw, 18px);
+        }
+
+        /* Footer */
+        .footer {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 10px 20px;
+            font-size: clamp(10px, 1.5vw, 14px);
+            font-style: italic;
+            text-align: left;
+        }
+
+        /* Responsive adjustments */
+        @media screen and (max-width: 768px) {
+            .navbar {
+                flex-direction: row;
+                justify-content: flex-start;
+                align-items: flex-start;
+            }
+
+            .menu {
+                margin-left: auto;
+                padding-right: 2%;
+            }
+
+            .menu ul {
+                flex-direction: column;
+                align-items: flex-end;
+            }
+
+            .menu ul li {
+                margin: 5px 0;
+                font-size: clamp(14px, 3vw, 18px);
+            }
+
+            .search {
+                display: none;
+            }
+        }
+    </style>
 </head>
 <body>
-<header>
-    <h1>Performance Quad</h1>
-</header>
-<main>
-    <p>Content for the Performance Quad page goes here.</p>
-</main>
-<footer>
-    <p>Footer content here</p>
-</footer>
+<div class="main">
+    <!-- Navbar -->
+    <div class="navbar">
+        <div class="left">
+            <div class="icon">
+                <a href="index.html">
+                    <img src="photos/eg_logo.png" alt="Eccentric Goose">
+                </a>
+            </div>
+        </div>
+        <div class="menu">
+            <ul>
+                <li><a href="#">ABOUT</a></li>
+                <li class="dropdown">
+                    <a href="#">ANALYTICAL TOOLS</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="performance_quad.html">Performance Quad</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">THE MODEL</a></li>
+                <li><a href="#">NEWSLETTER</a></li>
+                <li><a href="#">MIKE MORONEY</a></li>
+            </ul>
+        </div>
+        <div class="search">
+            <input class="srch" type="search" placeholder="Type to text">
+            <button class="btn">Search</button>
+        </div>
+    </div>
+
+    <!-- Quad Chart -->
+    <div class="quad_chart">
+        <iframe src="https://eccentric-goose-app-2-0.onrender.com"
+                style="width:100%; height:500px; border:none;"
+                title="Performance Chart"></iframe>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        Disclaimer: By using the information provided by Eccentric Goose, you acknowledge and agree that it is offered on an "as is" basis and that Eccentric Goose, including its affiliates, officers, directors, employees, and agents, shall not be held liable for any gambling or financial losses, nor for any personal, social, or economic consequences such as divorces, wars, or any other disasters that may arise from your reliance on or use of the content provided.
+    </div>
+</div>
 </body>
 </html>

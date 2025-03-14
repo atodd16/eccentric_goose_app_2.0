@@ -242,3 +242,35 @@ body {
         text-align: center;
     }
 }
+
+/* Embedded chart container */
+.quad_chart {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Embedded chart iframe */
+.quad_chart iframe {
+    display: block;
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+/* Desktop-only adjustment: restrict width to match other components */
+@media screen and (min-width: 769px) {
+    .quad_chart {
+        max-width: 1400px;
+    }
+}
+
+/* Mobile adjustments for the embedded chart */
+@media screen and (max-width: 768px) {
+    .quad_chart {
+        padding: 10px;
+    }
+    .quad_chart iframe {
+        height: 300px;
+    }
+}
