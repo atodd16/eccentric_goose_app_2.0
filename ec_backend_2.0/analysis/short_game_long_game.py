@@ -51,7 +51,7 @@ p0 = latest_rnd_df['#_of_sga_rounds'].quantile(0.0)
 p25 = latest_rnd_df['#_of_sga_rounds'].quantile(0.25)
 p50 = latest_rnd_df['#_of_sga_rounds'].quantile(0.5)
 p75 = latest_rnd_df['#_of_sga_rounds'].quantile(0.75)
-p100 = latest_rnd_df['#_of_sga_rounds'].quantile(0.1)
+p100 = latest_rnd_df['#_of_sga_rounds'].quantile(1)
 
 print(p0)
 print(p25)
